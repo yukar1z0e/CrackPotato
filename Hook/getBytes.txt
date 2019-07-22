@@ -1,0 +1,475 @@
+first entering selector
+java
+Tracing java.lang.String.getBytes [4 overload(s)]
+
+*** entered java.lang.String.getBytes
+
+arg[0]: UTF-8
+
+retval: [object Object]
+
+trans object: [119,104,105,116,101] // white
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+arg[0]: UTF-8
+
+retval: [object Object]
+
+trans object: [104,97,116] //hat
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+arg[0]: UTF-8
+
+retval: [object Object]
+
+trans object: [119,104,105,116,101,104,97,116] //white hat
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+arg[0]: UTF-8
+
+*** entered java.lang.String.getBytes
+
+arg[0]: UTF-8
+
+retval: [object Object]
+
+trans object: [97,97,97,97,98,98,98,98,99,99,99,99] // aaaabbbbcccc
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+arg[0]: UTF-8
+
+retval: [object Object]
+
+trans object: [116,101,115,116,69,110,103,108,105,115,104] //testEnglish
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+arg[0]: UTF-8
+
+retval: [object Object]
+
+trans object: [56,54,49,55,51,52,52,48,55,55,52,55,54] //8617344077476
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+retval: [object Object]
+
+trans object: [119]
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+retval: [object Object]
+
+trans object: [104]
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+retval: [object Object]
+
+trans object: [105]
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+retval: [object Object]
+
+trans object: [116]
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+retval: [object Object]
+
+trans object: [101]
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+retval: [object Object]
+
+trans object: [119]
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+retval: [object Object]
+
+trans object: [56,54,49,53,53,55,56,54,48,52,49,56,55]
+
+*** exiting java.lang.String.getBytes
+
+retval: [object Object]
+
+trans object: [104]
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+arg[0]: UTF-8
+
+retval: [object Object]
+
+trans object: [119,104,105,116,101]
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+arg[0]: UTF-8
+
+retval: [object Object]
+
+trans object: [105]
+
+*** exiting java.lang.String.getBytes
+
+retval: [object Object]
+
+trans object: [104,97,116]
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+arg[0]: UTF-8
+
+retval: [object Object]
+
+trans object: [119,104,105,116,101,104,97,116]
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+arg[0]: UTF-8
+
+*** entered java.lang.String.getBytes
+
+retval: [object Object]
+
+trans object: [116]
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+retval: [object Object]
+
+trans object: [101]
+
+*** exiting java.lang.String.getBytes
+
+retval: [object Object]
+
+trans object: [56,54,49,53,53,55,56,54,48,52,49,56,55]
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+arg[0]: UTF-8
+
+retval: [object Object]
+
+trans object: [97,97,97,97,98,98,98,98,99,99,99,99]
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+arg[0]: UTF-8
+
+retval: [object Object]
+
+trans object: [116,101,115,116,69,110,103,108,105,115,104]
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+arg[0]: UTF-8
+
+retval: [object Object]
+
+trans object: [56,54,49,55,51,52,52,48,55,55,52,55,54]
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+arg[0]: UTF-8
+
+retval: [object Object]
+
+trans object: [97,97,97,97,98,98,98,98,99,99,99,99]
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+arg[0]: UTF-8
+
+retval: [object Object]
+
+trans object: [116,101,115,116,69,110,103,108,105,115,104]
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+arg[0]: UTF-8
+
+retval: [object Object]
+
+trans object: [56,54,49,55,51,52,52,48,55,55,52,55,54]
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+arg[0]: UTF-8
+
+retval: [object Object]
+
+trans object: [49]
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+arg[0]: UTF-8
+
+retval: [object Object]
+
+trans object: []
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+arg[0]: UTF-8
+
+retval: [object Object]
+
+trans object: [49]
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+arg[0]: UTF-8
+
+retval: [object Object]
+
+trans object: []
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+arg[0]: UTF-8
+
+retval: [object Object]
+
+trans object: [119,104,105,116,101]
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+arg[0]: UTF-8
+
+retval: [object Object]
+
+trans object: [104,97,116]
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+arg[0]: UTF-8
+
+*** entered java.lang.String.getBytes
+
+arg[0]: UTF-8
+
+retval: [object Object]
+
+trans object: [97,97,97,97,98,98,98,98,99,99,99,99]
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+arg[0]: UTF-8
+
+retval: [object Object]
+
+trans object: [116,101,115,116,69,110,103,108,105,115,104]
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+arg[0]: UTF-8
+
+retval: [object Object]
+
+trans object: [119,104,105,116,101,104,97,116]
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+arg[0]: UTF-8
+
+retval: [object Object]
+
+trans object: [56,54,49,53,53,55,56,54,48,52,49,56,55]
+
+*** exiting java.lang.String.getBytes
+
+retval: [object Object]
+
+trans object: [56,54,49,55,51,52,52,48,55,55,52,55,54]
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+arg[0]: UTF-8
+
+retval: [object Object]
+
+trans object: [119,104,105,116,101]
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+arg[0]: UTF-8
+
+retval: [object Object]
+
+trans object: [104,97,116]
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+arg[0]: UTF-8
+
+retval: [object Object]
+
+trans object: [119,104,105,116,101,104,97,116]
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+arg[0]: UTF-8
+
+retval: [object Object]
+
+trans object: [56,54,49,53,53,55,56,54,48,52,49,56,55]
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+arg[0]: UTF-8
+
+retval: [object Object]
+
+trans object: [97,97,97,97,98,98,98,98,99,99,99,99]
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+arg[0]: UTF-8
+
+retval: [object Object]
+
+trans object: [116,101,115,116,69,110,103,108,105,115,104]
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+arg[0]: UTF-8
+
+retval: [object Object]
+
+trans object: [56,54,49,55,51,52,52,48,55,55,52,55,54]
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+arg[0]: UTF-8
+
+retval: [object Object]
+
+trans object: [97,97,97,97,98,98,98,98,99,99,99,99]
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+arg[0]: UTF-8
+
+retval: [object Object]
+
+trans object: [116,101,115,116,69,110,103,108,105,115,104]
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+arg[0]: UTF-8
+
+retval: [object Object]
+
+trans object: [56,54,49,55,51,52,52,48,55,55,52,55,54]
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes
+
+arg[0]: UTF-8
+
+retval: [object Object]
+
+trans object: [50]
+
+*** exiting java.lang.String.getBytes
+
+*** entered java.lang.String.getBytes

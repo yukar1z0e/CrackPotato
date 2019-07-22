@@ -1,0 +1,165 @@
+first entering selector
+java
+found is true
+before:org.potato.messenger.okhttp.HttpsUtils$SSLParams
+after:org.potato.messenger.okhttp.HttpsUtils$SSLParams
+entering traceClass
+entering pasedMethods
+entering traceMethods
+found is true
+before:org.potato.messenger.okhttp.builder.HasParamsable
+after:org.potato.messenger.okhttp.builder.HasParamsable
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.potato.messenger.okhttp.builder.HasParamsable.addParamas [1 overload(s)]
+Tracing org.potato.messenger.okhttp.builder.HasParamsable.params [1 overload(s)]
+found is true
+before:org.potato.messenger.okhttp.builder.HeadBuilder
+after:org.potato.messenger.okhttp.builder.HeadBuilder
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.potato.messenger.okhttp.builder.HeadBuilder.build [1 overload(s)]
+found is true
+before:org.potato.messenger.okhttp.utils.Platform$Android
+after:org.potato.messenger.okhttp.utils.Platform$Android
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.potato.messenger.okhttp.utils.Platform$Android.defaultCallbackExecutor [1 overload(s)]
+found is true
+before:org.potato.messenger.okhttp.builder.PostFormBuilder
+after:org.potato.messenger.okhttp.builder.PostFormBuilder
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.potato.messenger.okhttp.builder.PostFormBuilder.addFile [1 overload(s)]
+Tracing org.potato.messenger.okhttp.builder.PostFormBuilder.addParamas [2 overload(s)]
+Tracing org.potato.messenger.okhttp.builder.PostFormBuilder.build [1 overload(s)]
+Tracing org.potato.messenger.okhttp.builder.PostFormBuilder.files [1 overload(s)]
+Tracing org.potato.messenger.okhttp.builder.PostFormBuilder.params [2 overload(s)]
+found is true
+before:org.potato.messenger.okhttp.HttpsUtils$1
+after:org.potato.messenger.okhttp.HttpsUtils$1
+entering traceClass
+entering pasedMethods
+entering traceMethods
+found is true
+before:org.potato.messenger.okhttp.builder.GetBuilder
+after:org.potato.messenger.okhttp.builder.GetBuilder
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.potato.messenger.okhttp.builder.GetBuilder.addParamas [2 overload(s)]
+Tracing org.potato.messenger.okhttp.builder.GetBuilder.appendParams [1 overload(s)]
+Tracing org.potato.messenger.okhttp.builder.GetBuilder.build [1 overload(s)]
+Tracing org.potato.messenger.okhttp.builder.GetBuilder.params [2 overload(s)]
+found is true
+before:org.potato.messenger.okhttp.builder.PostFileBuilder
+after:org.potato.messenger.okhttp.builder.PostFileBuilder
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.potato.messenger.okhttp.builder.PostFileBuilder.build [1 overload(s)]
+Tracing org.potato.messenger.okhttp.builder.PostFileBuilder.file [1 overload(s)]
+Tracing org.potato.messenger.okhttp.builder.PostFileBuilder.mediaType [1 overload(s)]
+found is true
+before:org.potato.messenger.okhttp.HttpsUtils
+after:org.potato.messenger.okhttp.HttpsUtils
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.potato.messenger.okhttp.HttpsUtils.access$100 [1 overload(s)]
+Tracing org.potato.messenger.okhttp.HttpsUtils.chooseTrustManager [1 overload(s)]
+Tracing org.potato.messenger.okhttp.HttpsUtils.getSslSocketFactory [1 overload(s)]
+Tracing org.potato.messenger.okhttp.HttpsUtils.prepareKeyManager [1 overload(s)]
+Tracing org.potato.messenger.okhttp.HttpsUtils.prepareTrustManager [1 overload(s)]
+found is true
+before:org.potato.messenger.okhttp.HttpsUtils$MyTrustManager
+after:org.potato.messenger.okhttp.HttpsUtils$MyTrustManager
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.potato.messenger.okhttp.HttpsUtils$MyTrustManager.checkClientTrusted [1 overload(s)]
+Tracing org.potato.messenger.okhttp.HttpsUtils$MyTrustManager.checkServerTrusted [1 overload(s)]
+Tracing org.potato.messenger.okhttp.HttpsUtils$MyTrustManager.getAcceptedIssuers [1 overload(s)]
+found is true
+before:org.potato.messenger.okhttp.HttpsUtils$UnSafeTrustManager
+after:org.potato.messenger.okhttp.HttpsUtils$UnSafeTrustManager
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.potato.messenger.okhttp.HttpsUtils$UnSafeTrustManager.checkClientTrusted [1 overload(s)]
+Tracing org.potato.messenger.okhttp.HttpsUtils$UnSafeTrustManager.checkServerTrusted [1 overload(s)]
+Tracing org.potato.messenger.okhttp.HttpsUtils$UnSafeTrustManager.getAcceptedIssuers [1 overload(s)]
+found is true
+before:org.potato.messenger.okhttp.builder.OkHttpRequestBuilder
+after:org.potato.messenger.okhttp.builder.OkHttpRequestBuilder
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.potato.messenger.okhttp.builder.OkHttpRequestBuilder.addHeader [1 overload(s)]
+Tracing org.potato.messenger.okhttp.builder.OkHttpRequestBuilder.build [1 overload(s)]
+Tracing org.potato.messenger.okhttp.builder.OkHttpRequestBuilder.headers [1 overload(s)]
+Tracing org.potato.messenger.okhttp.builder.OkHttpRequestBuilder.id [1 overload(s)]
+Tracing org.potato.messenger.okhttp.builder.OkHttpRequestBuilder.tag [1 overload(s)]
+Tracing org.potato.messenger.okhttp.builder.OkHttpRequestBuilder.url [1 overload(s)]
+found is true
+before:org.potato.messenger.okhttp.OkHttpUtils$1
+after:org.potato.messenger.okhttp.OkHttpUtils$1
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.potato.messenger.okhttp.OkHttpUtils$1.onFailure [1 overload(s)]
+Tracing org.potato.messenger.okhttp.OkHttpUtils$1.onResponse [1 overload(s)]
+found is true
+before:org.potato.messenger.okhttp.OkHttpUtils$2
+after:org.potato.messenger.okhttp.OkHttpUtils$2
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.potato.messenger.okhttp.OkHttpUtils$2.run [1 overload(s)]
+found is true
+before:org.potato.messenger.okhttp.OkHttpUtils$3
+after:org.potato.messenger.okhttp.OkHttpUtils$3
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.potato.messenger.okhttp.OkHttpUtils$3.run [1 overload(s)]
+found is true
+before:org.potato.messenger.okhttp.request.OkHttpRequest
+after:org.potato.messenger.okhttp.request.OkHttpRequest
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.potato.messenger.okhttp.request.OkHttpRequest.appendHeaders [1 overload(s)]
+Tracing org.potato.messenger.okhttp.request.OkHttpRequest.build [1 overload(s)]
+Tracing org.potato.messenger.okhttp.request.OkHttpRequest.buildRequest [1 overload(s)]
+Tracing org.potato.messenger.okhttp.request.OkHttpRequest.buildRequestBody [1 overload(s)]
+Tracing org.potato.messenger.okhttp.request.OkHttpRequest.generateRequest [1 overload(s)]
+Tracing org.potato.messenger.okhttp.request.OkHttpRequest.getId [1 overload(s)]
+Tracing org.potato.messenger.okhttp.request.OkHttpRequest.wrapRequestBody [1 overload(s)]
+Tracing org.potato.messenger.okhttp.request.OkHttpRequest.initBuilder [1 overload(s)]
+found is true
+before:org.potato.messenger.okhttp.utils.Platform$Android$MainThreadExecutor
+after:org.potato.messenger.okhttp.utils.Platform$Android$MainThreadExecutor
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.potato.messenger.okhttp.utils.Platform$Android$MainThreadExecutor.execute [1 overload(s)]
+found is true
+before:org.potato.messenger.okhttp.callback.Callback
+after:org.potato.messenger.okhttp.callback.Callback
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.potato.messenger.okhttp.callback.Callback.inProgress [1 overload(s)]
+Tracing org.potato.messenger.okhttp.callback.Callback.onAfter [1 overload(s)]
+Tracing org.potato.messenger.okhttp.callback.Callback.onBefore [1 overload(s)]
+Tracing org.potato.messenger.okhttp.callback.Callback.onError [1 overload(s)]
+Tracing org.potato.messenger.okhttp.callback.Callback.onResponse [1 overload(s)]
+Tracing org.potato.messenger.okhttp.callback.Callback.parseNetworkResponse [1 overload(s)]
+Tracing org.potato.messenger.okhttp.callback.Callback.validateReponse [1 overload(s)]
+found is true
+before:org.potato.messenger.okhttp.builder.OtherRequestBuilder

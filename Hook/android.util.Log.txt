@@ -1,0 +1,88 @@
+[Remote::org.potato.messenger]-> first entering selector
+java
+found is true
+before:android.util.LogPrinter
+after:android.util.LogPrinter
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing android.util.LogPrinter.println [1 overload(s)]
+found is true
+before:android.util.Log$1
+after:android.util.Log$1
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing android.util.Log$1.onTerribleFailure [1 overload(s)]
+found is true
+before:android.util.Log$TerribleFailureHandler
+after:android.util.Log$TerribleFailureHandler
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing android.util.Log$TerribleFailureHandler.onTerribleFailure [1 overload(s)]
+found is true
+before:android.util.Log
+after:android.util.Log
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing android.util.Log.d [2 overload(s)]
+Tracing android.util.Log.e [2 overload(s)]
+Tracing android.util.Log.getStackTraceString [1 overload(s)]
+Tracing android.util.Log.i [2 overload(s)]
+Tracing android.util.Log.isLoggable [1 overload(s)]
+Tracing android.util.Log.println [1 overload(s)]
+Tracing android.util.Log.println_native [1 overload(s)]
+Tracing android.util.Log.setWtfHandler [1 overload(s)]
+Tracing android.util.Log.v [2 overload(s)]
+Tracing android.util.Log.w [3 overload(s)]
+Tracing android.util.Log.wtf [4 overload(s)]
+Tracing android.util.Log.wtfQuiet [1 overload(s)]
+Tracing android.util.Log.wtfStack [1 overload(s)]
+
+*** entered android.util.Log.isLoggable
+
+arg[0]: FA
+arg[1]: 2
+
+retval: false
+
+*** exiting android.util.Log.isLoggable
+
+[Remote::org.potato.messenger]->
+*** entered android.util.Log.isLoggable
+
+arg[0]: FA
+arg[1]: 5
+
+retval: true
+
+*** exiting android.util.Log.isLoggable
+
+*** entered android.util.Log.println
+
+arg[0]: 5
+arg[1]: FA
+arg[2]: Tasks have been queued for a long time
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 5
+arg[2]: FA
+arg[3]: Tasks have been queued for a long time
+
+retval: 43
+
+*** exiting android.util.Log.println_native
+
+retval: 43
+
+*** exiting android.util.Log.println
+
+
+[Remote::org.potato.messenger]-> exit
+exit
+
+Thank you for using Frida!

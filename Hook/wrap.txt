@@ -1,0 +1,345 @@
+first entering selector
+java
+Tracing org.potato.tgnet.NativeByteBuffer.wrap [1 overload(s)]
+
+*** entered org.potato.tgnet.NativeByteBuffer.wrap
+
+arg[0]: -1275096320
+Transfer Object to JSON
+arg[0]: "-1275096320"
+
+retval: org.potato.tgnet.NativeByteBuffer@1fc1a6bb
+
+trans object: {"$handle":"0x20b69e","$weakRef":16}
+
+*** exiting org.potato.tgnet.NativeByteBuffer.wrap
+
+*** entered org.potato.tgnet.NativeByteBuffer.wrap
+
+arg[0]: -1275096256
+Transfer Object to JSON
+arg[0]: "-1275096256"
+
+retval: org.potato.tgnet.NativeByteBuffer@1fc1a6bb
+
+trans object: {"$handle":"0xb68e","$weakRef":17}
+
+*** exiting org.potato.tgnet.NativeByteBuffer.wrap
+
+*** entered org.potato.tgnet.NativeByteBuffer.wrap
+
+arg[0]: -1275096224
+Transfer Object to JSON
+arg[0]: "-1275096224"
+
+retval: org.potato.tgnet.NativeByteBuffer@1fc1a6bb
+
+trans object: {"$handle":"0x20b68a","$weakRef":18}
+
+*** exiting org.potato.tgnet.NativeByteBuffer.wrap
+
+*** entered org.potato.tgnet.NativeByteBuffer.wrap
+
+arg[0]: -1275096192
+Transfer Object to JSON
+arg[0]: "-1275096192"
+
+retval: org.potato.tgnet.NativeByteBuffer@1fc1a6bb
+
+trans object: {"$handle":"0x20b686","$weakRef":19}
+
+*** exiting org.potato.tgnet.NativeByteBuffer.wrap
+
+*** entered org.potato.tgnet.NativeByteBuffer.wrap
+
+arg[0]: -1275096288
+Transfer Object to JSON
+arg[0]: "-1275096288"
+
+retval: org.potato.tgnet.NativeByteBuffer@1fc1a6bb
+
+trans object: {"$handle":"0x10b682","$weakRef":20}
+
+*** exiting org.potato.tgnet.NativeByteBuffer.wrap
+
+*** entered org.potato.tgnet.NativeByteBuffer.wrap
+
+arg[0]: -1275096320
+Transfer Object to JSON
+arg[0]: "-1275096320"
+
+retval: org.potato.tgnet.NativeByteBuffer@1fc1a6bb
+
+trans object: {"$handle":"0xb67a","$weakRef":21}
+
+*** exiting org.potato.tgnet.NativeByteBuffer.wrap
+
+*** entered org.potato.tgnet.NativeByteBuffer.wrap
+
+arg[0]: -1275096256
+Transfer Object to JSON
+arg[0]: "-1275096256"
+
+retval: org.potato.tgnet.NativeByteBuffer@1fc1a6bb
+
+trans object: {"$handle":"0xb66a","$weakRef":22}
+
+*** exiting org.potato.tgnet.NativeByteBuffer.wrap
+
+*** entered org.potato.tgnet.NativeByteBuffer.wrap
+
+arg[0]: -1275096224
+Transfer Object to JSON
+arg[0]: "-1275096224"
+
+retval: org.potato.tgnet.NativeByteBuffer@1fc1a6bb
+
+trans object: {"$handle":"0xb65a","$weakRef":23}
+
+*** exiting org.potato.tgnet.NativeByteBuffer.wrap
+
+*** entered org.potato.tgnet.NativeByteBuffer.wrap
+
+arg[0]: -1275096192
+Transfer Object to JSON
+arg[0]: "-1275096192"
+
+retval: org.potato.tgnet.NativeByteBuffer@1fc1a6bb
+
+trans object: {"$handle":"0xb656","$weakRef":24}
+
+*** exiting org.potato.tgnet.NativeByteBuffer.wrap
+
+*** entered org.potato.tgnet.NativeByteBuffer.wrap
+
+arg[0]: -1275096288
+Transfer Object to JSON
+arg[0]: "-1275096288"
+
+retval: org.potato.tgnet.NativeByteBuffer@1fc1a6bb
+
+trans object: {"$handle":"0xb652","$weakRef":25}
+
+*** exiting org.potato.tgnet.NativeByteBuffer.wrap
+
+*** entered org.potato.tgnet.NativeByteBuffer.wrap
+
+arg[0]: -1275096320
+Transfer Object to JSON
+arg[0]: "-1275096320"
+
+retval: org.potato.tgnet.NativeByteBuffer@1fc1a6bb
+
+trans object: {"$handle":"0xb64a","$weakRef":26}
+
+*** exiting org.potato.tgnet.NativeByteBuffer.wrap
+
+*** entered org.potato.tgnet.NativeByteBuffer.wrap
+
+arg[0]: -1275096256
+Transfer Object to JSON
+arg[0]: "-1275096256"
+
+retval: org.potato.tgnet.NativeByteBuffer@1fc1a6bb
+
+trans object: {"$handle":"0xb646","$weakRef":27}
+
+*** exiting org.potato.tgnet.NativeByteBuffer.wrap
+
+*** entered org.potato.tgnet.NativeByteBuffer.wrap
+
+arg[0]: -1275096224
+Transfer Object to JSON
+arg[0]: "-1275096224"
+
+retval: org.potato.tgnet.NativeByteBuffer@1fc1a6bb
+
+trans object: {"$handle":"0xb63e","$weakRef":28}
+
+*** exiting org.potato.tgnet.NativeByteBuffer.wrap
+
+*** entered org.potato.tgnet.NativeByteBuffer.wrap
+
+arg[0]: -1275096192
+Transfer Object to JSON
+arg[0]: "-1275096192"
+
+retval: org.potato.tgnet.NativeByteBuffer@1fc1a6bb
+
+trans object: {"$handle":"0xb636","$weakRef":29}
+
+*** exiting org.potato.tgnet.NativeByteBuffer.wrap
+
+*** entered org.potato.tgnet.NativeByteBuffer.wrap
+
+arg[0]: -1275096288
+Transfer Object to JSON
+arg[0]: "-1275096288"
+
+retval: org.potato.tgnet.NativeByteBuffer@1fc1a6bb
+
+trans object: {"$handle":"0xb632","$weakRef":30}
+
+*** exiting org.potato.tgnet.NativeByteBuffer.wrap
+
+*** entered org.potato.tgnet.NativeByteBuffer.wrap
+
+arg[0]: -1275096320
+Transfer Object to JSON
+arg[0]: "-1275096320"
+
+retval: org.potato.tgnet.NativeByteBuffer@1fc1a6bb
+
+trans object: {"$handle":"0xb62a","$weakRef":31}
+
+*** exiting org.potato.tgnet.NativeByteBuffer.wrap
+
+*** entered org.potato.tgnet.NativeByteBuffer.wrap
+
+arg[0]: -1275096256
+Transfer Object to JSON
+arg[0]: "-1275096256"
+
+retval: org.potato.tgnet.NativeByteBuffer@1fc1a6bb
+
+trans object: {"$handle":"0xb626","$weakRef":32}
+
+*** exiting org.potato.tgnet.NativeByteBuffer.wrap
+
+*** entered org.potato.tgnet.NativeByteBuffer.wrap
+
+arg[0]: -1275096224
+Transfer Object to JSON
+arg[0]: "-1275096224"
+
+retval: org.potato.tgnet.NativeByteBuffer@1fc1a6bb
+
+trans object: {"$handle":"0xb622","$weakRef":33}
+
+*** exiting org.potato.tgnet.NativeByteBuffer.wrap
+
+*** entered org.potato.tgnet.NativeByteBuffer.wrap
+
+arg[0]: -1275096192
+Transfer Object to JSON
+arg[0]: "-1275096192"
+
+retval: org.potato.tgnet.NativeByteBuffer@1fc1a6bb
+
+trans object: {"$handle":"0xb61e","$weakRef":34}
+
+*** exiting org.potato.tgnet.NativeByteBuffer.wrap
+
+*** entered org.potato.tgnet.NativeByteBuffer.wrap
+
+arg[0]: -1275096288
+Transfer Object to JSON
+arg[0]: "-1275096288"
+
+retval: org.potato.tgnet.NativeByteBuffer@1fc1a6bb
+
+trans object: {"$handle":"0xb61a","$weakRef":35}
+
+*** exiting org.potato.tgnet.NativeByteBuffer.wrap
+
+*** entered org.potato.tgnet.NativeByteBuffer.wrap
+
+arg[0]: -1275096320
+Transfer Object to JSON
+arg[0]: "-1275096320"
+
+retval: org.potato.tgnet.NativeByteBuffer@1fc1a6bb
+
+trans object: {"$handle":"0xb616","$weakRef":36}
+
+*** exiting org.potato.tgnet.NativeByteBuffer.wrap
+
+*** entered org.potato.tgnet.NativeByteBuffer.wrap
+
+arg[0]: -1275096256
+Transfer Object to JSON
+arg[0]: "-1275096256"
+
+retval: org.potato.tgnet.NativeByteBuffer@1fc1a6bb
+
+trans object: {"$handle":"0xb612","$weakRef":37}
+
+*** exiting org.potato.tgnet.NativeByteBuffer.wrap
+
+*** entered org.potato.tgnet.NativeByteBuffer.wrap
+
+arg[0]: -1275096192
+Transfer Object to JSON
+arg[0]: "-1275096192"
+
+retval: org.potato.tgnet.NativeByteBuffer@1fc1a6bb
+
+trans object: {"$handle":"0xb5ba","$weakRef":38}
+
+*** exiting org.potato.tgnet.NativeByteBuffer.wrap
+
+*** entered org.potato.tgnet.NativeByteBuffer.wrap
+
+arg[0]: -1275096288
+Transfer Object to JSON
+arg[0]: "-1275096288"
+
+retval: org.potato.tgnet.NativeByteBuffer@1fc1a6bb
+
+trans object: {"$handle":"0xb5b6","$weakRef":39}
+
+*** exiting org.potato.tgnet.NativeByteBuffer.wrap
+
+*** entered org.potato.tgnet.NativeByteBuffer.wrap
+
+arg[0]: -1275096320
+Transfer Object to JSON
+arg[0]: "-1275096320"
+
+retval: org.potato.tgnet.NativeByteBuffer@1fc1a6bb
+
+trans object: {"$handle":"0xb5b2","$weakRef":40}
+
+*** exiting org.potato.tgnet.NativeByteBuffer.wrap
+
+*** entered org.potato.tgnet.NativeByteBuffer.wrap
+
+arg[0]: -1275096256
+Transfer Object to JSON
+arg[0]: "-1275096256"
+
+retval: org.potato.tgnet.NativeByteBuffer@1fc1a6bb
+
+trans object: {"$handle":"0xb5ae","$weakRef":41}
+
+*** exiting org.potato.tgnet.NativeByteBuffer.wrap
+
+*** entered org.potato.tgnet.NativeByteBuffer.wrap
+
+arg[0]: -1275096224
+Transfer Object to JSON
+arg[0]: "-1275096224"
+
+retval: org.potato.tgnet.NativeByteBuffer@1fc1a6bb
+
+trans object: {"$handle":"0x10b5ce","$weakRef":42}
+
+*** exiting org.potato.tgnet.NativeByteBuffer.wrap
+
+*** entered org.potato.tgnet.NativeByteBuffer.wrap
+
+arg[0]: -1275096192
+Transfer Object to JSON
+arg[0]: "-1275096192"
+
+retval: org.potato.tgnet.NativeByteBuffer@1fc1a6bb
+
+trans object: {"$handle":"0xb5aa","$weakRef":43}
+
+*** exiting org.potato.tgnet.NativeByteBuffer.wrap
+
+*** entered org.potato.tgnet.NativeByteBuffer.wrap
+
+arg[0]: -1275096288
+Transfer Object to JSON
+arg[0]: "-1275096288"

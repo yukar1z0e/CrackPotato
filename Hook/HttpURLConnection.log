@@ -1,0 +1,3374 @@
+first entering selector
+java
+found is true
+before:java.net.HttpURLConnection
+after:java.net.HttpURLConnection
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing java.net.HttpURLConnection.disconnect [1 overload(s)]
+Tracing java.net.HttpURLConnection.getContentEncoding [1 overload(s)]
+Tracing java.net.HttpURLConnection.getErrorStream [1 overload(s)]
+Tracing java.net.HttpURLConnection.getHeaderFieldDate [1 overload(s)]
+Tracing java.net.HttpURLConnection.getInstanceFollowRedirects [1 overload(s)]
+Tracing java.net.HttpURLConnection.getPermission [1 overload(s)]
+Tracing java.net.HttpURLConnection.getRequestMethod [1 overload(s)]
+Tracing java.net.HttpURLConnection.getResponseCode [1 overload(s)]
+Tracing java.net.HttpURLConnection.getResponseMessage [1 overload(s)]
+Tracing java.net.HttpURLConnection.setChunkedStreamingMode [1 overload(s)]
+Tracing java.net.HttpURLConnection.setFixedLengthStreamingMode [2 overload(s)]
+Tracing java.net.HttpURLConnection.setInstanceFollowRedirects [1 overload(s)]
+Tracing java.net.HttpURLConnection.setRequestMethod [1 overload(s)]
+Tracing java.net.HttpURLConnection.usingProxy [1 overload(s)]
+Tracing java.net.HttpURLConnection.getFollowRedirects [1 overload(s)]
+Tracing java.net.HttpURLConnection.setFollowRedirects [1 overload(s)]
+first entering selector
+java
+found is true
+before:java.net.HttpURLConnection
+after:java.net.HttpURLConnection
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing java.net.HttpURLConnection.disconnect [1 overload(s)]
+Tracing java.net.HttpURLConnection.getContentEncoding [1 overload(s)]
+Tracing java.net.HttpURLConnection.getErrorStream [1 overload(s)]
+Tracing java.net.HttpURLConnection.getHeaderFieldDate [1 overload(s)]
+Tracing java.net.HttpURLConnection.getInstanceFollowRedirects [1 overload(s)]
+Tracing java.net.HttpURLConnection.getPermission [1 overload(s)]
+Tracing java.net.HttpURLConnection.getRequestMethod [1 overload(s)]
+Tracing java.net.HttpURLConnection.getResponseCode [1 overload(s)]
+Tracing java.net.HttpURLConnection.getResponseMessage [1 overload(s)]
+Tracing java.net.HttpURLConnection.setChunkedStreamingMode [1 overload(s)]
+Tracing java.net.HttpURLConnection.setFixedLengthStreamingMode [2 overload(s)]
+Tracing java.net.HttpURLConnection.setInstanceFollowRedirects [1 overload(s)]
+Tracing java.net.HttpURLConnection.setRequestMethod [1 overload(s)]
+Tracing java.net.HttpURLConnection.usingProxy [1 overload(s)]
+Tracing java.net.HttpURLConnection.getFollowRedirects [1 overload(s)]
+Tracing java.net.HttpURLConnection.setFollowRedirects [1 overload(s)]
+java
+Tracing java.net.HttpURLConnection.getResponseCode [1 overload(s)]
+java
+Tracing java.net.HttpURLConnection.getResponseMessage [1 overload(s)]
+first entering selector
+java
+found is true
+before:java.net.HttpURLConnection
+after:java.net.HttpURLConnection
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing java.net.HttpURLConnection.disconnect [1 overload(s)]
+Tracing java.net.HttpURLConnection.getContentEncoding [1 overload(s)]
+Tracing java.net.HttpURLConnection.getErrorStream [1 overload(s)]
+Tracing java.net.HttpURLConnection.getHeaderFieldDate [1 overload(s)]
+Tracing java.net.HttpURLConnection.getInstanceFollowRedirects [1 overload(s)]
+Tracing java.net.HttpURLConnection.getPermission [1 overload(s)]
+Tracing java.net.HttpURLConnection.getRequestMethod [1 overload(s)]
+Tracing java.net.HttpURLConnection.getResponseCode [1 overload(s)]
+Tracing java.net.HttpURLConnection.getResponseMessage [1 overload(s)]
+Tracing java.net.HttpURLConnection.setChunkedStreamingMode [1 overload(s)]
+Tracing java.net.HttpURLConnection.setFixedLengthStreamingMode [2 overload(s)]
+Tracing java.net.HttpURLConnection.setInstanceFollowRedirects [1 overload(s)]
+Tracing java.net.HttpURLConnection.setRequestMethod [1 overload(s)]
+Tracing java.net.HttpURLConnection.usingProxy [1 overload(s)]
+Tracing java.net.HttpURLConnection.getFollowRedirects [1 overload(s)]
+Tracing java.net.HttpURLConnection.setFollowRedirects [1 overload(s)]
+java
+Tracing java.net.HttpURLConnection.getResponseCode [1 overload(s)]
+java
+Tracing java.net.HttpURLConnection.getResponseMessage [1 overload(s)]
+first entering selector
+java
+found is true
+before:java.net.HttpURLConnection
+after:java.net.HttpURLConnection
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing java.net.HttpURLConnection.disconnect [1 overload(s)]
+Tracing java.net.HttpURLConnection.getContentEncoding [1 overload(s)]
+Tracing java.net.HttpURLConnection.getErrorStream [1 overload(s)]
+Tracing java.net.HttpURLConnection.getHeaderFieldDate [1 overload(s)]
+Tracing java.net.HttpURLConnection.getInstanceFollowRedirects [1 overload(s)]
+Tracing java.net.HttpURLConnection.getPermission [1 overload(s)]
+Tracing java.net.HttpURLConnection.getRequestMethod [1 overload(s)]
+Tracing java.net.HttpURLConnection.getResponseCode [1 overload(s)]
+Tracing java.net.HttpURLConnection.getResponseMessage [1 overload(s)]
+Tracing java.net.HttpURLConnection.setChunkedStreamingMode [1 overload(s)]
+Tracing java.net.HttpURLConnection.setFixedLengthStreamingMode [2 overload(s)]
+Tracing java.net.HttpURLConnection.setInstanceFollowRedirects [1 overload(s)]
+Tracing java.net.HttpURLConnection.setRequestMethod [1 overload(s)]
+Tracing java.net.HttpURLConnection.usingProxy [1 overload(s)]
+Tracing java.net.HttpURLConnection.getFollowRedirects [1 overload(s)]
+Tracing java.net.HttpURLConnection.setFollowRedirects [1 overload(s)]
+java
+Tracing java.net.HttpURLConnection.getResponseCode [1 overload(s)]
+java
+Tracing java.net.HttpURLConnection.getResponseMessage [1 overload(s)]
+java
+Error: java.lang.ClassNotFoundException: Didn't find class "java" on path: DexPathList[[zip file "/data/app/org.potato.messenger-1/base.apk"],nativeLibraryDirectories=[/data/app/org.potato.messenger-1/lib/arm, /vendor/lib, /system/lib]]
+first entering selector
+java
+found is true
+before:java.net.HttpURLConnection
+after:java.net.HttpURLConnection
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing java.net.HttpURLConnection.disconnect [1 overload(s)]
+Tracing java.net.HttpURLConnection.getContentEncoding [1 overload(s)]
+Tracing java.net.HttpURLConnection.getErrorStream [1 overload(s)]
+Tracing java.net.HttpURLConnection.getHeaderFieldDate [1 overload(s)]
+Tracing java.net.HttpURLConnection.getInstanceFollowRedirects [1 overload(s)]
+Tracing java.net.HttpURLConnection.getPermission [1 overload(s)]
+Tracing java.net.HttpURLConnection.getRequestMethod [1 overload(s)]
+Tracing java.net.HttpURLConnection.getResponseCode [1 overload(s)]
+Tracing java.net.HttpURLConnection.getResponseMessage [1 overload(s)]
+Tracing java.net.HttpURLConnection.setChunkedStreamingMode [1 overload(s)]
+Tracing java.net.HttpURLConnection.setFixedLengthStreamingMode [2 overload(s)]
+Tracing java.net.HttpURLConnection.setInstanceFollowRedirects [1 overload(s)]
+Tracing java.net.HttpURLConnection.setRequestMethod [1 overload(s)]
+Tracing java.net.HttpURLConnection.usingProxy [1 overload(s)]
+Tracing java.net.HttpURLConnection.getFollowRedirects [1 overload(s)]
+Tracing java.net.HttpURLConnection.setFollowRedirects [1 overload(s)]
+java
+Tracing java.net.HttpURLConnection.getResponseCode [1 overload(s)]
+java
+Tracing java.net.HttpURLConnection.getResponseMessage [1 overload(s)]
+java
+Error: java.lang.ClassNotFoundException: Didn't find class "java" on path: DexPathList[[zip file "/data/app/org.potato.messenger-1/base.apk"],nativeLibraryDirectories=[/data/app/org.potato.messenger-1/lib/arm, /vendor/lib, /system/lib]]
+first entering selector
+java
+Error: java.lang.ClassNotFoundException: Didn't find class "java" on path: DexPathList[[zip file "/data/app/org.potato.messenger-1/base.apk"],nativeLibraryDirectories=[/data/app/org.potato.messenger-1/lib/arm, /vendor/lib, /system/lib]]
+first entering selector
+java
+Error: java.lang.ClassNotFoundException: Didn't find class "java" on path: DexPathList[[zip file "/data/app/org.potato.messenger-1/base.apk"],nativeLibraryDirectories=[/data/app/org.potato.messenger-1/lib/arm, /vendor/lib, /system/lib]]
+first entering selector
+java
+found is true
+before:okhttp3.internal.tls.BasicCertificateChainCleaner
+after:okhttp3.internal.tls.BasicCertificateChainCleaner
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.tls.BasicCertificateChainCleaner.clean [1 overload(s)]
+Tracing okhttp3.internal.tls.BasicCertificateChainCleaner.equals [1 overload(s)]
+Tracing okhttp3.internal.tls.BasicCertificateChainCleaner.hashCode [1 overload(s)]
+Tracing okhttp3.internal.tls.BasicCertificateChainCleaner.verifySignature [1 overload(s)]
+found is true
+before:okhttp3.EventListener$1
+after:okhttp3.EventListener$1
+entering traceClass
+entering pasedMethods
+entering traceMethods
+found is true
+before:okhttp3.EventListener$2
+after:okhttp3.EventListener$2
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.EventListener$2.create [1 overload(s)]
+found is true
+before:okhttp3.Response
+after:okhttp3.Response
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Response.body [1 overload(s)]
+Tracing okhttp3.Response.cacheControl [1 overload(s)]
+Tracing okhttp3.Response.cacheResponse [1 overload(s)]
+Tracing okhttp3.Response.challenges [1 overload(s)]
+Tracing okhttp3.Response.close [1 overload(s)]
+Tracing okhttp3.Response.code [1 overload(s)]
+Tracing okhttp3.Response.handshake [1 overload(s)]
+Tracing okhttp3.Response.header [2 overload(s)]
+Tracing okhttp3.Response.headers [2 overload(s)]
+Tracing okhttp3.Response.isRedirect [1 overload(s)]
+Tracing okhttp3.Response.isSuccessful [1 overload(s)]
+Tracing okhttp3.Response.message [1 overload(s)]
+Tracing okhttp3.Response.networkResponse [1 overload(s)]
+Tracing okhttp3.Response.newBuilder [1 overload(s)]
+Tracing okhttp3.Response.peekBody [1 overload(s)]
+Tracing okhttp3.Response.priorResponse [1 overload(s)]
+Tracing okhttp3.Response.protocol [1 overload(s)]
+Tracing okhttp3.Response.receivedResponseAtMillis [1 overload(s)]
+Tracing okhttp3.Response.request [1 overload(s)]
+Tracing okhttp3.Response.sentRequestAtMillis [1 overload(s)]
+Tracing okhttp3.Response.toString [1 overload(s)]
+found is true
+before:okhttp3.Cache
+after:okhttp3.Cache
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Cache.close [1 overload(s)]
+Tracing okhttp3.Cache.delete [1 overload(s)]
+Tracing okhttp3.Cache.directory [1 overload(s)]
+Tracing okhttp3.Cache.evictAll [1 overload(s)]
+Tracing okhttp3.Cache.flush [1 overload(s)]
+Tracing okhttp3.Cache.get [1 overload(s)]
+Tracing okhttp3.Cache.hitCount [1 overload(s)]
+Tracing okhttp3.Cache.initialize [1 overload(s)]
+Tracing okhttp3.Cache.isClosed [1 overload(s)]
+Tracing okhttp3.Cache.maxSize [1 overload(s)]
+Tracing okhttp3.Cache.networkCount [1 overload(s)]
+Tracing okhttp3.Cache.put [1 overload(s)]
+Tracing okhttp3.Cache.remove [1 overload(s)]
+Tracing okhttp3.Cache.requestCount [1 overload(s)]
+Tracing okhttp3.Cache.size [1 overload(s)]
+Tracing okhttp3.Cache.trackConditionalCacheHit [1 overload(s)]
+Tracing okhttp3.Cache.trackResponse [1 overload(s)]
+Tracing okhttp3.Cache.update [1 overload(s)]
+Tracing okhttp3.Cache.urls [1 overload(s)]
+Tracing okhttp3.Cache.writeAbortCount [1 overload(s)]
+Tracing okhttp3.Cache.writeSuccessCount [1 overload(s)]
+Tracing okhttp3.Cache.abortQuietly [1 overload(s)]
+Tracing okhttp3.Cache.key [1 overload(s)]
+Tracing okhttp3.Cache.readInt [1 overload(s)]
+found is true
+before:okhttp3.Authenticator$1
+after:okhttp3.Authenticator$1
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Authenticator$1.authenticate [1 overload(s)]
+found is true
+before:okhttp3.internal.NamedRunnable
+after:okhttp3.internal.NamedRunnable
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.NamedRunnable.execute [1 overload(s)]
+Tracing okhttp3.internal.NamedRunnable.run [1 overload(s)]
+found is true
+before:okhttp3.internal.http2.Http2Connection$Listener
+after:okhttp3.internal.http2.Http2Connection$Listener
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.http2.Http2Connection$Listener.onSettings [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Connection$Listener.onStream [1 overload(s)]
+found is true
+before:okhttp3.HttpUrl
+after:okhttp3.HttpUrl
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.HttpUrl.encodedFragment [1 overload(s)]
+Tracing okhttp3.HttpUrl.encodedPassword [1 overload(s)]
+Tracing okhttp3.HttpUrl.encodedPath [1 overload(s)]
+Tracing okhttp3.HttpUrl.encodedPathSegments [1 overload(s)]
+Tracing okhttp3.HttpUrl.encodedQuery [1 overload(s)]
+Tracing okhttp3.HttpUrl.encodedUsername [1 overload(s)]
+Tracing okhttp3.HttpUrl.equals [1 overload(s)]
+Tracing okhttp3.HttpUrl.fragment [1 overload(s)]
+Tracing okhttp3.HttpUrl.hashCode [1 overload(s)]
+Tracing okhttp3.HttpUrl.host [1 overload(s)]
+Tracing okhttp3.HttpUrl.isHttps [1 overload(s)]
+Tracing okhttp3.HttpUrl.newBuilder [2 overload(s)]
+Tracing okhttp3.HttpUrl.password [1 overload(s)]
+Tracing okhttp3.HttpUrl.pathSegments [1 overload(s)]
+Tracing okhttp3.HttpUrl.pathSize [1 overload(s)]
+Tracing okhttp3.HttpUrl.port [1 overload(s)]
+Tracing okhttp3.HttpUrl.query [1 overload(s)]
+Tracing okhttp3.HttpUrl.queryParameter [1 overload(s)]
+Tracing okhttp3.HttpUrl.queryParameterName [1 overload(s)]
+Tracing okhttp3.HttpUrl.queryParameterNames [1 overload(s)]
+Tracing okhttp3.HttpUrl.queryParameterValue [1 overload(s)]
+Tracing okhttp3.HttpUrl.queryParameterValues [1 overload(s)]
+Tracing okhttp3.HttpUrl.querySize [1 overload(s)]
+Tracing okhttp3.HttpUrl.redact [1 overload(s)]
+Tracing okhttp3.HttpUrl.resolve [1 overload(s)]
+Tracing okhttp3.HttpUrl.scheme [1 overload(s)]
+Tracing okhttp3.HttpUrl.toString [1 overload(s)]
+Tracing okhttp3.HttpUrl.topPrivateDomain [1 overload(s)]
+Tracing okhttp3.HttpUrl.uri [1 overload(s)]
+Tracing okhttp3.HttpUrl.url [1 overload(s)]
+Tracing okhttp3.HttpUrl.username [1 overload(s)]
+Tracing okhttp3.HttpUrl.canonicalize [4 overload(s)]
+Tracing okhttp3.HttpUrl.defaultPort [1 overload(s)]
+Tracing okhttp3.HttpUrl.get [2 overload(s)]
+Tracing okhttp3.HttpUrl.getChecked [1 overload(s)]
+Tracing okhttp3.HttpUrl.namesAndValuesToQueryString [1 overload(s)]
+Tracing okhttp3.HttpUrl.parse [1 overload(s)]
+Tracing okhttp3.HttpUrl.pathSegmentsToString [1 overload(s)]
+Tracing okhttp3.HttpUrl.percentDecode [4 overload(s)]
+Tracing okhttp3.HttpUrl.percentEncoded [1 overload(s)]
+Tracing okhttp3.HttpUrl.queryStringToNamesAndValues [1 overload(s)]
+found is true
+before:okhttp3.internal.platform.OptionalMethod
+after:okhttp3.internal.platform.OptionalMethod
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.platform.OptionalMethod.invoke [1 overload(s)]
+Tracing okhttp3.internal.platform.OptionalMethod.invokeOptional [1 overload(s)]
+Tracing okhttp3.internal.platform.OptionalMethod.invokeOptionalWithoutCheckedException [1 overload(s)]
+Tracing okhttp3.internal.platform.OptionalMethod.invokeWithoutCheckedException [1 overload(s)]
+Tracing okhttp3.internal.platform.OptionalMethod.isSupported [1 overload(s)]
+Tracing okhttp3.internal.platform.OptionalMethod.getMethod [1 overload(s)]
+Tracing okhttp3.internal.platform.OptionalMethod.getPublicMethod [1 overload(s)]
+found is true
+before:okhttp3.CookieJar
+after:okhttp3.CookieJar
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.CookieJar.loadForRequest [1 overload(s)]
+Tracing okhttp3.CookieJar.saveFromResponse [1 overload(s)]
+found is true
+before:okhttp3.internal.ws.RealWebSocket
+after:okhttp3.internal.ws.RealWebSocket
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.ws.RealWebSocket.awaitTermination [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.cancel [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.checkResponse [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.close [2 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.connect [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.failWebSocket [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.initReaderAndWriter [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.loopReader [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.onReadClose [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.onReadMessage [2 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.onReadPing [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.onReadPong [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.pong [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.processNextFrame [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.queueSize [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.receivedPingCount [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.receivedPongCount [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.request [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.send [3 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.sentPingCount [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.tearDown [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.writeOneFrame [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.writePingFrame [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.runWriter [1 overload(s)]
+found is true
+before:okhttp3.MediaType
+after:okhttp3.MediaType
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.MediaType.charset [2 overload(s)]
+Tracing okhttp3.MediaType.equals [1 overload(s)]
+Tracing okhttp3.MediaType.hashCode [1 overload(s)]
+Tracing okhttp3.MediaType.subtype [1 overload(s)]
+Tracing okhttp3.MediaType.toString [1 overload(s)]
+Tracing okhttp3.MediaType.type [1 overload(s)]
+Tracing okhttp3.MediaType.parse [1 overload(s)]
+found is true
+before:okhttp3.internal.ws.WebSocketReader$FrameCallback
+after:okhttp3.internal.ws.WebSocketReader$FrameCallback
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.ws.WebSocketReader$FrameCallback.onReadClose [1 overload(s)]
+Tracing okhttp3.internal.ws.WebSocketReader$FrameCallback.onReadMessage [2 overload(s)]
+Tracing okhttp3.internal.ws.WebSocketReader$FrameCallback.onReadPing [1 overload(s)]
+Tracing okhttp3.internal.ws.WebSocketReader$FrameCallback.onReadPong [1 overload(s)]
+found is true
+before:okhttp3.internal.platform.Jdk9Platform
+after:okhttp3.internal.platform.Jdk9Platform
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.platform.Jdk9Platform.configureTlsExtensions [1 overload(s)]
+Tracing okhttp3.internal.platform.Jdk9Platform.getSelectedProtocol [1 overload(s)]
+Tracing okhttp3.internal.platform.Jdk9Platform.trustManager [1 overload(s)]
+Tracing okhttp3.internal.platform.Jdk9Platform.buildIfSupported [1 overload(s)]
+found is true
+before:okhttp3.internal.tls.TrustRootIndex
+after:okhttp3.internal.tls.TrustRootIndex
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.tls.TrustRootIndex.findByIssuerAndSignature [1 overload(s)]
+found is true
+before:okhttp3.EventListener
+after:okhttp3.EventListener
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.EventListener.callEnd [1 overload(s)]
+Tracing okhttp3.EventListener.callFailed [1 overload(s)]
+Tracing okhttp3.EventListener.callStart [1 overload(s)]
+Tracing okhttp3.EventListener.connectEnd [1 overload(s)]
+Tracing okhttp3.EventListener.connectFailed [1 overload(s)]
+Tracing okhttp3.EventListener.connectStart [1 overload(s)]
+Tracing okhttp3.EventListener.connectionAcquired [1 overload(s)]
+Tracing okhttp3.EventListener.connectionReleased [1 overload(s)]
+Tracing okhttp3.EventListener.dnsEnd [1 overload(s)]
+Tracing okhttp3.EventListener.dnsStart [1 overload(s)]
+Tracing okhttp3.EventListener.requestBodyEnd [1 overload(s)]
+Tracing okhttp3.EventListener.requestBodyStart [1 overload(s)]
+Tracing okhttp3.EventListener.requestHeadersEnd [1 overload(s)]
+Tracing okhttp3.EventListener.requestHeadersStart [1 overload(s)]
+Tracing okhttp3.EventListener.responseBodyEnd [1 overload(s)]
+Tracing okhttp3.EventListener.responseBodyStart [1 overload(s)]
+Tracing okhttp3.EventListener.responseHeadersEnd [1 overload(s)]
+Tracing okhttp3.EventListener.responseHeadersStart [1 overload(s)]
+Tracing okhttp3.EventListener.secureConnectEnd [1 overload(s)]
+Tracing okhttp3.EventListener.secureConnectStart [1 overload(s)]
+Tracing okhttp3.EventListener.factory [1 overload(s)]
+found is true
+before:okhttp3.Protocol
+after:okhttp3.Protocol
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Protocol.toString [1 overload(s)]
+Tracing okhttp3.Protocol.get [1 overload(s)]
+Tracing okhttp3.Protocol.valueOf [2 overload(s)]
+Tracing okhttp3.Protocol.values [1 overload(s)]
+found is true
+before:okhttp3.internal.connection.RealConnection
+after:okhttp3.internal.connection.RealConnection
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.connection.RealConnection.cancel [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.connect [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.handshake [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.isEligible [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.isHealthy [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.isMultiplexed [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.newCodec [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.newWebSocketStreams [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.onSettings [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.onStream [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.protocol [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.route [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.socket [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.supportsUrl [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.toString [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.connectSocket [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.connectTls [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.connectTunnel [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.createTunnel [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.createTunnelRequest [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.establishProtocol [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.isValid [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.testConnection [1 overload(s)]
+found is true
+before:okhttp3.RealCall$AsyncCall
+after:okhttp3.RealCall$AsyncCall
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.RealCall$AsyncCall.execute [1 overload(s)]
+Tracing okhttp3.RealCall$AsyncCall.get [1 overload(s)]
+Tracing okhttp3.RealCall$AsyncCall.host [1 overload(s)]
+Tracing okhttp3.RealCall$AsyncCall.request [1 overload(s)]
+found is true
+before:okhttp3.Headers$Builder
+after:okhttp3.Headers$Builder
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Headers$Builder.add [2 overload(s)]
+Tracing okhttp3.Headers$Builder.addLenient [2 overload(s)]
+Tracing okhttp3.Headers$Builder.build [1 overload(s)]
+Tracing okhttp3.Headers$Builder.get [1 overload(s)]
+Tracing okhttp3.Headers$Builder.removeAll [1 overload(s)]
+Tracing okhttp3.Headers$Builder.set [1 overload(s)]
+Tracing okhttp3.Headers$Builder.checkNameAndValue [1 overload(s)]
+found is true
+before:okhttp3.internal.Util
+after:okhttp3.internal.Util
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.Util.assertionError [1 overload(s)]
+Tracing okhttp3.internal.Util.bomAwareCharset [1 overload(s)]
+Tracing okhttp3.internal.Util.canonicalizeHost [1 overload(s)]
+Tracing okhttp3.internal.Util.checkDuration [1 overload(s)]
+Tracing okhttp3.internal.Util.checkOffsetAndCount [1 overload(s)]
+Tracing okhttp3.internal.Util.closeQuietly [3 overload(s)]
+Tracing okhttp3.internal.Util.concat [1 overload(s)]
+Tracing okhttp3.internal.Util.containsInvalidHostnameAsciiCodes [1 overload(s)]
+Tracing okhttp3.internal.Util.decodeHexDigit [1 overload(s)]
+Tracing okhttp3.internal.Util.decodeIpv4Suffix [1 overload(s)]
+Tracing okhttp3.internal.Util.decodeIpv6 [1 overload(s)]
+Tracing okhttp3.internal.Util.delimiterOffset [2 overload(s)]
+Tracing okhttp3.internal.Util.discard [1 overload(s)]
+Tracing okhttp3.internal.Util.equal [1 overload(s)]
+Tracing okhttp3.internal.Util.format [1 overload(s)]
+Tracing okhttp3.internal.Util.hostHeader [1 overload(s)]
+Tracing okhttp3.internal.Util.immutableList [2 overload(s)]
+Tracing okhttp3.internal.Util.indexOf [1 overload(s)]
+Tracing okhttp3.internal.Util.indexOfControlOrNonAscii [1 overload(s)]
+Tracing okhttp3.internal.Util.inet6AddressToAscii [1 overload(s)]
+Tracing okhttp3.internal.Util.intersect [1 overload(s)]
+Tracing okhttp3.internal.Util.isAndroidGetsocknameError [1 overload(s)]
+Tracing okhttp3.internal.Util.nonEmptyIntersection [1 overload(s)]
+Tracing okhttp3.internal.Util.skipAll [1 overload(s)]
+Tracing okhttp3.internal.Util.skipLeadingAsciiWhitespace [1 overload(s)]
+Tracing okhttp3.internal.Util.skipTrailingAsciiWhitespace [1 overload(s)]
+Tracing okhttp3.internal.Util.threadFactory [1 overload(s)]
+Tracing okhttp3.internal.Util.trimSubstring [1 overload(s)]
+Tracing okhttp3.internal.Util.verifyAsIpAddress [1 overload(s)]
+found is true
+before:okhttp3.ConnectionSpec
+after:okhttp3.ConnectionSpec
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.ConnectionSpec.apply [1 overload(s)]
+Tracing okhttp3.ConnectionSpec.cipherSuites [1 overload(s)]
+Tracing okhttp3.ConnectionSpec.equals [1 overload(s)]
+Tracing okhttp3.ConnectionSpec.hashCode [1 overload(s)]
+Tracing okhttp3.ConnectionSpec.isCompatible [1 overload(s)]
+Tracing okhttp3.ConnectionSpec.isTls [1 overload(s)]
+Tracing okhttp3.ConnectionSpec.supportsTlsExtensions [1 overload(s)]
+Tracing okhttp3.ConnectionSpec.tlsVersions [1 overload(s)]
+Tracing okhttp3.ConnectionSpec.toString [1 overload(s)]
+Tracing okhttp3.ConnectionSpec.supportedSpec [1 overload(s)]
+found is true
+before:okhttp3.OkHttpClient
+after:okhttp3.OkHttpClient
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.OkHttpClient.authenticator [1 overload(s)]
+Tracing okhttp3.OkHttpClient.cache [1 overload(s)]
+Tracing okhttp3.OkHttpClient.certificatePinner [1 overload(s)]
+Tracing okhttp3.OkHttpClient.connectTimeoutMillis [1 overload(s)]
+Tracing okhttp3.OkHttpClient.connectionPool [1 overload(s)]
+Tracing okhttp3.OkHttpClient.connectionSpecs [1 overload(s)]
+Tracing okhttp3.OkHttpClient.cookieJar [1 overload(s)]
+Tracing okhttp3.OkHttpClient.dispatcher [1 overload(s)]
+Tracing okhttp3.OkHttpClient.dns [1 overload(s)]
+Tracing okhttp3.OkHttpClient.eventListenerFactory [1 overload(s)]
+Tracing okhttp3.OkHttpClient.followRedirects [1 overload(s)]
+Tracing okhttp3.OkHttpClient.followSslRedirects [1 overload(s)]
+Tracing okhttp3.OkHttpClient.hostnameVerifier [1 overload(s)]
+Tracing okhttp3.OkHttpClient.interceptors [1 overload(s)]
+Tracing okhttp3.OkHttpClient.internalCache [1 overload(s)]
+Tracing okhttp3.OkHttpClient.networkInterceptors [1 overload(s)]
+Tracing okhttp3.OkHttpClient.newBuilder [1 overload(s)]
+Tracing okhttp3.OkHttpClient.newCall [1 overload(s)]
+Tracing okhttp3.OkHttpClient.newWebSocket [1 overload(s)]
+Tracing okhttp3.OkHttpClient.pingIntervalMillis [1 overload(s)]
+Tracing okhttp3.OkHttpClient.protocols [1 overload(s)]
+Tracing okhttp3.OkHttpClient.proxy [1 overload(s)]
+Tracing okhttp3.OkHttpClient.proxyAuthenticator [1 overload(s)]
+Tracing okhttp3.OkHttpClient.proxySelector [1 overload(s)]
+Tracing okhttp3.OkHttpClient.readTimeoutMillis [1 overload(s)]
+Tracing okhttp3.OkHttpClient.retryOnConnectionFailure [1 overload(s)]
+Tracing okhttp3.OkHttpClient.socketFactory [1 overload(s)]
+Tracing okhttp3.OkHttpClient.sslSocketFactory [1 overload(s)]
+Tracing okhttp3.OkHttpClient.writeTimeoutMillis [1 overload(s)]
+Tracing okhttp3.OkHttpClient.systemDefaultSslSocketFactory [1 overload(s)]
+Tracing okhttp3.OkHttpClient.systemDefaultTrustManager [1 overload(s)]
+found is true
+before:okhttp3.internal.Internal
+after:okhttp3.internal.Internal
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.Internal.addLenient [2 overload(s)]
+Tracing okhttp3.internal.Internal.apply [1 overload(s)]
+Tracing okhttp3.internal.Internal.code [1 overload(s)]
+Tracing okhttp3.internal.Internal.connectionBecameIdle [1 overload(s)]
+Tracing okhttp3.internal.Internal.deduplicate [1 overload(s)]
+Tracing okhttp3.internal.Internal.equalsNonHost [1 overload(s)]
+Tracing okhttp3.internal.Internal.get [1 overload(s)]
+Tracing okhttp3.internal.Internal.getHttpUrlChecked [1 overload(s)]
+Tracing okhttp3.internal.Internal.newWebSocketCall [1 overload(s)]
+Tracing okhttp3.internal.Internal.put [1 overload(s)]
+Tracing okhttp3.internal.Internal.routeDatabase [1 overload(s)]
+Tracing okhttp3.internal.Internal.setCache [1 overload(s)]
+Tracing okhttp3.internal.Internal.streamAllocation [1 overload(s)]
+Tracing okhttp3.internal.Internal.initializeInstanceForTests [1 overload(s)]
+found is true
+before:okhttp3.Authenticator
+after:okhttp3.Authenticator
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Authenticator.authenticate [1 overload(s)]
+found is true
+before:okhttp3.Interceptor
+after:okhttp3.Interceptor
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Interceptor.intercept [1 overload(s)]
+found is true
+before:okhttp3.WebSocket
+after:okhttp3.WebSocket
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.WebSocket.cancel [1 overload(s)]
+Tracing okhttp3.WebSocket.close [1 overload(s)]
+Tracing okhttp3.WebSocket.queueSize [1 overload(s)]
+Tracing okhttp3.WebSocket.request [1 overload(s)]
+Tracing okhttp3.WebSocket.send [2 overload(s)]
+found is true
+before:okhttp3.ResponseBody
+after:okhttp3.ResponseBody
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.ResponseBody.byteStream [1 overload(s)]
+Tracing okhttp3.ResponseBody.bytes [1 overload(s)]
+Tracing okhttp3.ResponseBody.charStream [1 overload(s)]
+Tracing okhttp3.ResponseBody.close [1 overload(s)]
+Tracing okhttp3.ResponseBody.contentLength [1 overload(s)]
+Tracing okhttp3.ResponseBody.contentType [1 overload(s)]
+Tracing okhttp3.ResponseBody.source [1 overload(s)]
+Tracing okhttp3.ResponseBody.string [1 overload(s)]
+Tracing okhttp3.ResponseBody.charset [1 overload(s)]
+Tracing okhttp3.ResponseBody.create [3 overload(s)]
+found is true
+before:okhttp3.CertificatePinner
+after:okhttp3.CertificatePinner
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.CertificatePinner.check [2 overload(s)]
+Tracing okhttp3.CertificatePinner.equals [1 overload(s)]
+Tracing okhttp3.CertificatePinner.findMatchingPins [1 overload(s)]
+Tracing okhttp3.CertificatePinner.hashCode [1 overload(s)]
+Tracing okhttp3.CertificatePinner.withCertificateChainCleaner [1 overload(s)]
+Tracing okhttp3.CertificatePinner.pin [1 overload(s)]
+Tracing okhttp3.CertificatePinner.sha1 [1 overload(s)]
+Tracing okhttp3.CertificatePinner.sha256 [1 overload(s)]
+found is true
+before:okhttp3.CipherSuite$1
+after:okhttp3.CipherSuite$1
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.CipherSuite$1.compare [2 overload(s)]
+found is true
+before:okhttp3.internal.platform.AndroidPlatform$AndroidCertificateChainCleaner
+after:okhttp3.internal.platform.AndroidPlatform$AndroidCertificateChainCleaner
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.platform.AndroidPlatform$AndroidCertificateChainCleaner.clean [1 overload(s)]
+Tracing okhttp3.internal.platform.AndroidPlatform$AndroidCertificateChainCleaner.equals [1 overload(s)]
+Tracing okhttp3.internal.platform.AndroidPlatform$AndroidCertificateChainCleaner.hashCode [1 overload(s)]
+found is true
+before:okhttp3.RealCall
+after:okhttp3.RealCall
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.RealCall.cancel [1 overload(s)]
+Tracing okhttp3.RealCall.clone [3 overload(s)]
+Tracing okhttp3.RealCall.enqueue [1 overload(s)]
+Tracing okhttp3.RealCall.execute [1 overload(s)]
+Tracing okhttp3.RealCall.getResponseWithInterceptorChain [1 overload(s)]
+Tracing okhttp3.RealCall.isCanceled [1 overload(s)]
+Tracing okhttp3.RealCall.isExecuted [1 overload(s)]
+Tracing okhttp3.RealCall.redactedUrl [1 overload(s)]
+Tracing okhttp3.RealCall.request [1 overload(s)]
+Tracing okhttp3.RealCall.streamAllocation [1 overload(s)]
+Tracing okhttp3.RealCall.toLoggableString [1 overload(s)]
+Tracing okhttp3.RealCall.access$000 [1 overload(s)]
+Tracing okhttp3.RealCall.captureCallStackTrace [1 overload(s)]
+Tracing okhttp3.RealCall.newRealCall [1 overload(s)]
+found is true
+before:okhttp3.internal.platform.AndroidPlatform$CloseGuard
+after:okhttp3.internal.platform.AndroidPlatform$CloseGuard
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.platform.AndroidPlatform$CloseGuard.createAndOpen [1 overload(s)]
+Tracing okhttp3.internal.platform.AndroidPlatform$CloseGuard.warnIfOpen [1 overload(s)]
+Tracing okhttp3.internal.platform.AndroidPlatform$CloseGuard.get [1 overload(s)]
+found is true
+before:okhttp3.Call$Factory
+after:okhttp3.Call$Factory
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Call$Factory.newCall [1 overload(s)]
+found is true
+before:okhttp3.OkHttpClient$1
+after:okhttp3.OkHttpClient$1
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.OkHttpClient$1.addLenient [2 overload(s)]
+Tracing okhttp3.OkHttpClient$1.apply [1 overload(s)]
+Tracing okhttp3.OkHttpClient$1.code [1 overload(s)]
+Tracing okhttp3.OkHttpClient$1.connectionBecameIdle [1 overload(s)]
+Tracing okhttp3.OkHttpClient$1.deduplicate [1 overload(s)]
+Tracing okhttp3.OkHttpClient$1.equalsNonHost [1 overload(s)]
+Tracing okhttp3.OkHttpClient$1.get [1 overload(s)]
+Tracing okhttp3.OkHttpClient$1.getHttpUrlChecked [1 overload(s)]
+Tracing okhttp3.OkHttpClient$1.newWebSocketCall [1 overload(s)]
+Tracing okhttp3.OkHttpClient$1.put [1 overload(s)]
+Tracing okhttp3.OkHttpClient$1.routeDatabase [1 overload(s)]
+Tracing okhttp3.OkHttpClient$1.setCache [1 overload(s)]
+Tracing okhttp3.OkHttpClient$1.streamAllocation [1 overload(s)]
+found is true
+before:okhttp3.Route
+after:okhttp3.Route
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Route.address [1 overload(s)]
+Tracing okhttp3.Route.equals [1 overload(s)]
+Tracing okhttp3.Route.hashCode [1 overload(s)]
+Tracing okhttp3.Route.proxy [1 overload(s)]
+Tracing okhttp3.Route.requiresTunnel [1 overload(s)]
+Tracing okhttp3.Route.socketAddress [1 overload(s)]
+Tracing okhttp3.Route.toString [1 overload(s)]
+found is true
+before:okhttp3.ConnectionPool
+after:okhttp3.ConnectionPool
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.ConnectionPool.cleanup [1 overload(s)]
+Tracing okhttp3.ConnectionPool.connectionBecameIdle [1 overload(s)]
+Tracing okhttp3.ConnectionPool.connectionCount [1 overload(s)]
+Tracing okhttp3.ConnectionPool.deduplicate [1 overload(s)]
+Tracing okhttp3.ConnectionPool.evictAll [1 overload(s)]
+Tracing okhttp3.ConnectionPool.get [1 overload(s)]
+Tracing okhttp3.ConnectionPool.idleConnectionCount [1 overload(s)]
+Tracing okhttp3.ConnectionPool.put [1 overload(s)]
+Tracing okhttp3.ConnectionPool.pruneAndGetAllocationCount [1 overload(s)]
+found is true
+before:okhttp3.internal.tls.OkHostnameVerifier
+after:okhttp3.internal.tls.OkHostnameVerifier
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.tls.OkHostnameVerifier.verify [2 overload(s)]
+Tracing okhttp3.internal.tls.OkHostnameVerifier.verifyHostname [2 overload(s)]
+Tracing okhttp3.internal.tls.OkHostnameVerifier.allSubjectAltNames [1 overload(s)]
+Tracing okhttp3.internal.tls.OkHostnameVerifier.getSubjectAltNames [1 overload(s)]
+Tracing okhttp3.internal.tls.OkHostnameVerifier.verifyIpAddress [1 overload(s)]
+found is true
+before:okhttp3.internal.Util$1
+after:okhttp3.internal.Util$1
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.Util$1.compare [2 overload(s)]
+found is true
+before:okhttp3.internal.Util$2
+after:okhttp3.internal.Util$2
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.Util$2.newThread [1 overload(s)]
+found is true
+before:okhttp3.internal.tls.CertificateChainCleaner
+after:okhttp3.internal.tls.CertificateChainCleaner
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.tls.CertificateChainCleaner.clean [1 overload(s)]
+Tracing okhttp3.internal.tls.CertificateChainCleaner.get [2 overload(s)]
+found is true
+before:okhttp3.internal.platform.Platform
+after:okhttp3.internal.platform.Platform
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.platform.Platform.afterHandshake [1 overload(s)]
+Tracing okhttp3.internal.platform.Platform.buildCertificateChainCleaner [2 overload(s)]
+Tracing okhttp3.internal.platform.Platform.buildTrustRootIndex [1 overload(s)]
+Tracing okhttp3.internal.platform.Platform.configureTlsExtensions [1 overload(s)]
+Tracing okhttp3.internal.platform.Platform.connectSocket [1 overload(s)]
+Tracing okhttp3.internal.platform.Platform.getPrefix [1 overload(s)]
+Tracing okhttp3.internal.platform.Platform.getSSLContext [1 overload(s)]
+Tracing okhttp3.internal.platform.Platform.getSelectedProtocol [1 overload(s)]
+Tracing okhttp3.internal.platform.Platform.getStackTraceForCloseable [1 overload(s)]
+Tracing okhttp3.internal.platform.Platform.isCleartextTrafficPermitted [1 overload(s)]
+Tracing okhttp3.internal.platform.Platform.log [1 overload(s)]
+Tracing okhttp3.internal.platform.Platform.logCloseableLeak [1 overload(s)]
+Tracing okhttp3.internal.platform.Platform.trustManager [1 overload(s)]
+Tracing okhttp3.internal.platform.Platform.alpnProtocolNames [1 overload(s)]
+Tracing okhttp3.internal.platform.Platform.concatLengthPrefixed [1 overload(s)]
+Tracing okhttp3.internal.platform.Platform.findPlatform [1 overload(s)]
+Tracing okhttp3.internal.platform.Platform.get [1 overload(s)]
+Tracing okhttp3.internal.platform.Platform.isConscryptPreferred [1 overload(s)]
+Tracing okhttp3.internal.platform.Platform.readFieldOrNull [1 overload(s)]
+found is true
+before:okhttp3.Dns$1
+after:okhttp3.Dns$1
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Dns$1.lookup [1 overload(s)]
+found is true
+before:okhttp3.internal.connection.StreamAllocation
+after:okhttp3.internal.connection.StreamAllocation
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.connection.StreamAllocation.acquire [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.cancel [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.codec [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.connection [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.hasMoreRoutes [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.newStream [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.noNewStreams [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.release [2 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.releaseAndAcquire [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.route [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.streamFailed [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.streamFinished [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.toString [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.deallocate [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.findConnection [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.findHealthyConnection [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.releaseIfNoNewStreams [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.routeDatabase [1 overload(s)]
+found is true
+before:okhttp3.ResponseBody$BomAwareReader
+after:okhttp3.ResponseBody$BomAwareReader
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.ResponseBody$BomAwareReader.close [1 overload(s)]
+Tracing okhttp3.ResponseBody$BomAwareReader.read [1 overload(s)]
+found is true
+before:okhttp3.internal.connection.RouteDatabase
+after:okhttp3.internal.connection.RouteDatabase
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.connection.RouteDatabase.connected [1 overload(s)]
+Tracing okhttp3.internal.connection.RouteDatabase.failed [1 overload(s)]
+Tracing okhttp3.internal.connection.RouteDatabase.shouldPostpone [1 overload(s)]
+found is true
+before:okhttp3.internal.platform.JdkWithJettyBootPlatform
+after:okhttp3.internal.platform.JdkWithJettyBootPlatform
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.platform.JdkWithJettyBootPlatform.afterHandshake [1 overload(s)]
+Tracing okhttp3.internal.platform.JdkWithJettyBootPlatform.configureTlsExtensions [1 overload(s)]
+Tracing okhttp3.internal.platform.JdkWithJettyBootPlatform.getSelectedProtocol [1 overload(s)]
+Tracing okhttp3.internal.platform.JdkWithJettyBootPlatform.buildIfSupported [1 overload(s)]
+found is true
+before:okhttp3.CertificatePinner$Builder
+after:okhttp3.CertificatePinner$Builder
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.CertificatePinner$Builder.add [1 overload(s)]
+Tracing okhttp3.CertificatePinner$Builder.build [1 overload(s)]
+found is true
+before:okhttp3.Call
+after:okhttp3.Call
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Call.cancel [1 overload(s)]
+Tracing okhttp3.Call.clone [1 overload(s)]
+Tracing okhttp3.Call.enqueue [1 overload(s)]
+Tracing okhttp3.Call.execute [1 overload(s)]
+Tracing okhttp3.Call.isCanceled [1 overload(s)]
+Tracing okhttp3.Call.isExecuted [1 overload(s)]
+Tracing okhttp3.Call.request [1 overload(s)]
+found is true
+before:okhttp3.Request
+after:okhttp3.Request
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Request.body [1 overload(s)]
+Tracing okhttp3.Request.cacheControl [1 overload(s)]
+Tracing okhttp3.Request.header [1 overload(s)]
+Tracing okhttp3.Request.headers [2 overload(s)]
+Tracing okhttp3.Request.isHttps [1 overload(s)]
+Tracing okhttp3.Request.method [1 overload(s)]
+Tracing okhttp3.Request.newBuilder [1 overload(s)]
+Tracing okhttp3.Request.tag [1 overload(s)]
+Tracing okhttp3.Request.toString [1 overload(s)]
+Tracing okhttp3.Request.url [1 overload(s)]
+found is true
+before:okhttp3.Callback
+after:okhttp3.Callback
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Callback.onFailure [1 overload(s)]
+Tracing okhttp3.Callback.onResponse [1 overload(s)]
+found is true
+before:okhttp3.Address
+after:okhttp3.Address
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Address.certificatePinner [1 overload(s)]
+Tracing okhttp3.Address.connectionSpecs [1 overload(s)]
+Tracing okhttp3.Address.dns [1 overload(s)]
+Tracing okhttp3.Address.equals [1 overload(s)]
+Tracing okhttp3.Address.equalsNonHost [1 overload(s)]
+Tracing okhttp3.Address.hashCode [1 overload(s)]
+Tracing okhttp3.Address.hostnameVerifier [1 overload(s)]
+Tracing okhttp3.Address.protocols [1 overload(s)]
+Tracing okhttp3.Address.proxy [1 overload(s)]
+Tracing okhttp3.Address.proxyAuthenticator [1 overload(s)]
+Tracing okhttp3.Address.proxySelector [1 overload(s)]
+Tracing okhttp3.Address.socketFactory [1 overload(s)]
+Tracing okhttp3.Address.sslSocketFactory [1 overload(s)]
+Tracing okhttp3.Address.toString [1 overload(s)]
+Tracing okhttp3.Address.url [1 overload(s)]
+found is true
+before:okhttp3.Request$Builder
+after:okhttp3.Request$Builder
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Request$Builder.addHeader [1 overload(s)]
+Tracing okhttp3.Request$Builder.build [1 overload(s)]
+Tracing okhttp3.Request$Builder.cacheControl [1 overload(s)]
+Tracing okhttp3.Request$Builder.delete [2 overload(s)]
+Tracing okhttp3.Request$Builder.get [1 overload(s)]
+Tracing okhttp3.Request$Builder.head [1 overload(s)]
+Tracing okhttp3.Request$Builder.header [1 overload(s)]
+Tracing okhttp3.Request$Builder.headers [1 overload(s)]
+Tracing okhttp3.Request$Builder.method [1 overload(s)]
+Tracing okhttp3.Request$Builder.patch [1 overload(s)]
+Tracing okhttp3.Request$Builder.post [1 overload(s)]
+Tracing okhttp3.Request$Builder.put [1 overload(s)]
+Tracing okhttp3.Request$Builder.removeHeader [1 overload(s)]
+Tracing okhttp3.Request$Builder.tag [1 overload(s)]
+Tracing okhttp3.Request$Builder.url [3 overload(s)]
+found is true
+before:okhttp3.internal.cache.InternalCache
+after:okhttp3.internal.cache.InternalCache
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.cache.InternalCache.get [1 overload(s)]
+Tracing okhttp3.internal.cache.InternalCache.put [1 overload(s)]
+Tracing okhttp3.internal.cache.InternalCache.remove [1 overload(s)]
+Tracing okhttp3.internal.cache.InternalCache.trackConditionalCacheHit [1 overload(s)]
+Tracing okhttp3.internal.cache.InternalCache.trackResponse [1 overload(s)]
+Tracing okhttp3.internal.cache.InternalCache.update [1 overload(s)]
+found is true
+before:okhttp3.internal.connection.StreamAllocation$StreamAllocationReference
+after:okhttp3.internal.connection.StreamAllocation$StreamAllocationReference
+entering traceClass
+entering pasedMethods
+entering traceMethods
+found is true
+before:okhttp3.internal.platform.AndroidPlatform
+after:okhttp3.internal.platform.AndroidPlatform
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.platform.AndroidPlatform.buildCertificateChainCleaner [1 overload(s)]
+Tracing okhttp3.internal.platform.AndroidPlatform.buildTrustRootIndex [1 overload(s)]
+Tracing okhttp3.internal.platform.AndroidPlatform.configureTlsExtensions [1 overload(s)]
+Tracing okhttp3.internal.platform.AndroidPlatform.connectSocket [1 overload(s)]
+Tracing okhttp3.internal.platform.AndroidPlatform.getSelectedProtocol [1 overload(s)]
+Tracing okhttp3.internal.platform.AndroidPlatform.getStackTraceForCloseable [1 overload(s)]
+Tracing okhttp3.internal.platform.AndroidPlatform.isCleartextTrafficPermitted [1 overload(s)]
+Tracing okhttp3.internal.platform.AndroidPlatform.log [1 overload(s)]
+Tracing okhttp3.internal.platform.AndroidPlatform.logCloseableLeak [1 overload(s)]
+Tracing okhttp3.internal.platform.AndroidPlatform.trustManager [1 overload(s)]
+Tracing okhttp3.internal.platform.AndroidPlatform.api23IsCleartextTrafficPermitted [1 overload(s)]
+Tracing okhttp3.internal.platform.AndroidPlatform.api24IsCleartextTrafficPermitted [1 overload(s)]
+Tracing okhttp3.internal.platform.AndroidPlatform.buildIfSupported [1 overload(s)]
+Tracing okhttp3.internal.platform.AndroidPlatform.supportsAlpn [1 overload(s)]
+found is true
+before:okhttp3.Response$Builder
+after:okhttp3.Response$Builder
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Response$Builder.addHeader [1 overload(s)]
+Tracing okhttp3.Response$Builder.body [1 overload(s)]
+Tracing okhttp3.Response$Builder.build [1 overload(s)]
+Tracing okhttp3.Response$Builder.cacheResponse [1 overload(s)]
+Tracing okhttp3.Response$Builder.code [1 overload(s)]
+Tracing okhttp3.Response$Builder.handshake [1 overload(s)]
+Tracing okhttp3.Response$Builder.header [1 overload(s)]
+Tracing okhttp3.Response$Builder.headers [1 overload(s)]
+Tracing okhttp3.Response$Builder.message [1 overload(s)]
+Tracing okhttp3.Response$Builder.networkResponse [1 overload(s)]
+Tracing okhttp3.Response$Builder.priorResponse [1 overload(s)]
+Tracing okhttp3.Response$Builder.protocol [1 overload(s)]
+Tracing okhttp3.Response$Builder.receivedResponseAtMillis [1 overload(s)]
+Tracing okhttp3.Response$Builder.removeHeader [1 overload(s)]
+Tracing okhttp3.Response$Builder.request [1 overload(s)]
+Tracing okhttp3.Response$Builder.sentRequestAtMillis [1 overload(s)]
+Tracing okhttp3.Response$Builder.checkPriorResponse [1 overload(s)]
+Tracing okhttp3.Response$Builder.checkSupportResponse [1 overload(s)]
+found is true
+before:okhttp3.RequestBody$1
+after:okhttp3.RequestBody$1
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.RequestBody$1.contentLength [1 overload(s)]
+Tracing okhttp3.RequestBody$1.contentType [1 overload(s)]
+Tracing okhttp3.RequestBody$1.writeTo [1 overload(s)]
+found is true
+before:okhttp3.RequestBody$2
+after:okhttp3.RequestBody$2
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.RequestBody$2.contentLength [1 overload(s)]
+Tracing okhttp3.RequestBody$2.contentType [1 overload(s)]
+Tracing okhttp3.RequestBody$2.writeTo [1 overload(s)]
+found is true
+before:okhttp3.RequestBody$3
+after:okhttp3.RequestBody$3
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.RequestBody$3.contentLength [1 overload(s)]
+Tracing okhttp3.RequestBody$3.contentType [1 overload(s)]
+Tracing okhttp3.RequestBody$3.writeTo [1 overload(s)]
+found is true
+before:okhttp3.Handshake
+after:okhttp3.Handshake
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Handshake.cipherSuite [1 overload(s)]
+Tracing okhttp3.Handshake.equals [1 overload(s)]
+Tracing okhttp3.Handshake.hashCode [1 overload(s)]
+Tracing okhttp3.Handshake.localCertificates [1 overload(s)]
+Tracing okhttp3.Handshake.localPrincipal [1 overload(s)]
+Tracing okhttp3.Handshake.peerCertificates [1 overload(s)]
+Tracing okhttp3.Handshake.peerPrincipal [1 overload(s)]
+Tracing okhttp3.Handshake.tlsVersion [1 overload(s)]
+Tracing okhttp3.Handshake.get [2 overload(s)]
+found is true
+before:okhttp3.ConnectionSpec$Builder
+after:okhttp3.ConnectionSpec$Builder
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.ConnectionSpec$Builder.allEnabledCipherSuites [1 overload(s)]
+Tracing okhttp3.ConnectionSpec$Builder.allEnabledTlsVersions [1 overload(s)]
+Tracing okhttp3.ConnectionSpec$Builder.build [1 overload(s)]
+Tracing okhttp3.ConnectionSpec$Builder.cipherSuites [2 overload(s)]
+Tracing okhttp3.ConnectionSpec$Builder.supportsTlsExtensions [1 overload(s)]
+Tracing okhttp3.ConnectionSpec$Builder.tlsVersions [2 overload(s)]
+found is true
+before:okhttp3.CipherSuite
+after:okhttp3.CipherSuite
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.CipherSuite.javaName [1 overload(s)]
+Tracing okhttp3.CipherSuite.toString [1 overload(s)]
+Tracing okhttp3.CipherSuite.forJavaName [1 overload(s)]
+Tracing okhttp3.CipherSuite.forJavaNames [1 overload(s)]
+Tracing okhttp3.CipherSuite.of [1 overload(s)]
+found is true
+before:okhttp3.CertificatePinner$Pin
+after:okhttp3.CertificatePinner$Pin
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.CertificatePinner$Pin.equals [1 overload(s)]
+Tracing okhttp3.CertificatePinner$Pin.hashCode [1 overload(s)]
+Tracing okhttp3.CertificatePinner$Pin.matches [1 overload(s)]
+Tracing okhttp3.CertificatePinner$Pin.toString [1 overload(s)]
+found is true
+before:okhttp3.Dispatcher
+after:okhttp3.Dispatcher
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Dispatcher.cancelAll [1 overload(s)]
+Tracing okhttp3.Dispatcher.enqueue [1 overload(s)]
+Tracing okhttp3.Dispatcher.executed [1 overload(s)]
+Tracing okhttp3.Dispatcher.executorService [1 overload(s)]
+Tracing okhttp3.Dispatcher.finished [3 overload(s)]
+Tracing okhttp3.Dispatcher.getMaxRequests [1 overload(s)]
+Tracing okhttp3.Dispatcher.getMaxRequestsPerHost [1 overload(s)]
+Tracing okhttp3.Dispatcher.queuedCalls [1 overload(s)]
+Tracing okhttp3.Dispatcher.queuedCallsCount [1 overload(s)]
+Tracing okhttp3.Dispatcher.runningCalls [1 overload(s)]
+Tracing okhttp3.Dispatcher.runningCallsCount [1 overload(s)]
+Tracing okhttp3.Dispatcher.setIdleCallback [1 overload(s)]
+Tracing okhttp3.Dispatcher.setMaxRequests [1 overload(s)]
+Tracing okhttp3.Dispatcher.setMaxRequestsPerHost [1 overload(s)]
+Tracing okhttp3.Dispatcher.promoteCalls [1 overload(s)]
+Tracing okhttp3.Dispatcher.runningCallsForHost [1 overload(s)]
+found is true
+before:okhttp3.RequestBody
+after:okhttp3.RequestBody
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.RequestBody.contentLength [1 overload(s)]
+Tracing okhttp3.RequestBody.contentType [1 overload(s)]
+Tracing okhttp3.RequestBody.writeTo [1 overload(s)]
+Tracing okhttp3.RequestBody.create [5 overload(s)]
+found is true
+before:okhttp3.ResponseBody$1
+after:okhttp3.ResponseBody$1
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.ResponseBody$1.contentLength [1 overload(s)]
+Tracing okhttp3.ResponseBody$1.contentType [1 overload(s)]
+Tracing okhttp3.ResponseBody$1.source [1 overload(s)]
+found is true
+before:[Lokhttp3.ConnectionSpec;
+after:[Lokhttp3.ConnectionSpec;
+entering traceClass
+entering pasedMethods
+entering traceMethods
+found is true
+before:okhttp3.Connection
+after:okhttp3.Connection
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Connection.handshake [1 overload(s)]
+Tracing okhttp3.Connection.protocol [1 overload(s)]
+Tracing okhttp3.Connection.route [1 overload(s)]
+Tracing okhttp3.Connection.socket [1 overload(s)]
+found is true
+before:okhttp3.internal.platform.ConscryptPlatform
+after:okhttp3.internal.platform.ConscryptPlatform
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.platform.ConscryptPlatform.configureTlsExtensions [1 overload(s)]
+Tracing okhttp3.internal.platform.ConscryptPlatform.getSSLContext [1 overload(s)]
+Tracing okhttp3.internal.platform.ConscryptPlatform.getSelectedProtocol [1 overload(s)]
+Tracing okhttp3.internal.platform.ConscryptPlatform.trustManager [1 overload(s)]
+Tracing okhttp3.internal.platform.ConscryptPlatform.buildIfSupported [1 overload(s)]
+Tracing okhttp3.internal.platform.ConscryptPlatform.getProvider [1 overload(s)]
+found is true
+before:okhttp3.EventListener$Factory
+after:okhttp3.EventListener$Factory
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.EventListener$Factory.create [1 overload(s)]
+found is true
+before:[Lokhttp3.Protocol;
+after:[Lokhttp3.Protocol;
+entering traceClass
+entering pasedMethods
+entering traceMethods
+found is true
+before:okhttp3.WebSocketListener
+after:okhttp3.WebSocketListener
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.WebSocketListener.onClosed [1 overload(s)]
+Tracing okhttp3.WebSocketListener.onClosing [1 overload(s)]
+Tracing okhttp3.WebSocketListener.onFailure [1 overload(s)]
+Tracing okhttp3.WebSocketListener.onMessage [2 overload(s)]
+Tracing okhttp3.WebSocketListener.onOpen [1 overload(s)]
+found is true
+before:okhttp3.ConnectionPool$1
+after:okhttp3.ConnectionPool$1
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.ConnectionPool$1.run [1 overload(s)]
+found is true
+before:okhttp3.Dns
+after:okhttp3.Dns
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Dns.lookup [1 overload(s)]
+found is true
+before:okhttp3.TlsVersion
+after:okhttp3.TlsVersion
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.TlsVersion.javaName [1 overload(s)]
+Tracing okhttp3.TlsVersion.forJavaName [1 overload(s)]
+Tracing okhttp3.TlsVersion.forJavaNames [1 overload(s)]
+Tracing okhttp3.TlsVersion.valueOf [2 overload(s)]
+Tracing okhttp3.TlsVersion.values [1 overload(s)]
+found is true
+before:okhttp3.CookieJar$1
+after:okhttp3.CookieJar$1
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.CookieJar$1.loadForRequest [1 overload(s)]
+Tracing okhttp3.CookieJar$1.saveFromResponse [1 overload(s)]
+found is true
+before:okhttp3.OkHttpClient$Builder
+after:okhttp3.OkHttpClient$Builder
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.OkHttpClient$Builder.addInterceptor [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.addNetworkInterceptor [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.authenticator [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.build [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.cache [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.certificatePinner [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.connectTimeout [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.connectionPool [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.connectionSpecs [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.cookieJar [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.dispatcher [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.dns [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.eventListener [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.eventListenerFactory [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.followRedirects [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.followSslRedirects [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.hostnameVerifier [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.interceptors [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.networkInterceptors [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.pingInterval [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.protocols [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.proxy [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.proxyAuthenticator [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.proxySelector [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.readTimeout [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.retryOnConnectionFailure [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.setInternalCache [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.socketFactory [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.sslSocketFactory [2 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.writeTimeout [1 overload(s)]
+found is true
+before:okhttp3.internal.platform.AndroidPlatform$AndroidTrustRootIndex
+after:okhttp3.internal.platform.AndroidPlatform$AndroidTrustRootIndex
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.platform.AndroidPlatform$AndroidTrustRootIndex.equals [1 overload(s)]
+Tracing okhttp3.internal.platform.AndroidPlatform$AndroidTrustRootIndex.findByIssuerAndSignature [1 overload(s)]
+Tracing okhttp3.internal.platform.AndroidPlatform$AndroidTrustRootIndex.hashCode [1 overload(s)]
+found is true
+before:[Lokhttp3.TlsVersion;
+after:[Lokhttp3.TlsVersion;
+entering traceClass
+entering pasedMethods
+entering traceMethods
+found is true
+before:okhttp3.internal.tls.BasicTrustRootIndex
+after:okhttp3.internal.tls.BasicTrustRootIndex
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.tls.BasicTrustRootIndex.equals [1 overload(s)]
+Tracing okhttp3.internal.tls.BasicTrustRootIndex.findByIssuerAndSignature [1 overload(s)]
+Tracing okhttp3.internal.tls.BasicTrustRootIndex.hashCode [1 overload(s)]
+found is true
+before:okhttp3.WebSocket$Factory
+after:okhttp3.WebSocket$Factory
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.WebSocket$Factory.newWebSocket [1 overload(s)]
+found is true
+before:[Lokhttp3.CipherSuite;
+after:[Lokhttp3.CipherSuite;
+entering traceClass
+entering pasedMethods
+entering traceMethods
+first entering selector
+java
+found is true
+before:okhttp3.internal.tls.BasicCertificateChainCleaner
+after:okhttp3.internal.tls.BasicCertificateChainCleaner
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.tls.BasicCertificateChainCleaner.clean [1 overload(s)]
+Tracing okhttp3.internal.tls.BasicCertificateChainCleaner.equals [1 overload(s)]
+Tracing okhttp3.internal.tls.BasicCertificateChainCleaner.hashCode [1 overload(s)]
+Tracing okhttp3.internal.tls.BasicCertificateChainCleaner.verifySignature [1 overload(s)]
+found is true
+before:okhttp3.EventListener$1
+after:okhttp3.EventListener$1
+entering traceClass
+entering pasedMethods
+entering traceMethods
+found is true
+before:okhttp3.EventListener$2
+after:okhttp3.EventListener$2
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.EventListener$2.create [1 overload(s)]
+found is true
+before:okhttp3.Response
+after:okhttp3.Response
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Response.body [1 overload(s)]
+Tracing okhttp3.Response.cacheControl [1 overload(s)]
+Tracing okhttp3.Response.cacheResponse [1 overload(s)]
+Tracing okhttp3.Response.challenges [1 overload(s)]
+Tracing okhttp3.Response.close [1 overload(s)]
+Tracing okhttp3.Response.code [1 overload(s)]
+Tracing okhttp3.Response.handshake [1 overload(s)]
+Tracing okhttp3.Response.header [2 overload(s)]
+Tracing okhttp3.Response.headers [2 overload(s)]
+Tracing okhttp3.Response.isRedirect [1 overload(s)]
+Tracing okhttp3.Response.isSuccessful [1 overload(s)]
+Tracing okhttp3.Response.message [1 overload(s)]
+Tracing okhttp3.Response.networkResponse [1 overload(s)]
+Tracing okhttp3.Response.newBuilder [1 overload(s)]
+Tracing okhttp3.Response.peekBody [1 overload(s)]
+Tracing okhttp3.Response.priorResponse [1 overload(s)]
+Tracing okhttp3.Response.protocol [1 overload(s)]
+Tracing okhttp3.Response.receivedResponseAtMillis [1 overload(s)]
+Tracing okhttp3.Response.request [1 overload(s)]
+Tracing okhttp3.Response.sentRequestAtMillis [1 overload(s)]
+Tracing okhttp3.Response.toString [1 overload(s)]
+found is true
+before:okhttp3.Cache
+after:okhttp3.Cache
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Cache.close [1 overload(s)]
+Tracing okhttp3.Cache.delete [1 overload(s)]
+Tracing okhttp3.Cache.directory [1 overload(s)]
+Tracing okhttp3.Cache.evictAll [1 overload(s)]
+Tracing okhttp3.Cache.flush [1 overload(s)]
+Tracing okhttp3.Cache.get [1 overload(s)]
+Tracing okhttp3.Cache.hitCount [1 overload(s)]
+Tracing okhttp3.Cache.initialize [1 overload(s)]
+Tracing okhttp3.Cache.isClosed [1 overload(s)]
+Tracing okhttp3.Cache.maxSize [1 overload(s)]
+Tracing okhttp3.Cache.networkCount [1 overload(s)]
+Tracing okhttp3.Cache.put [1 overload(s)]
+Tracing okhttp3.Cache.remove [1 overload(s)]
+Tracing okhttp3.Cache.requestCount [1 overload(s)]
+Tracing okhttp3.Cache.size [1 overload(s)]
+Tracing okhttp3.Cache.trackConditionalCacheHit [1 overload(s)]
+Tracing okhttp3.Cache.trackResponse [1 overload(s)]
+Tracing okhttp3.Cache.update [1 overload(s)]
+Tracing okhttp3.Cache.urls [1 overload(s)]
+Tracing okhttp3.Cache.writeAbortCount [1 overload(s)]
+Tracing okhttp3.Cache.writeSuccessCount [1 overload(s)]
+Tracing okhttp3.Cache.abortQuietly [1 overload(s)]
+Tracing okhttp3.Cache.key [1 overload(s)]
+Tracing okhttp3.Cache.readInt [1 overload(s)]
+found is true
+before:okhttp3.Authenticator$1
+after:okhttp3.Authenticator$1
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Authenticator$1.authenticate [1 overload(s)]
+found is true
+before:okhttp3.internal.NamedRunnable
+after:okhttp3.internal.NamedRunnable
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.NamedRunnable.execute [1 overload(s)]
+Tracing okhttp3.internal.NamedRunnable.run [1 overload(s)]
+found is true
+before:okhttp3.internal.http2.Http2Connection$Listener
+after:okhttp3.internal.http2.Http2Connection$Listener
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.http2.Http2Connection$Listener.onSettings [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Connection$Listener.onStream [1 overload(s)]
+found is true
+before:okhttp3.HttpUrl
+after:okhttp3.HttpUrl
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.HttpUrl.encodedFragment [1 overload(s)]
+Tracing okhttp3.HttpUrl.encodedPassword [1 overload(s)]
+Tracing okhttp3.HttpUrl.encodedPath [1 overload(s)]
+Tracing okhttp3.HttpUrl.encodedPathSegments [1 overload(s)]
+Tracing okhttp3.HttpUrl.encodedQuery [1 overload(s)]
+Tracing okhttp3.HttpUrl.encodedUsername [1 overload(s)]
+Tracing okhttp3.HttpUrl.equals [1 overload(s)]
+Tracing okhttp3.HttpUrl.fragment [1 overload(s)]
+Tracing okhttp3.HttpUrl.hashCode [1 overload(s)]
+Tracing okhttp3.HttpUrl.host [1 overload(s)]
+Tracing okhttp3.HttpUrl.isHttps [1 overload(s)]
+Tracing okhttp3.HttpUrl.newBuilder [2 overload(s)]
+Tracing okhttp3.HttpUrl.password [1 overload(s)]
+Tracing okhttp3.HttpUrl.pathSegments [1 overload(s)]
+Tracing okhttp3.HttpUrl.pathSize [1 overload(s)]
+Tracing okhttp3.HttpUrl.port [1 overload(s)]
+Tracing okhttp3.HttpUrl.query [1 overload(s)]
+Tracing okhttp3.HttpUrl.queryParameter [1 overload(s)]
+Tracing okhttp3.HttpUrl.queryParameterName [1 overload(s)]
+Tracing okhttp3.HttpUrl.queryParameterNames [1 overload(s)]
+Tracing okhttp3.HttpUrl.queryParameterValue [1 overload(s)]
+Tracing okhttp3.HttpUrl.queryParameterValues [1 overload(s)]
+Tracing okhttp3.HttpUrl.querySize [1 overload(s)]
+Tracing okhttp3.HttpUrl.redact [1 overload(s)]
+Tracing okhttp3.HttpUrl.resolve [1 overload(s)]
+Tracing okhttp3.HttpUrl.scheme [1 overload(s)]
+Tracing okhttp3.HttpUrl.toString [1 overload(s)]
+Tracing okhttp3.HttpUrl.topPrivateDomain [1 overload(s)]
+Tracing okhttp3.HttpUrl.uri [1 overload(s)]
+Tracing okhttp3.HttpUrl.url [1 overload(s)]
+Tracing okhttp3.HttpUrl.username [1 overload(s)]
+Tracing okhttp3.HttpUrl.canonicalize [4 overload(s)]
+Tracing okhttp3.HttpUrl.defaultPort [1 overload(s)]
+Tracing okhttp3.HttpUrl.get [2 overload(s)]
+Tracing okhttp3.HttpUrl.getChecked [1 overload(s)]
+Tracing okhttp3.HttpUrl.namesAndValuesToQueryString [1 overload(s)]
+Tracing okhttp3.HttpUrl.parse [1 overload(s)]
+Tracing okhttp3.HttpUrl.pathSegmentsToString [1 overload(s)]
+Tracing okhttp3.HttpUrl.percentDecode [4 overload(s)]
+Tracing okhttp3.HttpUrl.percentEncoded [1 overload(s)]
+Tracing okhttp3.HttpUrl.queryStringToNamesAndValues [1 overload(s)]
+found is true
+before:okhttp3.internal.connection.ConnectionSpecSelector
+after:okhttp3.internal.connection.ConnectionSpecSelector
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.connection.ConnectionSpecSelector.configureSecureSocket [1 overload(s)]
+Tracing okhttp3.internal.connection.ConnectionSpecSelector.connectionFailed [1 overload(s)]
+Tracing okhttp3.internal.connection.ConnectionSpecSelector.isFallbackPossible [1 overload(s)]
+found is true
+before:okhttp3.internal.platform.OptionalMethod
+after:okhttp3.internal.platform.OptionalMethod
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.platform.OptionalMethod.invoke [1 overload(s)]
+Tracing okhttp3.internal.platform.OptionalMethod.invokeOptional [1 overload(s)]
+Tracing okhttp3.internal.platform.OptionalMethod.invokeOptionalWithoutCheckedException [1 overload(s)]
+Tracing okhttp3.internal.platform.OptionalMethod.invokeWithoutCheckedException [1 overload(s)]
+Tracing okhttp3.internal.platform.OptionalMethod.isSupported [1 overload(s)]
+Tracing okhttp3.internal.platform.OptionalMethod.getMethod [1 overload(s)]
+Tracing okhttp3.internal.platform.OptionalMethod.getPublicMethod [1 overload(s)]
+found is true
+before:okhttp3.internal.ws.RealWebSocket$PingRunnable
+after:okhttp3.internal.ws.RealWebSocket$PingRunnable
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.ws.RealWebSocket$PingRunnable.run [1 overload(s)]
+found is true
+before:okhttp3.CookieJar
+after:okhttp3.CookieJar
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.CookieJar.loadForRequest [1 overload(s)]
+Tracing okhttp3.CookieJar.saveFromResponse [1 overload(s)]
+found is true
+before:okhttp3.internal.http2.StreamResetException
+after:okhttp3.internal.http2.StreamResetException
+entering traceClass
+entering pasedMethods
+entering traceMethods
+found is true
+before:okhttp3.internal.http2.Http2Connection$Builder
+after:okhttp3.internal.http2.Http2Connection$Builder
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.http2.Http2Connection$Builder.build [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Connection$Builder.listener [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Connection$Builder.pingIntervalMillis [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Connection$Builder.pushObserver [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Connection$Builder.socket [2 overload(s)]
+found is true
+before:okhttp3.internal.ws.RealWebSocket
+after:okhttp3.internal.ws.RealWebSocket
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.ws.RealWebSocket.awaitTermination [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.cancel [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.checkResponse [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.close [2 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.connect [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.failWebSocket [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.initReaderAndWriter [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.loopReader [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.onReadClose [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.onReadMessage [2 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.onReadPing [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.onReadPong [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.pong [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.processNextFrame [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.queueSize [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.receivedPingCount [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.receivedPongCount [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.request [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.send [3 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.sentPingCount [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.tearDown [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.writeOneFrame [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.writePingFrame [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket.runWriter [1 overload(s)]
+found is true
+before:okhttp3.MediaType
+after:okhttp3.MediaType
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.MediaType.charset [2 overload(s)]
+Tracing okhttp3.MediaType.equals [1 overload(s)]
+Tracing okhttp3.MediaType.hashCode [1 overload(s)]
+Tracing okhttp3.MediaType.subtype [1 overload(s)]
+Tracing okhttp3.MediaType.toString [1 overload(s)]
+Tracing okhttp3.MediaType.type [1 overload(s)]
+Tracing okhttp3.MediaType.parse [1 overload(s)]
+found is true
+before:okhttp3.internal.connection.ConnectInterceptor
+after:okhttp3.internal.connection.ConnectInterceptor
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.connection.ConnectInterceptor.intercept [1 overload(s)]
+found is true
+before:okhttp3.internal.ws.WebSocketReader$FrameCallback
+after:okhttp3.internal.ws.WebSocketReader$FrameCallback
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.ws.WebSocketReader$FrameCallback.onReadClose [1 overload(s)]
+Tracing okhttp3.internal.ws.WebSocketReader$FrameCallback.onReadMessage [2 overload(s)]
+Tracing okhttp3.internal.ws.WebSocketReader$FrameCallback.onReadPing [1 overload(s)]
+Tracing okhttp3.internal.ws.WebSocketReader$FrameCallback.onReadPong [1 overload(s)]
+found is true
+before:okhttp3.internal.platform.Jdk9Platform
+after:okhttp3.internal.platform.Jdk9Platform
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.platform.Jdk9Platform.configureTlsExtensions [1 overload(s)]
+Tracing okhttp3.internal.platform.Jdk9Platform.getSelectedProtocol [1 overload(s)]
+Tracing okhttp3.internal.platform.Jdk9Platform.trustManager [1 overload(s)]
+Tracing okhttp3.internal.platform.Jdk9Platform.buildIfSupported [1 overload(s)]
+found is true
+before:okhttp3.internal.http.HttpHeaders
+after:okhttp3.internal.http.HttpHeaders
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.http.HttpHeaders.contentLength [2 overload(s)]
+Tracing okhttp3.internal.http.HttpHeaders.hasBody [1 overload(s)]
+Tracing okhttp3.internal.http.HttpHeaders.hasVaryAll [2 overload(s)]
+Tracing okhttp3.internal.http.HttpHeaders.parseChallenges [1 overload(s)]
+Tracing okhttp3.internal.http.HttpHeaders.parseSeconds [1 overload(s)]
+Tracing okhttp3.internal.http.HttpHeaders.receiveHeaders [1 overload(s)]
+Tracing okhttp3.internal.http.HttpHeaders.skipUntil [1 overload(s)]
+Tracing okhttp3.internal.http.HttpHeaders.skipWhitespace [1 overload(s)]
+Tracing okhttp3.internal.http.HttpHeaders.stringToLong [1 overload(s)]
+Tracing okhttp3.internal.http.HttpHeaders.varyFields [2 overload(s)]
+Tracing okhttp3.internal.http.HttpHeaders.varyHeaders [2 overload(s)]
+Tracing okhttp3.internal.http.HttpHeaders.varyMatches [1 overload(s)]
+found is true
+before:okhttp3.internal.cache.DiskLruCache$Editor
+after:okhttp3.internal.cache.DiskLruCache$Editor
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.cache.DiskLruCache$Editor.abort [1 overload(s)]
+Tracing okhttp3.internal.cache.DiskLruCache$Editor.abortUnlessCommitted [1 overload(s)]
+Tracing okhttp3.internal.cache.DiskLruCache$Editor.commit [1 overload(s)]
+Tracing okhttp3.internal.cache.DiskLruCache$Editor.detach [1 overload(s)]
+Tracing okhttp3.internal.cache.DiskLruCache$Editor.newSink [1 overload(s)]
+Tracing okhttp3.internal.cache.DiskLruCache$Editor.newSource [1 overload(s)]
+found is true
+before:okhttp3.internal.ws.RealWebSocket$Streams
+after:okhttp3.internal.ws.RealWebSocket$Streams
+entering traceClass
+entering pasedMethods
+entering traceMethods
+found is true
+before:okhttp3.internal.tls.TrustRootIndex
+after:okhttp3.internal.tls.TrustRootIndex
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.tls.TrustRootIndex.findByIssuerAndSignature [1 overload(s)]
+found is true
+before:okhttp3.EventListener
+after:okhttp3.EventListener
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.EventListener.callEnd [1 overload(s)]
+Tracing okhttp3.EventListener.callFailed [1 overload(s)]
+Tracing okhttp3.EventListener.callStart [1 overload(s)]
+Tracing okhttp3.EventListener.connectEnd [1 overload(s)]
+Tracing okhttp3.EventListener.connectFailed [1 overload(s)]
+Tracing okhttp3.EventListener.connectStart [1 overload(s)]
+Tracing okhttp3.EventListener.connectionAcquired [1 overload(s)]
+Tracing okhttp3.EventListener.connectionReleased [1 overload(s)]
+Tracing okhttp3.EventListener.dnsEnd [1 overload(s)]
+Tracing okhttp3.EventListener.dnsStart [1 overload(s)]
+Tracing okhttp3.EventListener.requestBodyEnd [1 overload(s)]
+Tracing okhttp3.EventListener.requestBodyStart [1 overload(s)]
+Tracing okhttp3.EventListener.requestHeadersEnd [1 overload(s)]
+Tracing okhttp3.EventListener.requestHeadersStart [1 overload(s)]
+Tracing okhttp3.EventListener.responseBodyEnd [1 overload(s)]
+Tracing okhttp3.EventListener.responseBodyStart [1 overload(s)]
+Tracing okhttp3.EventListener.responseHeadersEnd [1 overload(s)]
+Tracing okhttp3.EventListener.responseHeadersStart [1 overload(s)]
+Tracing okhttp3.EventListener.secureConnectEnd [1 overload(s)]
+Tracing okhttp3.EventListener.secureConnectStart [1 overload(s)]
+Tracing okhttp3.EventListener.factory [1 overload(s)]
+found is true
+before:okhttp3.Protocol
+after:okhttp3.Protocol
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Protocol.toString [1 overload(s)]
+Tracing okhttp3.Protocol.get [1 overload(s)]
+Tracing okhttp3.Protocol.valueOf [2 overload(s)]
+Tracing okhttp3.Protocol.values [1 overload(s)]
+found is true
+before:okhttp3.internal.connection.RealConnection
+after:okhttp3.internal.connection.RealConnection
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.connection.RealConnection.cancel [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.connect [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.handshake [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.isEligible [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.isHealthy [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.isMultiplexed [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.newCodec [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.newWebSocketStreams [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.onSettings [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.onStream [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.protocol [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.route [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.socket [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.supportsUrl [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.toString [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.connectSocket [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.connectTls [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.connectTunnel [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.createTunnel [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.createTunnelRequest [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.establishProtocol [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.isValid [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.testConnection [1 overload(s)]
+found is true
+before:okhttp3.RealCall$AsyncCall
+after:okhttp3.RealCall$AsyncCall
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.RealCall$AsyncCall.execute [1 overload(s)]
+Tracing okhttp3.RealCall$AsyncCall.get [1 overload(s)]
+Tracing okhttp3.RealCall$AsyncCall.host [1 overload(s)]
+Tracing okhttp3.RealCall$AsyncCall.request [1 overload(s)]
+found is true
+before:okhttp3.Headers$Builder
+after:okhttp3.Headers$Builder
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Headers$Builder.add [2 overload(s)]
+Tracing okhttp3.Headers$Builder.addLenient [2 overload(s)]
+Tracing okhttp3.Headers$Builder.build [1 overload(s)]
+Tracing okhttp3.Headers$Builder.get [1 overload(s)]
+Tracing okhttp3.Headers$Builder.removeAll [1 overload(s)]
+Tracing okhttp3.Headers$Builder.set [1 overload(s)]
+Tracing okhttp3.Headers$Builder.checkNameAndValue [1 overload(s)]
+found is true
+before:okhttp3.internal.ws.RealWebSocket$CancelRunnable
+after:okhttp3.internal.ws.RealWebSocket$CancelRunnable
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.ws.RealWebSocket$CancelRunnable.run [1 overload(s)]
+found is true
+before:okhttp3.internal.http2.Http2Connection
+after:okhttp3.internal.http2.Http2Connection
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.http2.Http2Connection.addBytesToWriteWindow [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Connection.awaitPong [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Connection.close [2 overload(s)]
+Tracing okhttp3.internal.http2.Http2Connection.flush [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Connection.getProtocol [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Connection.getStream [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Connection.isShutdown [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Connection.maxConcurrentStreams [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Connection.newStream [2 overload(s)]
+Tracing okhttp3.internal.http2.Http2Connection.openStreamCount [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Connection.pushDataLater [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Connection.pushHeadersLater [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Connection.pushRequestLater [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Connection.pushResetLater [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Connection.pushStream [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Connection.pushedStream [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Connection.removeStream [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Connection.setSettings [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Connection.shutdown [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Connection.start [2 overload(s)]
+Tracing okhttp3.internal.http2.Http2Connection.writeData [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Connection.writePing [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Connection.writePingAndAwaitPong [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Connection.writeSynReply [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Connection.writeSynReset [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Connection.writeSynResetLater [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Connection.writeWindowUpdateLater [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Connection.access$000 [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Connection.access$100 [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Connection.access$200 [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Connection.access$302 [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Connection.failConnection [1 overload(s)]
+found is true
+before:okhttp3.internal.http2.Http2Stream
+after:okhttp3.internal.http2.Http2Stream
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.http2.Http2Stream.addBytesToWriteWindow [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Stream.cancelStreamIfNecessary [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Stream.checkOutNotClosed [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Stream.close [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Stream.closeLater [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Stream.getConnection [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Stream.getErrorCode [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Stream.getId [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Stream.getRequestHeaders [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Stream.getSink [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Stream.getSource [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Stream.isLocallyInitiated [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Stream.isOpen [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Stream.readTimeout [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Stream.receiveData [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Stream.receiveFin [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Stream.receiveHeaders [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Stream.receiveRstStream [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Stream.sendResponseHeaders [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Stream.takeResponseHeaders [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Stream.waitForIo [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Stream.writeTimeout [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Stream.closeInternal [1 overload(s)]
+found is true
+before:okhttp3.internal.cache.CacheRequest
+after:okhttp3.internal.cache.CacheRequest
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.cache.CacheRequest.abort [1 overload(s)]
+Tracing okhttp3.internal.cache.CacheRequest.body [1 overload(s)]
+found is true
+before:okhttp3.internal.Util
+after:okhttp3.internal.Util
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.Util.assertionError [1 overload(s)]
+Tracing okhttp3.internal.Util.bomAwareCharset [1 overload(s)]
+Tracing okhttp3.internal.Util.canonicalizeHost [1 overload(s)]
+Tracing okhttp3.internal.Util.checkDuration [1 overload(s)]
+Tracing okhttp3.internal.Util.checkOffsetAndCount [1 overload(s)]
+Tracing okhttp3.internal.Util.closeQuietly [3 overload(s)]
+Tracing okhttp3.internal.Util.concat [1 overload(s)]
+Tracing okhttp3.internal.Util.containsInvalidHostnameAsciiCodes [1 overload(s)]
+Tracing okhttp3.internal.Util.decodeHexDigit [1 overload(s)]
+Tracing okhttp3.internal.Util.decodeIpv4Suffix [1 overload(s)]
+Tracing okhttp3.internal.Util.decodeIpv6 [1 overload(s)]
+Tracing okhttp3.internal.Util.delimiterOffset [2 overload(s)]
+Tracing okhttp3.internal.Util.discard [1 overload(s)]
+Tracing okhttp3.internal.Util.equal [1 overload(s)]
+Tracing okhttp3.internal.Util.format [1 overload(s)]
+Tracing okhttp3.internal.Util.hostHeader [1 overload(s)]
+Tracing okhttp3.internal.Util.immutableList [2 overload(s)]
+Tracing okhttp3.internal.Util.indexOf [1 overload(s)]
+Tracing okhttp3.internal.Util.indexOfControlOrNonAscii [1 overload(s)]
+Tracing okhttp3.internal.Util.inet6AddressToAscii [1 overload(s)]
+Tracing okhttp3.internal.Util.intersect [1 overload(s)]
+Tracing okhttp3.internal.Util.isAndroidGetsocknameError [1 overload(s)]
+Tracing okhttp3.internal.Util.nonEmptyIntersection [1 overload(s)]
+Tracing okhttp3.internal.Util.skipAll [1 overload(s)]
+Tracing okhttp3.internal.Util.skipLeadingAsciiWhitespace [1 overload(s)]
+Tracing okhttp3.internal.Util.skipTrailingAsciiWhitespace [1 overload(s)]
+Tracing okhttp3.internal.Util.threadFactory [1 overload(s)]
+Tracing okhttp3.internal.Util.trimSubstring [1 overload(s)]
+Tracing okhttp3.internal.Util.verifyAsIpAddress [1 overload(s)]
+found is true
+before:okhttp3.internal.http2.ConnectionShutdownException
+after:okhttp3.internal.http2.ConnectionShutdownException
+entering traceClass
+entering pasedMethods
+entering traceMethods
+found is true
+before:okhttp3.ConnectionSpec
+after:okhttp3.ConnectionSpec
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.ConnectionSpec.apply [1 overload(s)]
+Tracing okhttp3.ConnectionSpec.cipherSuites [1 overload(s)]
+Tracing okhttp3.ConnectionSpec.equals [1 overload(s)]
+Tracing okhttp3.ConnectionSpec.hashCode [1 overload(s)]
+Tracing okhttp3.ConnectionSpec.isCompatible [1 overload(s)]
+Tracing okhttp3.ConnectionSpec.isTls [1 overload(s)]
+Tracing okhttp3.ConnectionSpec.supportsTlsExtensions [1 overload(s)]
+Tracing okhttp3.ConnectionSpec.tlsVersions [1 overload(s)]
+Tracing okhttp3.ConnectionSpec.toString [1 overload(s)]
+Tracing okhttp3.ConnectionSpec.supportedSpec [1 overload(s)]
+found is true
+before:okhttp3.OkHttpClient
+after:okhttp3.OkHttpClient
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.OkHttpClient.authenticator [1 overload(s)]
+Tracing okhttp3.OkHttpClient.cache [1 overload(s)]
+Tracing okhttp3.OkHttpClient.certificatePinner [1 overload(s)]
+Tracing okhttp3.OkHttpClient.connectTimeoutMillis [1 overload(s)]
+Tracing okhttp3.OkHttpClient.connectionPool [1 overload(s)]
+Tracing okhttp3.OkHttpClient.connectionSpecs [1 overload(s)]
+Tracing okhttp3.OkHttpClient.cookieJar [1 overload(s)]
+Tracing okhttp3.OkHttpClient.dispatcher [1 overload(s)]
+Tracing okhttp3.OkHttpClient.dns [1 overload(s)]
+Tracing okhttp3.OkHttpClient.eventListenerFactory [1 overload(s)]
+Tracing okhttp3.OkHttpClient.followRedirects [1 overload(s)]
+Tracing okhttp3.OkHttpClient.followSslRedirects [1 overload(s)]
+Tracing okhttp3.OkHttpClient.hostnameVerifier [1 overload(s)]
+Tracing okhttp3.OkHttpClient.interceptors [1 overload(s)]
+Tracing okhttp3.OkHttpClient.internalCache [1 overload(s)]
+Tracing okhttp3.OkHttpClient.networkInterceptors [1 overload(s)]
+Tracing okhttp3.OkHttpClient.newBuilder [1 overload(s)]
+Tracing okhttp3.OkHttpClient.newCall [1 overload(s)]
+Tracing okhttp3.OkHttpClient.newWebSocket [1 overload(s)]
+Tracing okhttp3.OkHttpClient.pingIntervalMillis [1 overload(s)]
+Tracing okhttp3.OkHttpClient.protocols [1 overload(s)]
+Tracing okhttp3.OkHttpClient.proxy [1 overload(s)]
+Tracing okhttp3.OkHttpClient.proxyAuthenticator [1 overload(s)]
+Tracing okhttp3.OkHttpClient.proxySelector [1 overload(s)]
+Tracing okhttp3.OkHttpClient.readTimeoutMillis [1 overload(s)]
+Tracing okhttp3.OkHttpClient.retryOnConnectionFailure [1 overload(s)]
+Tracing okhttp3.OkHttpClient.socketFactory [1 overload(s)]
+Tracing okhttp3.OkHttpClient.sslSocketFactory [1 overload(s)]
+Tracing okhttp3.OkHttpClient.writeTimeoutMillis [1 overload(s)]
+Tracing okhttp3.OkHttpClient.systemDefaultSslSocketFactory [1 overload(s)]
+Tracing okhttp3.OkHttpClient.systemDefaultTrustManager [1 overload(s)]
+found is true
+before:okhttp3.internal.Internal
+after:okhttp3.internal.Internal
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.Internal.addLenient [2 overload(s)]
+Tracing okhttp3.internal.Internal.apply [1 overload(s)]
+Tracing okhttp3.internal.Internal.code [1 overload(s)]
+Tracing okhttp3.internal.Internal.connectionBecameIdle [1 overload(s)]
+Tracing okhttp3.internal.Internal.deduplicate [1 overload(s)]
+Tracing okhttp3.internal.Internal.equalsNonHost [1 overload(s)]
+Tracing okhttp3.internal.Internal.get [1 overload(s)]
+Tracing okhttp3.internal.Internal.getHttpUrlChecked [1 overload(s)]
+Tracing okhttp3.internal.Internal.newWebSocketCall [1 overload(s)]
+Tracing okhttp3.internal.Internal.put [1 overload(s)]
+Tracing okhttp3.internal.Internal.routeDatabase [1 overload(s)]
+Tracing okhttp3.internal.Internal.setCache [1 overload(s)]
+Tracing okhttp3.internal.Internal.streamAllocation [1 overload(s)]
+Tracing okhttp3.internal.Internal.initializeInstanceForTests [1 overload(s)]
+found is true
+before:okhttp3.Authenticator
+after:okhttp3.Authenticator
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Authenticator.authenticate [1 overload(s)]
+found is true
+before:okhttp3.internal.http.RealInterceptorChain
+after:okhttp3.internal.http.RealInterceptorChain
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.http.RealInterceptorChain.call [1 overload(s)]
+Tracing okhttp3.internal.http.RealInterceptorChain.connectTimeoutMillis [1 overload(s)]
+Tracing okhttp3.internal.http.RealInterceptorChain.connection [1 overload(s)]
+Tracing okhttp3.internal.http.RealInterceptorChain.eventListener [1 overload(s)]
+Tracing okhttp3.internal.http.RealInterceptorChain.httpStream [1 overload(s)]
+Tracing okhttp3.internal.http.RealInterceptorChain.proceed [2 overload(s)]
+Tracing okhttp3.internal.http.RealInterceptorChain.readTimeoutMillis [1 overload(s)]
+Tracing okhttp3.internal.http.RealInterceptorChain.request [1 overload(s)]
+Tracing okhttp3.internal.http.RealInterceptorChain.streamAllocation [1 overload(s)]
+Tracing okhttp3.internal.http.RealInterceptorChain.withConnectTimeout [1 overload(s)]
+Tracing okhttp3.internal.http.RealInterceptorChain.withReadTimeout [1 overload(s)]
+Tracing okhttp3.internal.http.RealInterceptorChain.withWriteTimeout [1 overload(s)]
+Tracing okhttp3.internal.http.RealInterceptorChain.writeTimeoutMillis [1 overload(s)]
+found is true
+before:okhttp3.Interceptor
+after:okhttp3.Interceptor
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Interceptor.intercept [1 overload(s)]
+found is true
+before:okhttp3.WebSocket
+after:okhttp3.WebSocket
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.WebSocket.cancel [1 overload(s)]
+Tracing okhttp3.WebSocket.close [1 overload(s)]
+Tracing okhttp3.WebSocket.queueSize [1 overload(s)]
+Tracing okhttp3.WebSocket.request [1 overload(s)]
+Tracing okhttp3.WebSocket.send [2 overload(s)]
+found is true
+before:okhttp3.ResponseBody
+after:okhttp3.ResponseBody
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.ResponseBody.byteStream [1 overload(s)]
+Tracing okhttp3.ResponseBody.bytes [1 overload(s)]
+Tracing okhttp3.ResponseBody.charStream [1 overload(s)]
+Tracing okhttp3.ResponseBody.close [1 overload(s)]
+Tracing okhttp3.ResponseBody.contentLength [1 overload(s)]
+Tracing okhttp3.ResponseBody.contentType [1 overload(s)]
+Tracing okhttp3.ResponseBody.source [1 overload(s)]
+Tracing okhttp3.ResponseBody.string [1 overload(s)]
+Tracing okhttp3.ResponseBody.charset [1 overload(s)]
+Tracing okhttp3.ResponseBody.create [3 overload(s)]
+found is true
+before:okhttp3.Headers
+after:okhttp3.Headers
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Headers.byteCount [1 overload(s)]
+Tracing okhttp3.Headers.equals [1 overload(s)]
+Tracing okhttp3.Headers.get [2 overload(s)]
+Tracing okhttp3.Headers.getDate [1 overload(s)]
+Tracing okhttp3.Headers.hashCode [1 overload(s)]
+Tracing okhttp3.Headers.name [1 overload(s)]
+Tracing okhttp3.Headers.names [1 overload(s)]
+Tracing okhttp3.Headers.newBuilder [1 overload(s)]
+Tracing okhttp3.Headers.size [1 overload(s)]
+Tracing okhttp3.Headers.toMultimap [1 overload(s)]
+Tracing okhttp3.Headers.toString [1 overload(s)]
+Tracing okhttp3.Headers.value [1 overload(s)]
+Tracing okhttp3.Headers.values [1 overload(s)]
+Tracing okhttp3.Headers.of [2 overload(s)]
+found is true
+before:okhttp3.CertificatePinner
+after:okhttp3.CertificatePinner
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.CertificatePinner.check [2 overload(s)]
+Tracing okhttp3.CertificatePinner.equals [1 overload(s)]
+Tracing okhttp3.CertificatePinner.findMatchingPins [1 overload(s)]
+Tracing okhttp3.CertificatePinner.hashCode [1 overload(s)]
+Tracing okhttp3.CertificatePinner.withCertificateChainCleaner [1 overload(s)]
+Tracing okhttp3.CertificatePinner.pin [1 overload(s)]
+Tracing okhttp3.CertificatePinner.sha1 [1 overload(s)]
+Tracing okhttp3.CertificatePinner.sha256 [1 overload(s)]
+found is true
+before:okhttp3.CipherSuite$1
+after:okhttp3.CipherSuite$1
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.CipherSuite$1.compare [2 overload(s)]
+found is true
+before:okhttp3.internal.cache.CacheInterceptor
+after:okhttp3.internal.cache.CacheInterceptor
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.cache.CacheInterceptor.intercept [1 overload(s)]
+Tracing okhttp3.internal.cache.CacheInterceptor.cacheWritingResponse [1 overload(s)]
+Tracing okhttp3.internal.cache.CacheInterceptor.combine [1 overload(s)]
+Tracing okhttp3.internal.cache.CacheInterceptor.isContentSpecificHeader [1 overload(s)]
+Tracing okhttp3.internal.cache.CacheInterceptor.isEndToEnd [1 overload(s)]
+Tracing okhttp3.internal.cache.CacheInterceptor.stripBody [1 overload(s)]
+found is true
+before:okhttp3.internal.http.CallServerInterceptor
+after:okhttp3.internal.http.CallServerInterceptor
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.http.CallServerInterceptor.intercept [1 overload(s)]
+found is true
+before:okhttp3.internal.platform.AndroidPlatform$AndroidCertificateChainCleaner
+after:okhttp3.internal.platform.AndroidPlatform$AndroidCertificateChainCleaner
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.platform.AndroidPlatform$AndroidCertificateChainCleaner.clean [1 overload(s)]
+Tracing okhttp3.internal.platform.AndroidPlatform$AndroidCertificateChainCleaner.equals [1 overload(s)]
+Tracing okhttp3.internal.platform.AndroidPlatform$AndroidCertificateChainCleaner.hashCode [1 overload(s)]
+found is true
+before:okhttp3.Challenge
+after:okhttp3.Challenge
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Challenge.charset [1 overload(s)]
+Tracing okhttp3.Challenge.equals [1 overload(s)]
+Tracing okhttp3.Challenge.hashCode [1 overload(s)]
+Tracing okhttp3.Challenge.realm [1 overload(s)]
+Tracing okhttp3.Challenge.scheme [1 overload(s)]
+Tracing okhttp3.Challenge.toString [1 overload(s)]
+Tracing okhttp3.Challenge.withCharset [1 overload(s)]
+found is true
+before:okhttp3.RealCall
+after:okhttp3.RealCall
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.RealCall.cancel [1 overload(s)]
+Tracing okhttp3.RealCall.clone [3 overload(s)]
+Tracing okhttp3.RealCall.enqueue [1 overload(s)]
+Tracing okhttp3.RealCall.execute [1 overload(s)]
+Tracing okhttp3.RealCall.getResponseWithInterceptorChain [1 overload(s)]
+Tracing okhttp3.RealCall.isCanceled [1 overload(s)]
+Tracing okhttp3.RealCall.isExecuted [1 overload(s)]
+Tracing okhttp3.RealCall.redactedUrl [1 overload(s)]
+Tracing okhttp3.RealCall.request [1 overload(s)]
+Tracing okhttp3.RealCall.streamAllocation [1 overload(s)]
+Tracing okhttp3.RealCall.toLoggableString [1 overload(s)]
+Tracing okhttp3.RealCall.access$000 [1 overload(s)]
+Tracing okhttp3.RealCall.captureCallStackTrace [1 overload(s)]
+Tracing okhttp3.RealCall.newRealCall [1 overload(s)]
+found is true
+before:okhttp3.internal.platform.AndroidPlatform$CloseGuard
+after:okhttp3.internal.platform.AndroidPlatform$CloseGuard
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.platform.AndroidPlatform$CloseGuard.createAndOpen [1 overload(s)]
+Tracing okhttp3.internal.platform.AndroidPlatform$CloseGuard.warnIfOpen [1 overload(s)]
+Tracing okhttp3.internal.platform.AndroidPlatform$CloseGuard.get [1 overload(s)]
+found is true
+before:okhttp3.Call$Factory
+after:okhttp3.Call$Factory
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Call$Factory.newCall [1 overload(s)]
+found is true
+before:okhttp3.internal.ws.RealWebSocket$1
+after:okhttp3.internal.ws.RealWebSocket$1
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.ws.RealWebSocket$1.run [1 overload(s)]
+found is true
+before:okhttp3.internal.ws.RealWebSocket$2
+after:okhttp3.internal.ws.RealWebSocket$2
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.ws.RealWebSocket$2.onFailure [1 overload(s)]
+Tracing okhttp3.internal.ws.RealWebSocket$2.onResponse [1 overload(s)]
+found is true
+before:okhttp3.internal.http.BridgeInterceptor
+after:okhttp3.internal.http.BridgeInterceptor
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.http.BridgeInterceptor.intercept [1 overload(s)]
+Tracing okhttp3.internal.http.BridgeInterceptor.cookieHeader [1 overload(s)]
+found is true
+before:okhttp3.OkHttpClient$1
+after:okhttp3.OkHttpClient$1
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.OkHttpClient$1.addLenient [2 overload(s)]
+Tracing okhttp3.OkHttpClient$1.apply [1 overload(s)]
+Tracing okhttp3.OkHttpClient$1.code [1 overload(s)]
+Tracing okhttp3.OkHttpClient$1.connectionBecameIdle [1 overload(s)]
+Tracing okhttp3.OkHttpClient$1.deduplicate [1 overload(s)]
+Tracing okhttp3.OkHttpClient$1.equalsNonHost [1 overload(s)]
+Tracing okhttp3.OkHttpClient$1.get [1 overload(s)]
+Tracing okhttp3.OkHttpClient$1.getHttpUrlChecked [1 overload(s)]
+Tracing okhttp3.OkHttpClient$1.newWebSocketCall [1 overload(s)]
+Tracing okhttp3.OkHttpClient$1.put [1 overload(s)]
+Tracing okhttp3.OkHttpClient$1.routeDatabase [1 overload(s)]
+Tracing okhttp3.OkHttpClient$1.setCache [1 overload(s)]
+Tracing okhttp3.OkHttpClient$1.streamAllocation [1 overload(s)]
+found is true
+before:okhttp3.Route
+after:okhttp3.Route
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Route.address [1 overload(s)]
+Tracing okhttp3.Route.equals [1 overload(s)]
+Tracing okhttp3.Route.hashCode [1 overload(s)]
+Tracing okhttp3.Route.proxy [1 overload(s)]
+Tracing okhttp3.Route.requiresTunnel [1 overload(s)]
+Tracing okhttp3.Route.socketAddress [1 overload(s)]
+Tracing okhttp3.Route.toString [1 overload(s)]
+found is true
+before:okhttp3.internal.connection.RouteSelector$Selection
+after:okhttp3.internal.connection.RouteSelector$Selection
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.connection.RouteSelector$Selection.getAll [1 overload(s)]
+Tracing okhttp3.internal.connection.RouteSelector$Selection.hasNext [1 overload(s)]
+Tracing okhttp3.internal.connection.RouteSelector$Selection.next [1 overload(s)]
+found is true
+before:okhttp3.ConnectionPool
+after:okhttp3.ConnectionPool
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.ConnectionPool.cleanup [1 overload(s)]
+Tracing okhttp3.ConnectionPool.connectionBecameIdle [1 overload(s)]
+Tracing okhttp3.ConnectionPool.connectionCount [1 overload(s)]
+Tracing okhttp3.ConnectionPool.deduplicate [1 overload(s)]
+Tracing okhttp3.ConnectionPool.evictAll [1 overload(s)]
+Tracing okhttp3.ConnectionPool.get [1 overload(s)]
+Tracing okhttp3.ConnectionPool.idleConnectionCount [1 overload(s)]
+Tracing okhttp3.ConnectionPool.put [1 overload(s)]
+Tracing okhttp3.ConnectionPool.pruneAndGetAllocationCount [1 overload(s)]
+found is true
+before:okhttp3.internal.tls.OkHostnameVerifier
+after:okhttp3.internal.tls.OkHostnameVerifier
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.tls.OkHostnameVerifier.verify [2 overload(s)]
+Tracing okhttp3.internal.tls.OkHostnameVerifier.verifyHostname [2 overload(s)]
+Tracing okhttp3.internal.tls.OkHostnameVerifier.allSubjectAltNames [1 overload(s)]
+Tracing okhttp3.internal.tls.OkHostnameVerifier.getSubjectAltNames [1 overload(s)]
+Tracing okhttp3.internal.tls.OkHostnameVerifier.verifyIpAddress [1 overload(s)]
+found is true
+before:okhttp3.internal.Util$1
+after:okhttp3.internal.Util$1
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.Util$1.compare [2 overload(s)]
+found is true
+before:okhttp3.internal.Util$2
+after:okhttp3.internal.Util$2
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.Util$2.newThread [1 overload(s)]
+found is true
+before:okhttp3.internal.tls.CertificateChainCleaner
+after:okhttp3.internal.tls.CertificateChainCleaner
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.tls.CertificateChainCleaner.clean [1 overload(s)]
+Tracing okhttp3.internal.tls.CertificateChainCleaner.get [2 overload(s)]
+found is true
+before:okhttp3.Cache$CacheResponseBody
+after:okhttp3.Cache$CacheResponseBody
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Cache$CacheResponseBody.contentLength [1 overload(s)]
+Tracing okhttp3.Cache$CacheResponseBody.contentType [1 overload(s)]
+Tracing okhttp3.Cache$CacheResponseBody.source [1 overload(s)]
+found is true
+before:okhttp3.internal.http.HttpCodec
+after:okhttp3.internal.http.HttpCodec
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.http.HttpCodec.cancel [1 overload(s)]
+Tracing okhttp3.internal.http.HttpCodec.createRequestBody [1 overload(s)]
+Tracing okhttp3.internal.http.HttpCodec.finishRequest [1 overload(s)]
+Tracing okhttp3.internal.http.HttpCodec.flushRequest [1 overload(s)]
+Tracing okhttp3.internal.http.HttpCodec.openResponseBody [1 overload(s)]
+Tracing okhttp3.internal.http.HttpCodec.readResponseHeaders [1 overload(s)]
+Tracing okhttp3.internal.http.HttpCodec.writeRequestHeaders [1 overload(s)]
+found is true
+before:okhttp3.Interceptor$Chain
+after:okhttp3.Interceptor$Chain
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Interceptor$Chain.call [1 overload(s)]
+Tracing okhttp3.Interceptor$Chain.connectTimeoutMillis [1 overload(s)]
+Tracing okhttp3.Interceptor$Chain.connection [1 overload(s)]
+Tracing okhttp3.Interceptor$Chain.proceed [1 overload(s)]
+Tracing okhttp3.Interceptor$Chain.readTimeoutMillis [1 overload(s)]
+Tracing okhttp3.Interceptor$Chain.request [1 overload(s)]
+Tracing okhttp3.Interceptor$Chain.withConnectTimeout [1 overload(s)]
+Tracing okhttp3.Interceptor$Chain.withReadTimeout [1 overload(s)]
+Tracing okhttp3.Interceptor$Chain.withWriteTimeout [1 overload(s)]
+Tracing okhttp3.Interceptor$Chain.writeTimeoutMillis [1 overload(s)]
+found is true
+before:okhttp3.internal.platform.Platform
+after:okhttp3.internal.platform.Platform
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.platform.Platform.afterHandshake [1 overload(s)]
+Tracing okhttp3.internal.platform.Platform.buildCertificateChainCleaner [2 overload(s)]
+Tracing okhttp3.internal.platform.Platform.buildTrustRootIndex [1 overload(s)]
+Tracing okhttp3.internal.platform.Platform.configureTlsExtensions [1 overload(s)]
+Tracing okhttp3.internal.platform.Platform.connectSocket [1 overload(s)]
+Tracing okhttp3.internal.platform.Platform.getPrefix [1 overload(s)]
+Tracing okhttp3.internal.platform.Platform.getSSLContext [1 overload(s)]
+Tracing okhttp3.internal.platform.Platform.getSelectedProtocol [1 overload(s)]
+Tracing okhttp3.internal.platform.Platform.getStackTraceForCloseable [1 overload(s)]
+Tracing okhttp3.internal.platform.Platform.isCleartextTrafficPermitted [1 overload(s)]
+Tracing okhttp3.internal.platform.Platform.log [1 overload(s)]
+Tracing okhttp3.internal.platform.Platform.logCloseableLeak [1 overload(s)]
+Tracing okhttp3.internal.platform.Platform.trustManager [1 overload(s)]
+Tracing okhttp3.internal.platform.Platform.alpnProtocolNames [1 overload(s)]
+Tracing okhttp3.internal.platform.Platform.concatLengthPrefixed [1 overload(s)]
+Tracing okhttp3.internal.platform.Platform.findPlatform [1 overload(s)]
+Tracing okhttp3.internal.platform.Platform.get [1 overload(s)]
+Tracing okhttp3.internal.platform.Platform.isConscryptPreferred [1 overload(s)]
+Tracing okhttp3.internal.platform.Platform.readFieldOrNull [1 overload(s)]
+found is true
+before:okhttp3.Dns$1
+after:okhttp3.Dns$1
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Dns$1.lookup [1 overload(s)]
+found is true
+before:okhttp3.internal.connection.StreamAllocation
+after:okhttp3.internal.connection.StreamAllocation
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.connection.StreamAllocation.acquire [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.cancel [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.codec [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.connection [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.hasMoreRoutes [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.newStream [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.noNewStreams [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.release [2 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.releaseAndAcquire [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.route [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.streamFailed [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.streamFinished [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.toString [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.deallocate [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.findConnection [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.findHealthyConnection [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.releaseIfNoNewStreams [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.routeDatabase [1 overload(s)]
+found is true
+before:okhttp3.internal.http2.Http2Codec
+after:okhttp3.internal.http2.Http2Codec
+entering traceClass
+
+*** entered okhttp3.internal.Util.immutableList
+
+arg[0]: [text=connection],[text=host],[text=keep-alive],[text=proxy-connection],[text=te],[text=transfer-encoding],[text=encoding],[text=upgrade],[text=:method],[text=:path],[text=:scheme],[text=:authority]
+Transfer Object to JSON
+arg[0]: [{"$handle":"0x20bd52","$weakRef":700},{"$handle":"0x20c51a","$weakRef":701},{"$handle":"0x20c51e","$weakRef":702},{"$handle":"0x20c522","$weakRef":703},{"$handle":"0x20c526","$weakRef":704},{"$handle":"0x20c52a","$weakRef":705},{"$handle":"0x20c52e","$weakRef":706},{"$handle":"0x20c532","$weakRef":707},{"$handle":"0x20c536","$weakRef":708},{"$handle":"0x20c53a","$weakRef":709},{"$handle":"0x10c53e","$weakRef":710},{"$handle":"0x10c542","$weakRef":711}]
+
+retval: [[text=connection], [text=host], [text=keep-alive], [text=proxy-connection], [text=te], [text=transfer-encoding], [text=encoding], [text=upgrade], [text=:method], [text=:path], [text=:scheme], [text=:authority]]
+
+trans object: {"$handle":"0x10c54e","$weakRef":714}
+
+*** exiting okhttp3.internal.Util.immutableList
+
+*** entered okhttp3.internal.Util.immutableList
+
+arg[0]: [text=connection],[text=host],[text=keep-alive],[text=proxy-connection],[text=te],[text=transfer-encoding],[text=encoding],[text=upgrade]
+Transfer Object to JSON
+arg[0]: [{"$handle":"0x10c552","$weakRef":715},{"$handle":"0x10c556","$weakRef":716},{"$handle":"0x10c55a","$weakRef":717},{"$handle":"0x10c55e","$weakRef":718},{"$handle":"0x10c562","$weakRef":719},{"$handle":"0x10c566","$weakRef":720},{"$handle":"0x10c56a","$weakRef":721},{"$handle":"0x10c56e","$weakRef":722}]
+
+retval: [[text=connection], [text=host], [text=keep-alive], [text=proxy-connection], [text=te], [text=transfer-encoding], [text=encoding], [text=upgrade]]
+
+trans object: {"$handle":"0x10c572","$weakRef":723}
+
+*** exiting okhttp3.internal.Util.immutableList
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.http2.Http2Codec.cancel [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Codec.createRequestBody [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Codec.finishRequest [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Codec.flushRequest [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Codec.openResponseBody [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Codec.readResponseHeaders [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Codec.writeRequestHeaders [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Codec.http2HeadersList [1 overload(s)]
+Tracing okhttp3.internal.http2.Http2Codec.readHttp2HeadersList [1 overload(s)]
+found is true
+before:okhttp3.ResponseBody$BomAwareReader
+after:okhttp3.ResponseBody$BomAwareReader
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.ResponseBody$BomAwareReader.close [1 overload(s)]
+Tracing okhttp3.ResponseBody$BomAwareReader.read [1 overload(s)]
+found is true
+before:okhttp3.internal.connection.RouteDatabase
+after:okhttp3.internal.connection.RouteDatabase
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.connection.RouteDatabase.connected [1 overload(s)]
+Tracing okhttp3.internal.connection.RouteDatabase.failed [1 overload(s)]
+Tracing okhttp3.internal.connection.RouteDatabase.shouldPostpone [1 overload(s)]
+found is true
+before:okhttp3.internal.platform.JdkWithJettyBootPlatform
+after:okhttp3.internal.platform.JdkWithJettyBootPlatform
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.platform.JdkWithJettyBootPlatform.afterHandshake [1 overload(s)]
+Tracing okhttp3.internal.platform.JdkWithJettyBootPlatform.configureTlsExtensions [1 overload(s)]
+Tracing okhttp3.internal.platform.JdkWithJettyBootPlatform.getSelectedProtocol [1 overload(s)]
+Tracing okhttp3.internal.platform.JdkWithJettyBootPlatform.buildIfSupported [1 overload(s)]
+found is true
+before:okhttp3.CertificatePinner$Builder
+after:okhttp3.CertificatePinner$Builder
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.CertificatePinner$Builder.add [1 overload(s)]
+Tracing okhttp3.CertificatePinner$Builder.build [1 overload(s)]
+found is true
+before:okhttp3.internal.connection.RealConnection$1
+after:okhttp3.internal.connection.RealConnection$1
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.connection.RealConnection$1.close [1 overload(s)]
+found is true
+before:okhttp3.internal.http.RetryAndFollowUpInterceptor
+after:okhttp3.internal.http.RetryAndFollowUpInterceptor
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.http.RetryAndFollowUpInterceptor.cancel [1 overload(s)]
+Tracing okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept [1 overload(s)]
+Tracing okhttp3.internal.http.RetryAndFollowUpInterceptor.isCanceled [1 overload(s)]
+Tracing okhttp3.internal.http.RetryAndFollowUpInterceptor.setCallStackTrace [1 overload(s)]
+Tracing okhttp3.internal.http.RetryAndFollowUpInterceptor.streamAllocation [1 overload(s)]
+Tracing okhttp3.internal.http.RetryAndFollowUpInterceptor.createAddress [1 overload(s)]
+Tracing okhttp3.internal.http.RetryAndFollowUpInterceptor.followUpRequest [1 overload(s)]
+Tracing okhttp3.internal.http.RetryAndFollowUpInterceptor.isRecoverable [1 overload(s)]
+Tracing okhttp3.internal.http.RetryAndFollowUpInterceptor.recover [1 overload(s)]
+Tracing okhttp3.internal.http.RetryAndFollowUpInterceptor.retryAfter [1 overload(s)]
+Tracing okhttp3.internal.http.RetryAndFollowUpInterceptor.sameConnection [1 overload(s)]
+found is true
+before:okhttp3.Call
+after:okhttp3.Call
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Call.cancel [1 overload(s)]
+Tracing okhttp3.Call.clone [1 overload(s)]
+Tracing okhttp3.Call.enqueue [1 overload(s)]
+Tracing okhttp3.Call.execute [1 overload(s)]
+Tracing okhttp3.Call.isCanceled [1 overload(s)]
+Tracing okhttp3.Call.isExecuted [1 overload(s)]
+Tracing okhttp3.Call.request [1 overload(s)]
+found is true
+before:okhttp3.Cookie
+after:okhttp3.Cookie
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Cookie.domain [1 overload(s)]
+Tracing okhttp3.Cookie.equals [1 overload(s)]
+Tracing okhttp3.Cookie.expiresAt [1 overload(s)]
+Tracing okhttp3.Cookie.hashCode [1 overload(s)]
+Tracing okhttp3.Cookie.hostOnly [1 overload(s)]
+Tracing okhttp3.Cookie.httpOnly [1 overload(s)]
+Tracing okhttp3.Cookie.matches [1 overload(s)]
+Tracing okhttp3.Cookie.name [1 overload(s)]
+Tracing okhttp3.Cookie.path [1 overload(s)]
+Tracing okhttp3.Cookie.persistent [1 overload(s)]
+Tracing okhttp3.Cookie.secure [1 overload(s)]
+Tracing okhttp3.Cookie.toString [2 overload(s)]
+Tracing okhttp3.Cookie.value [1 overload(s)]
+Tracing okhttp3.Cookie.dateCharacterOffset [1 overload(s)]
+Tracing okhttp3.Cookie.domainMatch [1 overload(s)]
+Tracing okhttp3.Cookie.parse [2 overload(s)]
+Tracing okhttp3.Cookie.parseAll [1 overload(s)]
+Tracing okhttp3.Cookie.parseDomain [1 overload(s)]
+Tracing okhttp3.Cookie.parseExpires [1 overload(s)]
+Tracing okhttp3.Cookie.parseMaxAge [1 overload(s)]
+Tracing okhttp3.Cookie.pathMatch [1 overload(s)]
+found is true
+before:okhttp3.internal.ws.WebSocketWriter
+after:okhttp3.internal.ws.WebSocketWriter
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.ws.WebSocketWriter.newMessageSink [1 overload(s)]
+Tracing okhttp3.internal.ws.WebSocketWriter.writeClose [1 overload(s)]
+Tracing okhttp3.internal.ws.WebSocketWriter.writeMessageFrame [1 overload(s)]
+Tracing okhttp3.internal.ws.WebSocketWriter.writePing [1 overload(s)]
+Tracing okhttp3.internal.ws.WebSocketWriter.writePong [1 overload(s)]
+Tracing okhttp3.internal.ws.WebSocketWriter.writeControlFrame [1 overload(s)]
+found is true
+before:okhttp3.internal.cache.DiskLruCache
+after:okhttp3.internal.cache.DiskLruCache
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.cache.DiskLruCache.close [1 overload(s)]
+Tracing okhttp3.internal.cache.DiskLruCache.completeEdit [1 overload(s)]
+Tracing okhttp3.internal.cache.DiskLruCache.delete [1 overload(s)]
+Tracing okhttp3.internal.cache.DiskLruCache.edit [2 overload(s)]
+Tracing okhttp3.internal.cache.DiskLruCache.evictAll [1 overload(s)]
+Tracing okhttp3.internal.cache.DiskLruCache.flush [1 overload(s)]
+Tracing okhttp3.internal.cache.DiskLruCache.get [1 overload(s)]
+Tracing okhttp3.internal.cache.DiskLruCache.getDirectory [1 overload(s)]
+Tracing okhttp3.internal.cache.DiskLruCache.getMaxSize [1 overload(s)]
+Tracing okhttp3.internal.cache.DiskLruCache.initialize [1 overload(s)]
+Tracing okhttp3.internal.cache.DiskLruCache.isClosed [1 overload(s)]
+Tracing okhttp3.internal.cache.DiskLruCache.journalRebuildRequired [1 overload(s)]
+Tracing okhttp3.internal.cache.DiskLruCache.rebuildJournal [1 overload(s)]
+Tracing okhttp3.internal.cache.DiskLruCache.remove [1 overload(s)]
+Tracing okhttp3.internal.cache.DiskLruCache.removeEntry [1 overload(s)]
+Tracing okhttp3.internal.cache.DiskLruCache.setMaxSize [1 overload(s)]
+Tracing okhttp3.internal.cache.DiskLruCache.size [1 overload(s)]
+Tracing okhttp3.internal.cache.DiskLruCache.snapshots [1 overload(s)]
+Tracing okhttp3.internal.cache.DiskLruCache.trimToSize [1 overload(s)]
+Tracing okhttp3.internal.cache.DiskLruCache.checkNotClosed [1 overload(s)]
+Tracing okhttp3.internal.cache.DiskLruCache.create [1 overload(s)]
+Tracing okhttp3.internal.cache.DiskLruCache.newJournalWriter [1 overload(s)]
+Tracing okhttp3.internal.cache.DiskLruCache.processJournal [1 overload(s)]
+Tracing okhttp3.internal.cache.DiskLruCache.readJournal [1 overload(s)]
+Tracing okhttp3.internal.cache.DiskLruCache.readJournalLine [1 overload(s)]
+Tracing okhttp3.internal.cache.DiskLruCache.validateKey [1 overload(s)]
+found is true
+before:okhttp3.CacheControl
+after:okhttp3.CacheControl
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.CacheControl.immutable [1 overload(s)]
+Tracing okhttp3.CacheControl.isPrivate [1 overload(s)]
+Tracing okhttp3.CacheControl.isPublic [1 overload(s)]
+Tracing okhttp3.CacheControl.maxAgeSeconds [1 overload(s)]
+Tracing okhttp3.CacheControl.maxStaleSeconds [1 overload(s)]
+Tracing okhttp3.CacheControl.minFreshSeconds [1 overload(s)]
+Tracing okhttp3.CacheControl.mustRevalidate [1 overload(s)]
+Tracing okhttp3.CacheControl.noCache [1 overload(s)]
+Tracing okhttp3.CacheControl.noStore [1 overload(s)]
+Tracing okhttp3.CacheControl.noTransform [1 overload(s)]
+Tracing okhttp3.CacheControl.onlyIfCached [1 overload(s)]
+Tracing okhttp3.CacheControl.sMaxAgeSeconds [1 overload(s)]
+Tracing okhttp3.CacheControl.toString [1 overload(s)]
+Tracing okhttp3.CacheControl.headerValue [1 overload(s)]
+Tracing okhttp3.CacheControl.parse [1 overload(s)]
+found is true
+before:okhttp3.Request
+after:okhttp3.Request
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Request.body [1 overload(s)]
+Tracing okhttp3.Request.cacheControl [1 overload(s)]
+Tracing okhttp3.Request.header [1 overload(s)]
+Tracing okhttp3.Request.headers [2 overload(s)]
+Tracing okhttp3.Request.isHttps [1 overload(s)]
+Tracing okhttp3.Request.method [1 overload(s)]
+Tracing okhttp3.Request.newBuilder [1 overload(s)]
+Tracing okhttp3.Request.tag [1 overload(s)]
+Tracing okhttp3.Request.toString [1 overload(s)]
+Tracing okhttp3.Request.url [1 overload(s)]
+found is true
+before:okhttp3.Callback
+after:okhttp3.Callback
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Callback.onFailure [1 overload(s)]
+Tracing okhttp3.Callback.onResponse [1 overload(s)]
+found is true
+before:okhttp3.Address
+after:okhttp3.Address
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Address.certificatePinner [1 overload(s)]
+Tracing okhttp3.Address.connectionSpecs [1 overload(s)]
+Tracing okhttp3.Address.dns [1 overload(s)]
+Tracing okhttp3.Address.equals [1 overload(s)]
+Tracing okhttp3.Address.equalsNonHost [1 overload(s)]
+Tracing okhttp3.Address.hashCode [1 overload(s)]
+Tracing okhttp3.Address.hostnameVerifier [1 overload(s)]
+Tracing okhttp3.Address.protocols [1 overload(s)]
+Tracing okhttp3.Address.proxy [1 overload(s)]
+Tracing okhttp3.Address.proxyAuthenticator [1 overload(s)]
+Tracing okhttp3.Address.proxySelector [1 overload(s)]
+Tracing okhttp3.Address.socketFactory [1 overload(s)]
+Tracing okhttp3.Address.sslSocketFactory [1 overload(s)]
+Tracing okhttp3.Address.toString [1 overload(s)]
+Tracing okhttp3.Address.url [1 overload(s)]
+found is true
+before:okhttp3.internal.platform.JdkWithJettyBootPlatform$JettyNegoProvider
+after:okhttp3.internal.platform.JdkWithJettyBootPlatform$JettyNegoProvider
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.platform.JdkWithJettyBootPlatform$JettyNegoProvider.invoke [1 overload(s)]
+found is true
+before:okhttp3.Request$Builder
+after:okhttp3.Request$Builder
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Request$Builder.addHeader [1 overload(s)]
+Tracing okhttp3.Request$Builder.build [1 overload(s)]
+Tracing okhttp3.Request$Builder.cacheControl [1 overload(s)]
+Tracing okhttp3.Request$Builder.delete [2 overload(s)]
+Tracing okhttp3.Request$Builder.get [1 overload(s)]
+Tracing okhttp3.Request$Builder.head [1 overload(s)]
+Tracing okhttp3.Request$Builder.header [1 overload(s)]
+Tracing okhttp3.Request$Builder.headers [1 overload(s)]
+Tracing okhttp3.Request$Builder.method [1 overload(s)]
+Tracing okhttp3.Request$Builder.patch [1 overload(s)]
+Tracing okhttp3.Request$Builder.post [1 overload(s)]
+Tracing okhttp3.Request$Builder.put [1 overload(s)]
+Tracing okhttp3.Request$Builder.removeHeader [1 overload(s)]
+Tracing okhttp3.Request$Builder.tag [1 overload(s)]
+Tracing okhttp3.Request$Builder.url [3 overload(s)]
+found is true
+before:okhttp3.internal.cache.InternalCache
+after:okhttp3.internal.cache.InternalCache
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.cache.InternalCache.get [1 overload(s)]
+Tracing okhttp3.internal.cache.InternalCache.put [1 overload(s)]
+Tracing okhttp3.internal.cache.InternalCache.remove [1 overload(s)]
+Tracing okhttp3.internal.cache.InternalCache.trackConditionalCacheHit [1 overload(s)]
+Tracing okhttp3.internal.cache.InternalCache.trackResponse [1 overload(s)]
+Tracing okhttp3.internal.cache.InternalCache.update [1 overload(s)]
+found is true
+before:okhttp3.internal.connection.StreamAllocation$StreamAllocationReference
+after:okhttp3.internal.connection.StreamAllocation$StreamAllocationReference
+entering traceClass
+entering pasedMethods
+entering traceMethods
+found is true
+before:okhttp3.internal.platform.AndroidPlatform
+after:okhttp3.internal.platform.AndroidPlatform
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.platform.AndroidPlatform.buildCertificateChainCleaner [1 overload(s)]
+Tracing okhttp3.internal.platform.AndroidPlatform.buildTrustRootIndex [1 overload(s)]
+Tracing okhttp3.internal.platform.AndroidPlatform.configureTlsExtensions [1 overload(s)]
+Tracing okhttp3.internal.platform.AndroidPlatform.connectSocket [1 overload(s)]
+Tracing okhttp3.internal.platform.AndroidPlatform.getSelectedProtocol [1 overload(s)]
+Tracing okhttp3.internal.platform.AndroidPlatform.getStackTraceForCloseable [1 overload(s)]
+Tracing okhttp3.internal.platform.AndroidPlatform.isCleartextTrafficPermitted [1 overload(s)]
+Tracing okhttp3.internal.platform.AndroidPlatform.log [1 overload(s)]
+Tracing okhttp3.internal.platform.AndroidPlatform.logCloseableLeak [1 overload(s)]
+Tracing okhttp3.internal.platform.AndroidPlatform.trustManager [1 overload(s)]
+Tracing okhttp3.internal.platform.AndroidPlatform.api23IsCleartextTrafficPermitted [1 overload(s)]
+Tracing okhttp3.internal.platform.AndroidPlatform.api24IsCleartextTrafficPermitted [1 overload(s)]
+Tracing okhttp3.internal.platform.AndroidPlatform.buildIfSupported [1 overload(s)]
+Tracing okhttp3.internal.platform.AndroidPlatform.supportsAlpn [1 overload(s)]
+found is true
+before:okhttp3.Cache$CacheRequestImpl
+after:okhttp3.Cache$CacheRequestImpl
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Cache$CacheRequestImpl.abort [1 overload(s)]
+Tracing okhttp3.Cache$CacheRequestImpl.body [1 overload(s)]
+found is true
+before:okhttp3.Response$Builder
+after:okhttp3.Response$Builder
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Response$Builder.addHeader [1 overload(s)]
+Tracing okhttp3.Response$Builder.body [1 overload(s)]
+Tracing okhttp3.Response$Builder.build [1 overload(s)]
+Tracing okhttp3.Response$Builder.cacheResponse [1 overload(s)]
+Tracing okhttp3.Response$Builder.code [1 overload(s)]
+Tracing okhttp3.Response$Builder.handshake [1 overload(s)]
+Tracing okhttp3.Response$Builder.header [1 overload(s)]
+Tracing okhttp3.Response$Builder.headers [1 overload(s)]
+Tracing okhttp3.Response$Builder.message [1 overload(s)]
+Tracing okhttp3.Response$Builder.networkResponse [1 overload(s)]
+Tracing okhttp3.Response$Builder.priorResponse [1 overload(s)]
+Tracing okhttp3.Response$Builder.protocol [1 overload(s)]
+Tracing okhttp3.Response$Builder.receivedResponseAtMillis [1 overload(s)]
+Tracing okhttp3.Response$Builder.removeHeader [1 overload(s)]
+Tracing okhttp3.Response$Builder.request [1 overload(s)]
+Tracing okhttp3.Response$Builder.sentRequestAtMillis [1 overload(s)]
+Tracing okhttp3.Response$Builder.checkPriorResponse [1 overload(s)]
+Tracing okhttp3.Response$Builder.checkSupportResponse [1 overload(s)]
+found is true
+before:okhttp3.HttpUrl$Builder
+after:okhttp3.HttpUrl$Builder
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.HttpUrl$Builder.addEncodedPathSegment [1 overload(s)]
+Tracing okhttp3.HttpUrl$Builder.addEncodedPathSegments [1 overload(s)]
+Tracing okhttp3.HttpUrl$Builder.addEncodedQueryParameter [1 overload(s)]
+Tracing okhttp3.HttpUrl$Builder.addPathSegment [1 overload(s)]
+Tracing okhttp3.HttpUrl$Builder.addPathSegments [2 overload(s)]
+Tracing okhttp3.HttpUrl$Builder.addQueryParameter [1 overload(s)]
+Tracing okhttp3.HttpUrl$Builder.build [1 overload(s)]
+Tracing okhttp3.HttpUrl$Builder.effectivePort [1 overload(s)]
+Tracing okhttp3.HttpUrl$Builder.encodedFragment [1 overload(s)]
+Tracing okhttp3.HttpUrl$Builder.encodedPassword [1 overload(s)]
+Tracing okhttp3.HttpUrl$Builder.encodedPath [1 overload(s)]
+Tracing okhttp3.HttpUrl$Builder.encodedQuery [1 overload(s)]
+Tracing okhttp3.HttpUrl$Builder.encodedUsername [1 overload(s)]
+Tracing okhttp3.HttpUrl$Builder.fragment [1 overload(s)]
+Tracing okhttp3.HttpUrl$Builder.host [1 overload(s)]
+Tracing okhttp3.HttpUrl$Builder.parse [1 overload(s)]
+Tracing okhttp3.HttpUrl$Builder.password [1 overload(s)]
+Tracing okhttp3.HttpUrl$Builder.port [1 overload(s)]
+Tracing okhttp3.HttpUrl$Builder.query [1 overload(s)]
+Tracing okhttp3.HttpUrl$Builder.reencodeForUri [1 overload(s)]
+Tracing okhttp3.HttpUrl$Builder.removeAllEncodedQueryParameters [1 overload(s)]
+Tracing okhttp3.HttpUrl$Builder.removeAllQueryParameters [1 overload(s)]
+Tracing okhttp3.HttpUrl$Builder.removePathSegment [1 overload(s)]
+Tracing okhttp3.HttpUrl$Builder.scheme [1 overload(s)]
+Tracing okhttp3.HttpUrl$Builder.setEncodedPathSegment [1 overload(s)]
+Tracing okhttp3.HttpUrl$Builder.setEncodedQueryParameter [1 overload(s)]
+Tracing okhttp3.HttpUrl$Builder.setPathSegment [1 overload(s)]
+Tracing okhttp3.HttpUrl$Builder.setQueryParameter [1 overload(s)]
+Tracing okhttp3.HttpUrl$Builder.toString [1 overload(s)]
+Tracing okhttp3.HttpUrl$Builder.username [1 overload(s)]
+Tracing okhttp3.HttpUrl$Builder.canonicalizeHost [1 overload(s)]
+Tracing okhttp3.HttpUrl$Builder.isDot [1 overload(s)]
+Tracing okhttp3.HttpUrl$Builder.isDotDot [1 overload(s)]
+Tracing okhttp3.HttpUrl$Builder.parsePort [1 overload(s)]
+Tracing okhttp3.HttpUrl$Builder.pop [1 overload(s)]
+Tracing okhttp3.HttpUrl$Builder.portColonOffset [1 overload(s)]
+Tracing okhttp3.HttpUrl$Builder.push [1 overload(s)]
+Tracing okhttp3.HttpUrl$Builder.removeAllCanonicalQueryParameters [1 overload(s)]
+Tracing okhttp3.HttpUrl$Builder.resolvePath [1 overload(s)]
+Tracing okhttp3.HttpUrl$Builder.schemeDelimiterOffset [1 overload(s)]
+Tracing okhttp3.HttpUrl$Builder.slashCount [1 overload(s)]
+found is true
+before:okhttp3.internal.ws.WebSocketReader
+after:okhttp3.internal.ws.WebSocketReader
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.ws.WebSocketReader.processNextFrame [1 overload(s)]
+Tracing okhttp3.internal.ws.WebSocketReader.readControlFrame [1 overload(s)]
+Tracing okhttp3.internal.ws.WebSocketReader.readHeader [1 overload(s)]
+Tracing okhttp3.internal.ws.WebSocketReader.readMessage [1 overload(s)]
+Tracing okhttp3.internal.ws.WebSocketReader.readMessageFrame [1 overload(s)]
+Tracing okhttp3.internal.ws.WebSocketReader.readUntilNonControlFrame [1 overload(s)]
+found is true
+before:okhttp3.RequestBody$1
+after:okhttp3.RequestBody$1
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.RequestBody$1.contentLength [1 overload(s)]
+Tracing okhttp3.RequestBody$1.contentType [1 overload(s)]
+Tracing okhttp3.RequestBody$1.writeTo [1 overload(s)]
+found is true
+before:okhttp3.RequestBody$2
+after:okhttp3.RequestBody$2
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.RequestBody$2.contentLength [1 overload(s)]
+Tracing okhttp3.RequestBody$2.contentType [1 overload(s)]
+Tracing okhttp3.RequestBody$2.writeTo [1 overload(s)]
+found is true
+before:okhttp3.RequestBody$3
+after:okhttp3.RequestBody$3
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.RequestBody$3.contentLength [1 overload(s)]
+Tracing okhttp3.RequestBody$3.contentType [1 overload(s)]
+Tracing okhttp3.RequestBody$3.writeTo [1 overload(s)]
+found is true
+before:okhttp3.Handshake
+after:okhttp3.Handshake
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Handshake.cipherSuite [1 overload(s)]
+Tracing okhttp3.Handshake.equals [1 overload(s)]
+Tracing okhttp3.Handshake.hashCode [1 overload(s)]
+Tracing okhttp3.Handshake.localCertificates [1 overload(s)]
+Tracing okhttp3.Handshake.localPrincipal [1 overload(s)]
+Tracing okhttp3.Handshake.peerCertificates [1 overload(s)]
+Tracing okhttp3.Handshake.peerPrincipal [1 overload(s)]
+Tracing okhttp3.Handshake.tlsVersion [1 overload(s)]
+Tracing okhttp3.Handshake.get [2 overload(s)]
+found is true
+before:okhttp3.internal.ws.RealWebSocket$Message
+after:okhttp3.internal.ws.RealWebSocket$Message
+entering traceClass
+entering pasedMethods
+entering traceMethods
+found is true
+before:okhttp3.internal.ws.WebSocketProtocol
+after:okhttp3.internal.ws.WebSocketProtocol
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.ws.WebSocketProtocol.acceptHeader [1 overload(s)]
+Tracing okhttp3.internal.ws.WebSocketProtocol.closeCodeExceptionMessage [1 overload(s)]
+Tracing okhttp3.internal.ws.WebSocketProtocol.toggleMask [1 overload(s)]
+Tracing okhttp3.internal.ws.WebSocketProtocol.validateCloseCode [1 overload(s)]
+found is true
+before:okhttp3.internal.http2.ErrorCode
+after:okhttp3.internal.http2.ErrorCode
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.http2.ErrorCode.fromHttp2 [1 overload(s)]
+Tracing okhttp3.internal.http2.ErrorCode.valueOf [2 overload(s)]
+Tracing okhttp3.internal.http2.ErrorCode.values [1 overload(s)]
+found is true
+before:okhttp3.ConnectionSpec$Builder
+after:okhttp3.ConnectionSpec$Builder
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.ConnectionSpec$Builder.allEnabledCipherSuites [1 overload(s)]
+Tracing okhttp3.ConnectionSpec$Builder.allEnabledTlsVersions [1 overload(s)]
+Tracing okhttp3.ConnectionSpec$Builder.build [1 overload(s)]
+Tracing okhttp3.ConnectionSpec$Builder.cipherSuites [2 overload(s)]
+Tracing okhttp3.ConnectionSpec$Builder.supportsTlsExtensions [1 overload(s)]
+Tracing okhttp3.ConnectionSpec$Builder.tlsVersions [2 overload(s)]
+found is true
+before:okhttp3.CipherSuite
+after:okhttp3.CipherSuite
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.CipherSuite.javaName [1 overload(s)]
+Tracing okhttp3.CipherSuite.toString [1 overload(s)]
+Tracing okhttp3.CipherSuite.forJavaName [1 overload(s)]
+Tracing okhttp3.CipherSuite.forJavaNames [1 overload(s)]
+Tracing okhttp3.CipherSuite.of [1 overload(s)]
+found is true
+before:okhttp3.internal.ws.RealWebSocket$Close
+after:okhttp3.internal.ws.RealWebSocket$Close
+entering traceClass
+entering pasedMethods
+entering traceMethods
+found is true
+before:okhttp3.CertificatePinner$Pin
+after:okhttp3.CertificatePinner$Pin
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.CertificatePinner$Pin.equals [1 overload(s)]
+Tracing okhttp3.CertificatePinner$Pin.hashCode [1 overload(s)]
+Tracing okhttp3.CertificatePinner$Pin.matches [1 overload(s)]
+Tracing okhttp3.CertificatePinner$Pin.toString [1 overload(s)]
+found is true
+before:okhttp3.Dispatcher
+after:okhttp3.Dispatcher
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Dispatcher.cancelAll [1 overload(s)]
+Tracing okhttp3.Dispatcher.enqueue [1 overload(s)]
+Tracing okhttp3.Dispatcher.executed [1 overload(s)]
+Tracing okhttp3.Dispatcher.executorService [1 overload(s)]
+Tracing okhttp3.Dispatcher.finished [3 overload(s)]
+Tracing okhttp3.Dispatcher.getMaxRequests [1 overload(s)]
+Tracing okhttp3.Dispatcher.getMaxRequestsPerHost [1 overload(s)]
+Tracing okhttp3.Dispatcher.queuedCalls [1 overload(s)]
+Tracing okhttp3.Dispatcher.queuedCallsCount [1 overload(s)]
+Tracing okhttp3.Dispatcher.runningCalls [1 overload(s)]
+Tracing okhttp3.Dispatcher.runningCallsCount [1 overload(s)]
+Tracing okhttp3.Dispatcher.setIdleCallback [1 overload(s)]
+Tracing okhttp3.Dispatcher.setMaxRequests [1 overload(s)]
+Tracing okhttp3.Dispatcher.setMaxRequestsPerHost [1 overload(s)]
+Tracing okhttp3.Dispatcher.promoteCalls [1 overload(s)]
+Tracing okhttp3.Dispatcher.runningCallsForHost [1 overload(s)]
+found is true
+before:okhttp3.RequestBody
+after:okhttp3.RequestBody
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.RequestBody.contentLength [1 overload(s)]
+Tracing okhttp3.RequestBody.contentType [1 overload(s)]
+Tracing okhttp3.RequestBody.writeTo [1 overload(s)]
+Tracing okhttp3.RequestBody.create [5 overload(s)]
+found is true
+before:okhttp3.internal.cache.DiskLruCache$Snapshot
+after:okhttp3.internal.cache.DiskLruCache$Snapshot
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.cache.DiskLruCache$Snapshot.close [1 overload(s)]
+Tracing okhttp3.internal.cache.DiskLruCache$Snapshot.edit [1 overload(s)]
+Tracing okhttp3.internal.cache.DiskLruCache$Snapshot.getLength [1 overload(s)]
+Tracing okhttp3.internal.cache.DiskLruCache$Snapshot.getSource [1 overload(s)]
+Tracing okhttp3.internal.cache.DiskLruCache$Snapshot.key [1 overload(s)]
+Tracing okhttp3.internal.cache.DiskLruCache$Snapshot.access$000 [1 overload(s)]
+found is true
+before:okhttp3.ResponseBody$1
+after:okhttp3.ResponseBody$1
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.ResponseBody$1.contentLength [1 overload(s)]
+Tracing okhttp3.ResponseBody$1.contentType [1 overload(s)]
+Tracing okhttp3.ResponseBody$1.source [1 overload(s)]
+found is true
+before:okhttp3.internal.io.FileSystem
+after:okhttp3.internal.io.FileSystem
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.io.FileSystem.appendingSink [1 overload(s)]
+Tracing okhttp3.internal.io.FileSystem.delete [1 overload(s)]
+Tracing okhttp3.internal.io.FileSystem.deleteContents [1 overload(s)]
+Tracing okhttp3.internal.io.FileSystem.exists [1 overload(s)]
+Tracing okhttp3.internal.io.FileSystem.rename [1 overload(s)]
+Tracing okhttp3.internal.io.FileSystem.sink [1 overload(s)]
+Tracing okhttp3.internal.io.FileSystem.size [1 overload(s)]
+Tracing okhttp3.internal.io.FileSystem.source [1 overload(s)]
+found is true
+before:[Lokhttp3.ConnectionSpec;
+after:[Lokhttp3.ConnectionSpec;
+entering traceClass
+entering pasedMethods
+entering traceMethods
+found is true
+before:okhttp3.Connection
+after:okhttp3.Connection
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Connection.handshake [1 overload(s)]
+Tracing okhttp3.Connection.protocol [1 overload(s)]
+Tracing okhttp3.Connection.route [1 overload(s)]
+Tracing okhttp3.Connection.socket [1 overload(s)]
+found is true
+before:okhttp3.internal.platform.ConscryptPlatform
+after:okhttp3.internal.platform.ConscryptPlatform
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.platform.ConscryptPlatform.configureTlsExtensions [1 overload(s)]
+Tracing okhttp3.internal.platform.ConscryptPlatform.getSSLContext [1 overload(s)]
+Tracing okhttp3.internal.platform.ConscryptPlatform.getSelectedProtocol [1 overload(s)]
+Tracing okhttp3.internal.platform.ConscryptPlatform.trustManager [1 overload(s)]
+Tracing okhttp3.internal.platform.ConscryptPlatform.buildIfSupported [1 overload(s)]
+Tracing okhttp3.internal.platform.ConscryptPlatform.getProvider [1 overload(s)]
+found is true
+before:okhttp3.HttpUrl$1
+after:okhttp3.HttpUrl$1
+entering traceClass
+entering pasedMethods
+entering traceMethods
+found is true
+before:okhttp3.internal.publicsuffix.PublicSuffixDatabase
+after:okhttp3.internal.publicsuffix.PublicSuffixDatabase
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.publicsuffix.PublicSuffixDatabase.getEffectiveTldPlusOne [1 overload(s)]
+Tracing okhttp3.internal.publicsuffix.PublicSuffixDatabase.setListBytes [1 overload(s)]
+Tracing okhttp3.internal.publicsuffix.PublicSuffixDatabase.binarySearchBytes [1 overload(s)]
+Tracing okhttp3.internal.publicsuffix.PublicSuffixDatabase.findMatchingRule [1 overload(s)]
+Tracing okhttp3.internal.publicsuffix.PublicSuffixDatabase.get [1 overload(s)]
+Tracing okhttp3.internal.publicsuffix.PublicSuffixDatabase.readTheList [1 overload(s)]
+Tracing okhttp3.internal.publicsuffix.PublicSuffixDatabase.readTheListUninterruptibly [1 overload(s)]
+found is true
+before:okhttp3.EventListener$Factory
+after:okhttp3.EventListener$Factory
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.EventListener$Factory.create [1 overload(s)]
+found is true
+before:[Lokhttp3.Protocol;
+after:[Lokhttp3.Protocol;
+entering traceClass
+entering pasedMethods
+entering traceMethods
+found is true
+before:okhttp3.WebSocketListener
+after:okhttp3.WebSocketListener
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.WebSocketListener.onClosed [1 overload(s)]
+Tracing okhttp3.WebSocketListener.onClosing [1 overload(s)]
+Tracing okhttp3.WebSocketListener.onFailure [1 overload(s)]
+Tracing okhttp3.WebSocketListener.onMessage [2 overload(s)]
+Tracing okhttp3.WebSocketListener.onOpen [1 overload(s)]
+found is true
+before:okhttp3.ConnectionPool$1
+after:okhttp3.ConnectionPool$1
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.ConnectionPool$1.run [1 overload(s)]
+found is true
+before:okhttp3.Dns
+after:okhttp3.Dns
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Dns.lookup [1 overload(s)]
+found is true
+before:okhttp3.internal.cache.CacheStrategy
+after:okhttp3.internal.cache.CacheStrategy
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.cache.CacheStrategy.isCacheable [1 overload(s)]
+found is true
+before:okhttp3.Cache$Entry
+after:okhttp3.Cache$Entry
+entering traceClass
+
+*** entered okhttp3.internal.platform.Platform.get
+
+retval: okhttp3.internal.platform.AndroidPlatform@3b1db932
+
+trans object: {"$handle":"0x10cb16","$weakRef":1135}
+
+*** exiting okhttp3.internal.platform.Platform.get
+
+*** entered okhttp3.internal.platform.Platform.getPrefix
+
+retval: OkHttp
+
+trans object: "OkHttp"
+
+*** exiting okhttp3.internal.platform.Platform.getPrefix
+
+*** entered okhttp3.internal.platform.Platform.get
+
+retval: okhttp3.internal.platform.AndroidPlatform@3b1db932
+
+trans object: {"$handle":"0x10cb1e","$weakRef":1137}
+
+*** exiting okhttp3.internal.platform.Platform.get
+
+*** entered okhttp3.internal.platform.Platform.getPrefix
+
+retval: OkHttp
+
+trans object: "OkHttp"
+
+*** exiting okhttp3.internal.platform.Platform.getPrefix
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Cache$Entry.matches [1 overload(s)]
+Tracing okhttp3.Cache$Entry.response [1 overload(s)]
+Tracing okhttp3.Cache$Entry.writeTo [1 overload(s)]
+Tracing okhttp3.Cache$Entry.isHttps [1 overload(s)]
+Tracing okhttp3.Cache$Entry.readCertificateList [1 overload(s)]
+Tracing okhttp3.Cache$Entry.writeCertList [1 overload(s)]
+found is true
+before:okhttp3.internal.connection.RouteSelector
+after:okhttp3.internal.connection.RouteSelector
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.connection.RouteSelector.connectFailed [1 overload(s)]
+Tracing okhttp3.internal.connection.RouteSelector.hasNext [1 overload(s)]
+Tracing okhttp3.internal.connection.RouteSelector.next [1 overload(s)]
+Tracing okhttp3.internal.connection.RouteSelector.getHostString [1 overload(s)]
+Tracing okhttp3.internal.connection.RouteSelector.hasNextProxy [1 overload(s)]
+Tracing okhttp3.internal.connection.RouteSelector.nextProxy [1 overload(s)]
+Tracing okhttp3.internal.connection.RouteSelector.resetNextInetSocketAddress [1 overload(s)]
+Tracing okhttp3.internal.connection.RouteSelector.resetNextProxy [1 overload(s)]
+found is true
+before:okhttp3.Cache$1
+after:okhttp3.Cache$1
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Cache$1.get [1 overload(s)]
+Tracing okhttp3.Cache$1.put [1 overload(s)]
+Tracing okhttp3.Cache$1.remove [1 overload(s)]
+Tracing okhttp3.Cache$1.trackConditionalCacheHit [1 overload(s)]
+Tracing okhttp3.Cache$1.trackResponse [1 overload(s)]
+Tracing okhttp3.Cache$1.update [1 overload(s)]
+found is true
+before:okhttp3.internal.connection.RouteException
+after:okhttp3.internal.connection.RouteException
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.connection.RouteException.addConnectException [1 overload(s)]
+Tracing okhttp3.internal.connection.RouteException.getLastConnectException [1 overload(s)]
+Tracing okhttp3.internal.connection.RouteException.addSuppressedIfPossible [1 overload(s)]
+found is true
+before:okhttp3.TlsVersion
+after:okhttp3.TlsVersion
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.TlsVersion.javaName [1 overload(s)]
+Tracing okhttp3.TlsVersion.forJavaName [1 overload(s)]
+Tracing okhttp3.TlsVersion.forJavaNames [1 overload(s)]
+Tracing okhttp3.TlsVersion.valueOf [2 overload(s)]
+Tracing okhttp3.TlsVersion.values [1 overload(s)]
+found is true
+before:okhttp3.Cache$2
+after:okhttp3.Cache$2
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.Cache$2.hasNext [1 overload(s)]
+Tracing okhttp3.Cache$2.next [2 overload(s)]
+Tracing okhttp3.Cache$2.remove [1 overload(s)]
+found is true
+before:okhttp3.CookieJar$1
+after:okhttp3.CookieJar$1
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.CookieJar$1.loadForRequest [1 overload(s)]
+Tracing okhttp3.CookieJar$1.saveFromResponse [1 overload(s)]
+found is true
+before:okhttp3.OkHttpClient$Builder
+after:okhttp3.OkHttpClient$Builder
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.OkHttpClient$Builder.addInterceptor [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.addNetworkInterceptor [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.authenticator [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.build [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.cache [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.certificatePinner [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.connectTimeout [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.connectionPool [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.connectionSpecs [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.cookieJar [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.dispatcher [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.dns [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.eventListener [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.eventListenerFactory [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.followRedirects [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.followSslRedirects [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.hostnameVerifier [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.interceptors [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.networkInterceptors [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.pingInterval [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.protocols [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.proxy [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.proxyAuthenticator [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.proxySelector [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.readTimeout [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.retryOnConnectionFailure [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.setInternalCache [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.socketFactory [1 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.sslSocketFactory [2 overload(s)]
+Tracing okhttp3.OkHttpClient$Builder.writeTimeout [1 overload(s)]
+found is true
+before:okhttp3.internal.Version
+after:okhttp3.internal.Version
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.Version.userAgent [1 overload(s)]
+found is true
+before:okhttp3.internal.platform.AndroidPlatform$AndroidTrustRootIndex
+after:okhttp3.internal.platform.AndroidPlatform$AndroidTrustRootIndex
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.platform.AndroidPlatform$AndroidTrustRootIndex.equals [1 overload(s)]
+Tracing okhttp3.internal.platform.AndroidPlatform$AndroidTrustRootIndex.findByIssuerAndSignature [1 overload(s)]
+Tracing okhttp3.internal.platform.AndroidPlatform$AndroidTrustRootIndex.hashCode [1 overload(s)]
+found is true
+before:okhttp3.internal.http1.Http1Codec
+after:okhttp3.internal.http1.Http1Codec
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.http1.Http1Codec.cancel [1 overload(s)]
+Tracing okhttp3.internal.http1.Http1Codec.createRequestBody [1 overload(s)]
+Tracing okhttp3.internal.http1.Http1Codec.detachTimeout [1 overload(s)]
+Tracing okhttp3.internal.http1.Http1Codec.finishRequest [1 overload(s)]
+Tracing okhttp3.internal.http1.Http1Codec.flushRequest [1 overload(s)]
+Tracing okhttp3.internal.http1.Http1Codec.isClosed [1 overload(s)]
+Tracing okhttp3.internal.http1.Http1Codec.newChunkedSink [1 overload(s)]
+Tracing okhttp3.internal.http1.Http1Codec.newChunkedSource [1 overload(s)]
+Tracing okhttp3.internal.http1.Http1Codec.newFixedLengthSink [1 overload(s)]
+Tracing okhttp3.internal.http1.Http1Codec.newFixedLengthSource [1 overload(s)]
+Tracing okhttp3.internal.http1.Http1Codec.newUnknownLengthSource [1 overload(s)]
+Tracing okhttp3.internal.http1.Http1Codec.openResponseBody [1 overload(s)]
+Tracing okhttp3.internal.http1.Http1Codec.readHeaders [1 overload(s)]
+Tracing okhttp3.internal.http1.Http1Codec.readResponseHeaders [1 overload(s)]
+Tracing okhttp3.internal.http1.Http1Codec.writeRequest [1 overload(s)]
+Tracing okhttp3.internal.http1.Http1Codec.writeRequestHeaders [1 overload(s)]
+Tracing okhttp3.internal.http1.Http1Codec.readHeaderLine [1 overload(s)]
+found is true
+before:[Lokhttp3.TlsVersion;
+after:[Lokhttp3.TlsVersion;
+entering traceClass
+entering pasedMethods
+entering traceMethods
+found is true
+before:okhttp3.internal.http2.Http2Connection$Listener$1
+after:okhttp3.internal.http2.Http2Connection$Listener$1
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.http2.Http2Connection$Listener$1.onStream [1 overload(s)]
+found is true
+before:okhttp3.HttpUrl$Builder$ParseResult
+after:okhttp3.HttpUrl$Builder$ParseResult
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.HttpUrl$Builder$ParseResult.valueOf [2 overload(s)]
+Tracing okhttp3.HttpUrl$Builder$ParseResult.values [1 overload(s)]
+found is true
+before:okhttp3.internal.http.HttpMethod
+after:okhttp3.internal.http.HttpMethod
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.http.HttpMethod.invalidatesCache [1 overload(s)]
+Tracing okhttp3.internal.http.HttpMethod.permitsRequestBody [1 overload(s)]
+Tracing okhttp3.internal.http.HttpMethod.redirectsToGet [1 overload(s)]
+Tracing okhttp3.internal.http.HttpMethod.redirectsWithBody [1 overload(s)]
+Tracing okhttp3.internal.http.HttpMethod.requiresRequestBody [1 overload(s)]
+found is true
+before:okhttp3.internal.tls.BasicTrustRootIndex
+after:okhttp3.internal.tls.BasicTrustRootIndex
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.tls.BasicTrustRootIndex.equals [1 overload(s)]
+Tracing okhttp3.internal.tls.BasicTrustRootIndex.findByIssuerAndSignature [1 overload(s)]
+Tracing okhttp3.internal.tls.BasicTrustRootIndex.hashCode [1 overload(s)]
+found is true
+before:okhttp3.WebSocket$Factory
+after:okhttp3.WebSocket$Factory
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.WebSocket$Factory.newWebSocket [1 overload(s)]
+found is true
+before:[Lokhttp3.CipherSuite;
+after:[Lokhttp3.CipherSuite;
+entering traceClass
+entering pasedMethods
+entering traceMethods
+first entering selector
+java
+Error: java.lang.ClassNotFoundException: Didn't find class "okhttp3" on path: DexPathList[[zip file "/data/app/org.potato.messenger-1/base.apk"],nativeLibraryDirectories=[/data/app/org.potato.messenger-1/lib/arm, /vendor/lib, /system/lib]]
+first entering selector
+java
+Error: java.lang.ClassNotFoundException: Didn't find class "okhttp3" on path: DexPathList[[zip file "/data/app/org.potato.messenger-1/base.apk"],nativeLibraryDirectories=[/data/app/org.potato.messenger-1/lib/arm, /vendor/lib, /system/lib]]
+first entering selector
+java
+Error: java.lang.ClassNotFoundException: Didn't find class "okhttp3.connectionPook" on path: DexPathList[[zip file "/data/app/org.potato.messenger-1/base.apk"],nativeLibraryDirectories=[/data/app/org.potato.messenger-1/lib/arm, /vendor/lib, /system/lib]]
+first entering selector
+java
+Error: java.lang.ClassNotFoundException: Didn't find class "okhttp3.connectionPook" on path: DexPathList[[zip file "/data/app/org.potato.messenger-1/base.apk"],nativeLibraryDirectories=[/data/app/org.potato.messenger-1/lib/arm, /vendor/lib, /system/lib]]
+first entering selector
+java
+Error: java.lang.ClassNotFoundException: Didn't find class "okhttp3.ConnectionPook" on path: DexPathList[[zip file "/data/app/org.potato.messenger-1/base.apk"],nativeLibraryDirectories=[/data/app/org.potato.messenger-1/lib/arm, /vendor/lib, /system/lib]]
+first entering selector
+java
+Error: java.lang.ClassNotFoundException: Didn't find class "okhttp3.ConnectionPook" on path: DexPathList[[zip file "/data/app/org.potato.messenger-1/base.apk"],nativeLibraryDirectories=[/data/app/org.potato.messenger-1/lib/arm, /vendor/lib, /system/lib]]
+first entering selector
+java
+Tracing okhttp3.ConnectionPool.get [1 overload(s)]
+first entering selector
+java
+Tracing okhttp3.ConnectionPool.get [1 overload(s)]
+first entering selector
+java
+Error: java.lang.ClassNotFoundException: Didn't find class "okhttp3.internal.connection" on path: DexPathList[[zip file "/data/app/org.potato.messenger-1/base.apk"],nativeLibraryDirectories=[/data/app/org.potato.messenger-1/lib/arm, /vendor/lib, /system/lib]]
+first entering selector
+java
+Error: java.lang.ClassNotFoundException: Didn't find class "okhttp3.internal.connection" on path: DexPathList[[zip file "/data/app/org.potato.messenger-1/base.apk"],nativeLibraryDirectories=[/data/app/org.potato.messenger-1/lib/arm, /vendor/lib, /system/lib]]
+first entering selector
+java
+found is true
+before:okhttp3.internal.connection.ConnectionSpecSelector
+after:okhttp3.internal.connection.ConnectionSpecSelector
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.connection.ConnectionSpecSelector.configureSecureSocket [1 overload(s)]
+Tracing okhttp3.internal.connection.ConnectionSpecSelector.connectionFailed [1 overload(s)]
+Tracing okhttp3.internal.connection.ConnectionSpecSelector.isFallbackPossible [1 overload(s)]
+found is true
+before:okhttp3.internal.connection.ConnectInterceptor
+after:okhttp3.internal.connection.ConnectInterceptor
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.connection.ConnectInterceptor.intercept [1 overload(s)]
+found is true
+before:okhttp3.internal.connection.RealConnection
+after:okhttp3.internal.connection.RealConnection
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.connection.RealConnection.cancel [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.connect [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.handshake [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.isEligible [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.isHealthy [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.isMultiplexed [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.newCodec [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.newWebSocketStreams [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.onSettings [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.onStream [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.protocol [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.route [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.socket [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.supportsUrl [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.toString [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.connectSocket [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.connectTls [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.connectTunnel [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.createTunnel [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.createTunnelRequest [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.establishProtocol [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.isValid [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.testConnection [1 overload(s)]
+found is true
+before:okhttp3.internal.connection.RouteSelector$Selection
+after:okhttp3.internal.connection.RouteSelector$Selection
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.connection.RouteSelector$Selection.getAll [1 overload(s)]
+Tracing okhttp3.internal.connection.RouteSelector$Selection.hasNext [1 overload(s)]
+Tracing okhttp3.internal.connection.RouteSelector$Selection.next [1 overload(s)]
+found is true
+before:okhttp3.internal.connection.StreamAllocation
+after:okhttp3.internal.connection.StreamAllocation
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.connection.StreamAllocation.acquire [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.cancel [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.codec [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.connection [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.hasMoreRoutes [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.newStream [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.noNewStreams [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.release [2 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.releaseAndAcquire [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.route [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.streamFailed [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.streamFinished [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.toString [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.deallocate [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.findConnection [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.findHealthyConnection [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.releaseIfNoNewStreams [1 overload(s)]
+Tracing okhttp3.internal.connection.StreamAllocation.routeDatabase [1 overload(s)]
+found is true
+before:okhttp3.internal.connection.RouteDatabase
+after:okhttp3.internal.connection.RouteDatabase
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.connection.RouteDatabase.connected [1 overload(s)]
+Tracing okhttp3.internal.connection.RouteDatabase.failed [1 overload(s)]
+Tracing okhttp3.internal.connection.RouteDatabase.shouldPostpone [1 overload(s)]
+found is true
+before:okhttp3.internal.connection.RealConnection$1
+after:okhttp3.internal.connection.RealConnection$1
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.connection.RealConnection$1.close [1 overload(s)]
+found is true
+before:okhttp3.internal.connection.StreamAllocation$StreamAllocationReference
+after:okhttp3.internal.connection.StreamAllocation$StreamAllocationReference
+entering traceClass
+entering pasedMethods
+entering traceMethods
+found is true
+before:okhttp3.internal.connection.RouteSelector
+after:okhttp3.internal.connection.RouteSelector
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.connection.RouteSelector.connectFailed [1 overload(s)]
+Tracing okhttp3.internal.connection.RouteSelector.hasNext [1 overload(s)]
+Tracing okhttp3.internal.connection.RouteSelector.next [1 overload(s)]
+Tracing okhttp3.internal.connection.RouteSelector.getHostString [1 overload(s)]
+Tracing okhttp3.internal.connection.RouteSelector.hasNextProxy [1 overload(s)]
+Tracing okhttp3.internal.connection.RouteSelector.nextProxy [1 overload(s)]
+Tracing okhttp3.internal.connection.RouteSelector.resetNextInetSocketAddress [1 overload(s)]
+Tracing okhttp3.internal.connection.RouteSelector.resetNextProxy [1 overload(s)]
+found is true
+before:okhttp3.internal.connection.RouteException
+after:okhttp3.internal.connection.RouteException
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.connection.RouteException.addConnectException [1 overload(s)]
+Tracing okhttp3.internal.connection.RouteException.getLastConnectException [1 overload(s)]
+Tracing okhttp3.internal.connection.RouteException.addSuppressedIfPossible [1 overload(s)]
+first entering selector
+java
+found is true
+before:okhttp3.internal.connection.ConnectionSpecSelector
+after:okhttp3.internal.connection.ConnectionSpecSelector
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.connection.ConnectionSpecSelector.configureSecureSocket [1 overload(s)]
+Tracing okhttp3.internal.connection.ConnectionSpecSelector.connectionFailed [1 overload(s)]
+Tracing okhttp3.internal.connection.ConnectionSpecSelector.isFallbackPossible [1 overload(s)]
+found is true
+before:okhttp3.internal.connection.ConnectInterceptor
+after:okhttp3.internal.connection.ConnectInterceptor
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.connection.ConnectInterceptor.intercept [1 overload(s)]
+found is true
+before:okhttp3.internal.connection.RealConnection
+after:okhttp3.internal.connection.RealConnection
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing okhttp3.internal.connection.RealConnection.cancel [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.connect [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.handshake [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.isEligible [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.isHealthy [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.isMultiplexed [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.newCodec [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.newWebSocketStreams [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.onSettings [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.onStream [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.protocol [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.route [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.socket [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.supportsUrl [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.toString [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.connectSocket [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.connectTls [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.connectTunnel [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.createTunnel [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.createTunnelRequest [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.establishProtocol [1 overload(s)]
+Tracing okhttp3.internal.connection.RealConnection.isValid [1 overload(s)]
