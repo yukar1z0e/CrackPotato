@@ -186,9 +186,9 @@ setTimeout(function () {
         // trace("java.net.HttpURLConnection");
         // trace("java.net.HttpURLConnection.getResponseCode");
         // trace("java.net.HttpURLConnection.getResponseMessage");
-        trace("org.potato.tgnet.PTRPC2");
+        trace("android.util.log");
     });
 }, 0);
 
 
-// frida -R -n org.potato.messenger -l demo.js -o org.potato.tgnet.PTRPC2.log
+// frida -R -n org.potato.messenger -l demo.js -o android.util.log.log
