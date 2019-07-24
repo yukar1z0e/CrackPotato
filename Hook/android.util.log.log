@@ -1,0 +1,2363 @@
+first entering selector
+java
+Error: java.lang.ClassNotFoundException: Didn't find class "android.util" on path: DexPathList[[zip file "/data/app/org.potato.messenger-OHQvKeKcQr97DaZjfAh4sQ==/base.apk"],nativeLibraryDirectories=[/data/app/org.potato.messenger-OHQvKeKcQr97DaZjfAh4sQ==/lib/arm, /data/app/org.potato.messenger-OHQvKeKcQr97DaZjfAh4sQ==/base.apk!/lib/armeabi-v7a, /system/lib, /system/vendor/lib]]
+first entering selector
+java
+found is true
+before:android.util.Log$TerribleFailure
+after:android.util.Log$TerribleFailure
+entering traceClass
+entering pasedMethods
+entering traceMethods
+found is true
+before:android.util.LogPrinter
+after:android.util.LogPrinter
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing android.util.LogPrinter.println [1 overload(s)]
+found is true
+before:android.util.Log$TerribleFailureHandler
+after:android.util.Log$TerribleFailureHandler
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing android.util.Log$TerribleFailureHandler.onTerribleFailure [1 overload(s)]
+found is true
+before:android.util.Log$ImmediateLogWriter
+after:android.util.Log$ImmediateLogWriter
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing android.util.Log$ImmediateLogWriter.close [1 overload(s)]
+Tracing android.util.Log$ImmediateLogWriter.flush [1 overload(s)]
+Tracing android.util.Log$ImmediateLogWriter.getWritten [1 overload(s)]
+Tracing android.util.Log$ImmediateLogWriter.write [1 overload(s)]
+found is true
+before:android.util.Log$1
+after:android.util.Log$1
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing android.util.Log$1.onTerribleFailure [1 overload(s)]
+found is true
+before:android.util.Log
+after:android.util.Log
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing android.util.Log.-wrap0 [1 overload(s)]
+Tracing android.util.Log.d [2 overload(s)]
+Tracing android.util.Log.e [2 overload(s)]
+Tracing android.util.Log.getStackTraceString [1 overload(s)]
+Tracing android.util.Log.i [2 overload(s)]
+Tracing android.util.Log.isLoggable [1 overload(s)]
+Tracing android.util.Log.logger_entry_max_payload_native [1 overload(s)]
+Tracing android.util.Log.println [1 overload(s)]
+Tracing android.util.Log.println_native [1 overload(s)]
+Tracing android.util.Log.printlns [1 overload(s)]
+Tracing android.util.Log.setWtfHandler [1 overload(s)]
+Tracing android.util.Log.v [2 overload(s)]
+Tracing android.util.Log.w [3 overload(s)]
+Tracing android.util.Log.wtf [4 overload(s)]
+Tracing android.util.Log.wtfQuiet [1 overload(s)]
+Tracing android.util.Log.wtfStack [1 overload(s)]
+found is true
+before:android.util.Log$NoPreloadHolder
+after:android.util.Log$NoPreloadHolder
+entering traceClass
+entering pasedMethods
+entering traceMethods
+first entering selector
+java
+found is true
+before:android.util.Log$TerribleFailure
+after:android.util.Log$TerribleFailure
+entering traceClass
+entering pasedMethods
+entering traceMethods
+found is true
+before:android.util.LogPrinter
+after:android.util.LogPrinter
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing android.util.LogPrinter.println [1 overload(s)]
+found is true
+before:android.util.Log$TerribleFailureHandler
+after:android.util.Log$TerribleFailureHandler
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing android.util.Log$TerribleFailureHandler.onTerribleFailure [1 overload(s)]
+found is true
+before:android.util.Log$ImmediateLogWriter
+after:android.util.Log$ImmediateLogWriter
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing android.util.Log$ImmediateLogWriter.close [1 overload(s)]
+Tracing android.util.Log$ImmediateLogWriter.flush [1 overload(s)]
+Tracing android.util.Log$ImmediateLogWriter.getWritten [1 overload(s)]
+Tracing android.util.Log$ImmediateLogWriter.write [1 overload(s)]
+found is true
+before:android.util.Log$1
+after:android.util.Log$1
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing android.util.Log$1.onTerribleFailure [1 overload(s)]
+found is true
+before:android.util.Log
+after:android.util.Log
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing android.util.Log.-wrap0 [1 overload(s)]
+Tracing android.util.Log.d [2 overload(s)]
+Tracing android.util.Log.e [2 overload(s)]
+Tracing android.util.Log.getStackTraceString [1 overload(s)]
+Tracing android.util.Log.i [2 overload(s)]
+Tracing android.util.Log.isLoggable [1 overload(s)]
+Tracing android.util.Log.logger_entry_max_payload_native [1 overload(s)]
+Tracing android.util.Log.println [1 overload(s)]
+Tracing android.util.Log.println_native [1 overload(s)]
+Tracing android.util.Log.printlns [1 overload(s)]
+Tracing android.util.Log.setWtfHandler [1 overload(s)]
+Tracing android.util.Log.v [2 overload(s)]
+Tracing android.util.Log.w [3 overload(s)]
+Tracing android.util.Log.wtf [4 overload(s)]
+Tracing android.util.Log.wtfQuiet [1 overload(s)]
+Tracing android.util.Log.wtfStack [1 overload(s)]
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: send request org.potato.tgnet.TLRPC$TL_account_updateStatus@d8b9fc with token = 21
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]: send request org.potato.tgnet.TLRPC$TL_account_updateStatus@d8b9fc with token = 21
+
+retval: 91
+
+trans object: 91
+
+*** exiting android.util.Log.println_native
+
+retval: 91
+
+trans object: 91
+
+*** exiting android.util.Log.d
+found is true
+before:android.util.Log$NoPreloadHolder
+after:android.util.Log$NoPreloadHolder
+entering traceClass
+entering pasedMethods
+entering traceMethods
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: java received org.potato.tgnet.TLRPC$TL_boolTrue@9da2885 error = null object org.potato.tgnet.TLRPC$TL_account_updateStatus@d8b9fc with request token = 21
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]: java received org.potato.tgnet.TLRPC$TL_boolTrue@9da2885 error = null object org.potato.tgnet.TLRPC$TL_account_updateStatus@d8b9fc with request token = 21
+
+retval: 163
+
+trans object: 163
+
+*** exiting android.util.Log.println_native
+
+retval: 163
+
+trans object: 163
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.isLoggable
+
+arg[0]: FA
+arg[1]: 5
+
+retval: true
+
+trans object: true
+
+*** exiting android.util.Log.isLoggable
+
+*** entered android.util.Log.println
+
+arg[0]: 5
+arg[1]: FA
+arg[2]: Tasks have been queued for a long time
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 5
+arg[2]: FA
+arg[3]: Tasks have been queued for a long time
+
+retval: 43
+
+trans object: 43
+
+*** exiting android.util.Log.println_native
+
+retval: 43
+
+trans object: 43
+
+*** exiting android.util.Log.println
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: send request org.potato.tgnet.PTRPC2$PT_contacts_resolvePhone@619f6da with token = 22
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]: send request org.potato.tgnet.PTRPC2$PT_contacts_resolvePhone@619f6da with token = 22
+
+retval: 94
+
+trans object: 94
+
+*** exiting android.util.Log.println_native
+
+retval: 94
+
+trans object: 94
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: java received org.potato.tgnet.TLRPC$Vector@3a3b371 error = null object org.potato.tgnet.PTRPC2$PT_contacts_resolvePhone@619f6da with request token = 22
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]: java received org.potato.tgnet.TLRPC$Vector@3a3b371 error = null object org.potato.tgnet.PTRPC2$PT_contacts_resolvePhone@619f6da with request token = 22
+
+retval: 161
+
+trans object: 161
+
+*** exiting android.util.Log.println_native
+
+retval: 161
+
+trans object: 161
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.d
+
+arg[0]: HomeReceiver
+arg[1]: onReceive: homekey
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: HomeReceiver
+arg[3]: onReceive: homekey
+
+retval: 33
+
+trans object: 33
+
+*** exiting android.util.Log.println_native
+
+retval: 33
+
+trans object: 33
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.d
+
+arg[0]: HomeReceiver
+arg[1]: onReceive: homekey preced
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: HomeReceiver
+arg[3]: onReceive: homekey preced
+
+retval: 40
+
+trans object: 40
+
+*** exiting android.util.Log.println_native
+
+retval: 40
+
+trans object: 40
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: app paused = true
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]: app paused = true
+
+retval: 26
+
+trans object: 26
+
+*** exiting android.util.Log.println_native
+
+retval: 26
+
+trans object: 26
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: app resume count 0
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]: app resume count 0
+
+retval: 27
+
+trans object: 27
+
+*** exiting android.util.Log.println_native
+
+retval: 27
+
+trans object: 27
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.isLoggable
+
+arg[0]: FA
+arg[1]: 2
+
+retval: false
+
+trans object: false
+
+*** exiting android.util.Log.isLoggable
+
+*** entered android.util.Log.isLoggable
+
+arg[0]: FA
+arg[1]: 6
+
+retval: true
+
+trans object: true
+
+*** exiting android.util.Log.isLoggable
+
+*** entered android.util.Log.println
+
+arg[0]: 6
+arg[1]: FA
+arg[2]: Unable to use remote or local measurement implementation. Please register the AppMeasurementService service in the app manifest
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 6
+arg[2]: FA
+arg[3]: Unable to use remote or local measurement implementation. Please register the AppMeasurementService service in the app manifest
+
+retval: 132
+
+trans object: 132
+
+*** exiting android.util.Log.println_native
+
+retval: 132
+
+trans object: 132
+
+*** exiting android.util.Log.println
+
+*** entered android.util.Log.isLoggable
+
+arg[0]: FA
+arg[1]: 2
+
+retval: false
+
+trans object: false
+
+*** exiting android.util.Log.isLoggable
+
+*** entered android.util.Log.e
+
+arg[0]: potato
+arg[1]: switch to background
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 6
+arg[2]: potato
+arg[3]: switch to background
+
+retval: 29
+
+trans object: 29
+
+*** exiting android.util.Log.println_native
+
+retval: 29
+
+trans object: 29
+
+*** exiting android.util.Log.e
+
+*** entered android.util.Log.isLoggable
+
+arg[0]: LruBitmapPool
+arg[1]: 3
+
+retval: false
+
+trans object: false
+
+*** exiting android.util.Log.isLoggable
+
+*** entered android.util.Log.isLoggable
+
+arg[0]: LruBitmapPool
+arg[1]: 3
+
+retval: false
+
+trans object: false
+
+*** exiting android.util.Log.isLoggable
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: send request org.potato.tgnet.TLRPC$TL_account_updateStatus@fb602c4 with token = 23
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]: send request org.potato.tgnet.TLRPC$TL_account_updateStatus@fb602c4 with token = 23
+
+retval: 92
+
+trans object: 92
+
+*** exiting android.util.Log.println_native
+
+retval: 92
+
+trans object: 92
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: java received org.potato.tgnet.TLRPC$TL_boolTrue@cef15ad error = null object org.potato.tgnet.TLRPC$TL_account_updateStatus@fb602c4 with request token = 23
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]: java received org.potato.tgnet.TLRPC$TL_boolTrue@cef15ad error = null object org.potato.tgnet.TLRPC$TL_account_updateStatus@fb602c4 with request token = 23
+
+retval: 164
+
+trans object: 164
+
+*** exiting android.util.Log.println_native
+
+retval: 164
+
+trans object: 164
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]:  connection state 1
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]:  connection state 1
+
+retval: 28
+
+trans object: 28
+
+*** exiting android.util.Log.println_native
+
+retval: 28
+
+trans object: 28
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: switch to state 1
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]: switch to state 1
+
+retval: 26
+
+trans object: 26
+
+*** exiting android.util.Log.println_native
+
+retval: 26
+
+trans object: 26
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: MainActivity ConnectionState:1
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]: MainActivity ConnectionState:1
+
+retval: 39
+
+trans object: 39
+
+*** exiting android.util.Log.println_native
+
+retval: 39
+
+trans object: 39
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: MainActivity ConnectionState:1
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]: MainActivity ConnectionState:1
+
+retval: 39
+
+trans object: 39
+
+*** exiting android.util.Log.println_native
+
+retval: 39
+
+trans object: 39
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.d
+
+arg[0]: HomeReceiver
+arg[1]: onReceive: homekey
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: HomeReceiver
+arg[3]: onReceive: homekey
+
+retval: 33
+
+trans object: 33
+
+*** exiting android.util.Log.println_native
+
+retval: 33
+
+trans object: 33
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.d
+
+arg[0]: HomeReceiver
+arg[1]: onReceive: homekey preced
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: HomeReceiver
+arg[3]: onReceive: homekey preced
+
+retval: 40
+
+trans object: 40
+
+*** exiting android.util.Log.println_native
+
+retval: 40
+
+trans object: 40
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.d
+
+arg[0]: HomeReceiver
+arg[1]: onReceive: homekey
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: HomeReceiver
+arg[3]: onReceive: homekey
+
+retval: 33
+
+trans object: 33
+
+*** exiting android.util.Log.println_native
+
+retval: 33
+
+trans object: 33
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.d
+
+arg[0]: HomeReceiver
+arg[1]: onReceive: homekey preced
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: HomeReceiver
+arg[3]: onReceive: homekey preced
+
+retval: 40
+
+trans object: 40
+
+*** exiting android.util.Log.println_native
+
+retval: 40
+
+trans object: 40
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.d
+
+arg[0]: HomeReceiver
+arg[1]: onReceive: homekey
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: HomeReceiver
+arg[3]: onReceive: homekey
+
+retval: 33
+
+trans object: 33
+
+*** exiting android.util.Log.println_native
+
+retval: 33
+
+trans object: 33
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.d
+
+arg[0]: HomeReceiver
+arg[1]: onReceive: homekey preced
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: HomeReceiver
+arg[3]: onReceive: homekey preced
+
+retval: 40
+
+trans object: 40
+
+*** exiting android.util.Log.println_native
+
+retval: 40
+
+trans object: 40
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.e
+
+arg[0]: potato
+arg[1]: switch to foreground
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 6
+arg[2]: potato
+arg[3]: switch to foreground
+
+retval: 29
+
+trans object: 29
+
+*** exiting android.util.Log.println_native
+
+retval: 29
+
+trans object: 29
+
+*** exiting android.util.Log.e
+
+*** entered android.util.Log.e
+
+arg[0]: potato
+arg[1]: Moment detected activity start
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 6
+arg[2]: potato
+arg[3]: Moment detected activity start
+
+retval: 39
+
+trans object: 39
+
+*** exiting android.util.Log.println_native
+
+retval: 39
+
+trans object: 39
+
+*** exiting android.util.Log.e
+
+*** entered android.util.Log.isLoggable
+
+arg[0]: CursorWindowStats
+arg[1]: 2
+
+retval: false
+
+trans object: false
+
+*** exiting android.util.Log.isLoggable
+
+*** entered android.util.Log.i
+
+arg[0]: potato
+arg[1]: ready to sync cache, deviceID:e56d4b2fb74889c92f19c8d2b72de061 momentLoadQueue
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 4
+arg[2]: potato
+arg[3]: ready to sync cache, deviceID:e56d4b2fb74889c92f19c8d2b72de061 momentLoadQueue
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: app paused = false
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]: app paused = false
+
+retval: 27
+
+trans object: 27
+
+*** exiting android.util.Log.println_native
+
+retval: 27
+
+trans object: 27
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: app resume count 1
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]: app resume count 1
+
+retval: 27
+
+trans object: 27
+
+*** exiting android.util.Log.println_native
+
+retval: 27
+
+trans object: 27
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.e
+
+arg[0]: potato
+arg[1]: reset app pause time
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 6
+arg[2]: potato
+arg[3]: reset app pause time
+
+retval: 29
+
+trans object: 29
+
+*** exiting android.util.Log.println_native
+
+retval: 29
+
+trans object: 29
+
+*** exiting android.util.Log.e
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: into mtr hostAddress 104.199.169.43 port 443 flag 1
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]: into mtr hostAddress 104.199.169.43 port 443 flag 1
+
+retval: 60
+
+trans object: 60
+
+*** exiting android.util.Log.println_native
+
+retval: 60
+
+trans object: 60
+
+*** exiting android.util.Log.d
+
+retval: 87
+
+trans object: 87
+
+*** exiting android.util.Log.println_native
+
+retval: 87
+
+trans object: 87
+
+*** exiting android.util.Log.i
+
+*** entered android.util.Log.isLoggable
+
+arg[0]: FA
+arg[1]: 6
+
+retval: true
+
+trans object: true
+
+*** exiting android.util.Log.isLoggable
+
+*** entered android.util.Log.println
+
+arg[0]: 6
+arg[1]: FA
+arg[2]: Unable to use remote or local measurement implementation. Please register the AppMeasurementService service in the app manifest
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 6
+arg[2]: FA
+arg[3]: Unable to use remote or local measurement implementation. Please register the AppMeasurementService service in the app manifest
+
+*** entered android.util.Log.isLoggable
+
+arg[0]: SQLiteCursor
+arg[1]: 3
+
+retval: false
+
+trans object: false
+
+*** exiting android.util.Log.isLoggable
+
+*** entered android.util.Log.isLoggable
+
+arg[0]: CursorWindowStats
+arg[1]: 2
+
+retval: false
+
+trans object: false
+
+*** exiting android.util.Log.isLoggable
+
+*** entered android.util.Log.isLoggable
+
+arg[0]: SQLiteCursor
+arg[1]: 3
+
+retval: false
+
+trans object: false
+
+*** exiting android.util.Log.isLoggable
+
+retval: 132
+
+trans object: 132
+
+*** exiting android.util.Log.println_native
+
+*** entered android.util.Log.isLoggable
+
+arg[0]: CursorWindowStats
+arg[1]: 2
+
+retval: false
+
+trans object: false
+
+*** exiting android.util.Log.isLoggable
+
+*** entered android.util.Log.isLoggable
+
+arg[0]: SQLiteCursor
+arg[1]: 3
+
+retval: false
+
+trans object: false
+
+*** exiting android.util.Log.isLoggable
+
+retval: 132
+
+trans object: 132
+
+*** exiting android.util.Log.println
+
+*** entered android.util.Log.isLoggable
+
+arg[0]: CursorWindowStats
+arg[1]: 2
+
+retval: false
+
+trans object: false
+
+*** exiting android.util.Log.isLoggable
+
+*** entered android.util.Log.isLoggable
+
+arg[0]: SQLiteCursor
+arg[1]: 3
+
+retval: false
+
+trans object: false
+
+*** exiting android.util.Log.isLoggable
+
+*** entered android.util.Log.isLoggable
+
+arg[0]: FA
+arg[1]: 2
+
+retval: false
+
+trans object: false
+
+*** exiting android.util.Log.isLoggable
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: into mtr hostAddress 104.199.169.43 port 443 flag 0
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]: into mtr hostAddress 104.199.169.43 port 443 flag 0
+
+retval: 60
+
+trans object: 60
+
+*** exiting android.util.Log.println_native
+
+retval: 60
+
+trans object: 60
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.i
+
+arg[0]: potato
+arg[1]: showAlbum:false
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 4
+arg[2]: potato
+arg[3]: showAlbum:false
+
+retval: 24
+
+trans object: 24
+
+*** exiting android.util.Log.println_native
+
+retval: 24
+
+trans object: 24
+
+*** exiting android.util.Log.i
+
+*** entered android.util.Log.e
+
+arg[0]: potato
+arg[1]: get trace config fail 
+
+*** entered android.util.Log.i
+
+arg[0]: unreadMessage
+arg[1]: isRead:true
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 4
+arg[2]: unreadMessage
+arg[3]: isRead:true
+
+retval: 27
+
+trans object: 27
+
+*** exiting android.util.Log.println_native
+
+retval: 27
+
+trans object: 27
+
+*** exiting android.util.Log.i
+
+*** entered android.util.Log.isLoggable
+
+arg[0]: CursorWindowStats
+arg[1]: 2
+
+retval: false
+
+trans object: false
+
+*** exiting android.util.Log.isLoggable
+
+*** entered android.util.Log.isLoggable
+
+arg[0]: SQLiteCursor
+arg[1]: 3
+
+retval: false
+
+trans object: false
+
+*** exiting android.util.Log.isLoggable
+arg[2]: javax.net.ssl.SSLHandshakeException: SSL handshake aborted: ssl=0xd1d40740: I/O error during system call, Connection reset by peer
+Transfer Object to JSON
+arg[2]: {"$handle":"0x2241a","$weakRef":57}
+
+*** entered android.util.Log.printlns
+
+arg[0]: 0
+arg[1]: 6
+arg[2]: potato
+arg[3]: get trace config fail 
+arg[4]: javax.net.ssl.SSLHandshakeException: SSL handshake aborted: ssl=0xd1d40740: I/O error during system call, Connection reset by peer
+Transfer Object to JSON
+arg[4]: {"$handle":"0x223e6","$weakRef":58}
+
+*** entered android.util.Log$ImmediateLogWriter.write
+
+arg[0]: [object Object]
+Transfer Object to JSON
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: sync cache response:# srv.contact.Contact$UnReadResp@bb802be5 momentLoadQueue
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]: sync cache response:# srv.contact.Contact$UnReadResp@bb802be5 momentLoadQueue
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]:  session crate
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]:  session crate
+
+retval: 23
+
+trans object: 23
+
+*** exiting android.util.Log.println_native
+
+retval: 23
+
+trans object: 23
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.e
+
+arg[0]: potato
+arg[1]: start getDifference with date = 1563948608 pts = 247 qts = 0
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 6
+arg[2]: potato
+arg[3]: start getDifference with date = 1563948608 pts = 247 qts = 0
+
+retval: 86
+
+trans object: 86
+
+*** exiting android.util.Log.println_native
+
+retval: 86
+
+trans object: 86
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.i
+
+arg[0]: potato
+arg[1]: lastMomId:0, lastId:0, mom.size:0
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 4
+arg[2]: potato
+arg[3]: lastMomId:0, lastId:0, mom.size:0
+
+retval: 69
+
+trans object: 69
+
+*** exiting android.util.Log.println_native
+
+retval: 69
+
+trans object: 69
+
+*** exiting android.util.Log.e
+
+*** entered android.util.Log.e
+
+arg[0]: potato
+arg[1]: start updating
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]:  connection state 3
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]:  connection state 3
+
+retval: 28
+
+trans object: 28
+
+*** exiting android.util.Log.println_native
+
+retval: 28
+
+trans object: 28
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: switch to state 3
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]: switch to state 3
+
+retval: 26
+
+trans object: 26
+
+*** exiting android.util.Log.println_native
+
+retval: 26
+
+trans object: 26
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: MainActivity ConnectionState:3
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]: MainActivity ConnectionState:3
+
+retval: 39
+
+trans object: 39
+
+*** exiting android.util.Log.println_native
+
+retval: 39
+
+trans object: 39
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: MainActivity ConnectionState:3
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]: MainActivity ConnectionState:3
+
+retval: 39
+
+trans object: 39
+
+*** exiting android.util.Log.println_native
+
+retval: 39
+
+trans object: 39
+
+*** exiting android.util.Log.d
+arg[0]: ["g","e","t"," ","t","r","a","c","e"," ","c","o","n","f","i","g"," ","f","a","i","l"," ","\n","j","a","v","a","x",".","n","e","t",".","s","s","l",".","S","S","L","H","a","n","d","s","h","a","k","e","E","x","c","e","p","t","i","o","n",":"," ","S","S","L"," ","h","a","n","d","s","h","a","k","e"," ","a","b","o","r","t","e","d",":"," ","s","s","l","=","0","x","d","1","d","4","0","7","4","0",":"," ","I","/","O"," ","e","r","r","o","r"," ","d","u","r","i","n","g"," ","s","y","s","t","e","m"," ","c","a","l","l",","," ","C","o","n","n","e","c","t","i","o","n"," ","r","e","s","e","t"," ","b","y"," ","p","e","e","r","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","r","g",".","c","o","n","s","c","r","y","p","t",".","N","a","t","i","v","e","C","r","y","p","t","o",".","S","S","L","_","d","o","_","h","a","n","d","s","h","a","k","e","(","N","a","t","i","v","e"," ","M","e","t","h","o","d",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","r","g",".","c","o","n","s","c","r","y","p","t",".","O","p","e","n","S","S","L","S","o","c","k","e","t","I","m","p","l",".","s","t","a","r","t","H","a","n","d","s","h","a","k","e","(","O","p","e","n","S","S","L","S","o","c","k","e","t","I","m","p","l",".","j","a","v","a",":","3","5","1",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","i","o",".","R","e","a","l","C","o","n","n","e","c","t","i","o","n",".","c","o","n","n","e","c","t","T","l","s","(","R","e","a","l","C","o","n","n","e","c","t","i","o","n",".","j","a","v","a",":","1","9","2",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","i","o",".","R","e","a","l","C","o","n","n","e","c","t","i","o","n",".","c","o","n","n","e","c","t","S","o","c","k","e","t","(","R","e","a","l","C","o","n","n","e","c","t","i","o","n",".","j","a","v","a",":","1","4","9",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","i","o",".","R","e","a","l","C","o","n","n","e","c","t","i","o","n",".","c","o","n","n","e","c","t","(","R","e","a","l","C","o","n","n","e","c","t","i","o","n",".","j","a","v","a",":","1","1","2",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","h","t","t","p",".","S","t","r","e","a","m","A","l","l","o","c","a","t","i","o","n",".","f","i","n","d","C","o","n","n","e","c","t","i","o","n","(","S","t","r","e","a","m","A","l","l","o","c","a","t","i","o","n",".","j","a","v","a",":","1","8","4",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","h","t","t","p",".","S","t","r","e","a","m","A","l","l","o","c","a","t","i","o","n",".","f","i","n","d","H","e","a","l","t","h","y","C","o","n","n","e","c","t","i","o","n","(","S","t","r","e","a","m","A","l","l","o","c","a","t","i","o","n",".","j","a","v","a",":","1","2","6",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","h","t","t","p",".","S","t","r","e","a","m","A","l","l","o","c","a","t","i","o","n",".","n","e","w","S","t","r","e","a","m","(","S","t","r","e","a","m","A","l","l","o","c","a","t","i","o","n",".","j","a","v","a",":","9","5",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","h","t","t","p",".","H","t","t","p","E","n","g","i","n","e",".","c","o","n","n","e","c","t","(","H","t","t","p","E","n","g","i","n","e",".","j","a","v","a",":","2","8","1",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","h","t","t","p",".","H","t","t","p","E","n","g","i","n","e",".","s","e","n","d","R","e","q","u","e","s","t","(","H","t","t","p","E","n","g","i","n","e",".","j","a","v","a",":","2","2","4",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","h","u","c",".","H","t","t","p","U","R","L","C","o","n","n","e","c","t","i","o","n","I","m","p","l",".","e","x","e","c","u","t","e","(","H","t","t","p","U","R","L","C","o","n","n","e","c","t","i","o","n","I","m","p","l",".","j","a","v","a",":","4","6","1",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","h","u","c",".","H","t","t","p","U","R","L","C","o","n","n","e","c","t","i","o","n","I","m","p","l",".","c","o","n","n","e","c","t","(","H","t","t","p","U","R","L","C","o","n","n","e","c","t","i","o","n","I","m","p","l",".","j","a","v","a",":","1","2","7",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","h","u","c",".","D","e","l","e","g","a","t","i","n","g","H","t","t","p","s","U","R","L","C","o","n","n","e","c","t","i","o","n",".","c","o","n","n","e","c","t","(","D","e","l","e","g","a","t","i","n","g","H","t","t","p","s","U","R","L","C","o","n","n","e","c","t","i","o","n",".","j","a","v","a",":","8","9",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","h","u","c",".","H","t","t","p","s","U","R","L","C","o","n","n","e","c","t","i","o","n","I","m","p","l",".","c","o","n","n","e","c","t","(","U","n","k","n","o","w","n"," ","S","o","u","r","c","e",":","0",")","\n","\t","a","t"," ","o","r","g",".","p","o","t","a","t","o",".","m","e","s","s","e","n","g","e","r",".","U","p","l","o","a","d","C","o","n","f","i","g","C","o","n","t","r","o","l","l","e","r",".","g","e","t","T","r","a","c","e","C","o","n","f","i","g","(","U","p","l","o","a","d","C","o","n","f","i","g","C","o","n","t","r","o","l","l","e","r",".","j","a","v","a",":","8","2",")","\n","\t","a","t"," ","o","r","g",".","p","o","t","a","t","o",".","m","e","s","s","e","n","g","e","r",".","P","i","n","g","C","o","n","t","r","o","l","l","e","r",".","l","a","m","b","d","a","$","s","e","n","d","P","i","n","g","$","0","$","P","i","n","g","C","o","n","t","r","o","l","l","e","r","(","P","i","n","g","C","o","n","t","r","o","l","l","e","r",".","j","a","v","a",":","6","3",")","\n","\t","a","t"," ","o","r","g",".","p","o","t","a","t","o",".","m","e","s","s","e","n","g","e","r",".","-","$","$","L","a","m","b","d","a","$","P","i","n","g","C","o","n","t","r","o","l","l","e","r","$","D","V","_","c","E","K","-","Y","P","D","k","y","C","A","E","G","9","O","J","I","x","V","U","X","V","u","A",".","r","u","n","(","U","n","k","n","o","w","n"," ","S","o","u","r","c","e",":","1","0",")","\n","\t","a","t"," ","a","n","d","r","o","i","d",".","o","s",".","H","a","n","d","l","e","r",".","h","a","n","d","l","e","C","a","l","l","b","a","c","k","(","H","a","n","d","l","e","r",".","j","a","v","a",":","7","8","9",")","\n","\t","a","t"," ","a","n","d","r","o","i","d",".","o","s",".","H","a","n","d","l","e","r",".","d","i","s","p","a","t","c","h","M","e","s","s","a","g","e","(","H","a","n","d","l","e","r",".","j","a","v","a",":","9","8",")","\n","\t","a","t"," ","a","n","d","r","o","i","d",".","o","s",".","L","o","o","p","e","r",".","l","o","o","p","(","L","o","o","p","e","r",".","j","a","v","a",":","1","6","4",")","\n","\t","a","t"," ","o","r","g",".","p","o","t","a","t","o",".","m","e","s","s","e","n","g","e","r",".","D","i","s","p","a","t","c","h","Q","u","e","u","e",".","r","u","n","(","D","i","s","p","a","t","c","h","Q","u","e","u","e",".","j","a","v","a",":","8","9",")","\n","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000"]
+arg[1]: 0
+arg[2]: 1932
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 6
+arg[2]: potato
+arg[3]: get trace config fail 
+javax.net.ssl.SSLHandshakeException: SSL handshake aborted: ssl=0xd1d40740: I/O error during system call, Connection reset by peer
+	at com.android.org.conscrypt.NativeCrypto.SSL_do_handshake(Native Method)
+	at com.android.org.conscrypt.OpenSSLSocketImpl.startHandshake(OpenSSLSocketImpl.java:351)
+	at com.android.okhttp.internal.io.RealConnection.connectTls(RealConnection.java:192)
+	at com.android.okhttp.internal.io.RealConnection.connectSocket(RealConnection.java:149)
+	at com.android.okhttp.internal.io.RealConnection.connect(RealConnection.java:112)
+	at com.android.okhttp.internal.http.StreamAllocation.findConnection(StreamAllocation.java:184)
+	at com.android.okhttp.internal.http.StreamAllocation.findHealthyConnection(StreamAllocation.java:126)
+	at com.android.okhttp.internal.http.StreamAllocation.newStream(StreamAllocation.java:95)
+	at com.android.okhttp.internal.http.HttpEngine.connect(HttpEngine.java:281)
+	at com.android.okhttp.internal.http.HttpEngine.sendRequest(HttpEngine.java:224)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:461)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.connect(HttpURLConnectionImpl.java:127)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.connect(DelegatingHttpsURLConnection.java:89)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.connect(Unknown Source:0)
+	at org.potato.messenger.UploadConfigController.getTraceConfig(UploadConfigController.java:82)
+	at org.potato.messenger.PingController.lambda$sendPing$0$PingController(PingController.java:63)
+	at org.potato.messenger.-$$Lambda$PingController$DV_cEK-YPDkyCAEG9OJIxVUXVuA.run(Unknown Source:10)
+	at android.os.Handler.handleCallback(Handler.java:789)
+	at android.os.Handler.dispatchMessage(Handler.java:98)
+	at android.os.Looper.loop(Looper.java:164)
+	at org.potato.messenger.DispatchQueue.run(DispatchQueue.java:89)
+
+
+retval: 1941
+
+trans object: 1941
+
+*** exiting android.util.Log.println_native
+
+retval: 42
+
+trans object: 42
+
+*** exiting android.util.Log.println_native
+
+retval: 42
+
+trans object: 42
+
+*** exiting android.util.Log.i
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 6
+arg[2]: potato
+arg[3]: start updating
+
+retval: 23
+
+trans object: 23
+
+*** exiting android.util.Log.println_native
+
+retval: 23
+
+trans object: 23
+
+*** exiting android.util.Log.e
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting android.util.Log$ImmediateLogWriter.write
+
+*** entered android.util.Log$ImmediateLogWriter.flush
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting android.util.Log$ImmediateLogWriter.flush
+
+retval: 1941
+
+trans object: 1941
+
+*** exiting android.util.Log.printlns
+
+*** entered android.util.Log.i
+
+arg[0]: potato
+arg[1]: cache sync complete
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 4
+arg[2]: potato
+arg[3]: cache sync complete
+
+retval: 28
+
+trans object: 28
+
+*** exiting android.util.Log.println_native
+
+retval: 28
+
+trans object: 28
+
+*** exiting android.util.Log.i
+
+retval: 1941
+
+trans object: 1941
+
+*** exiting android.util.Log.e
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: send request org.potato.tgnet.TLRPC$TL_updates_getDifference@115d90 with token = 24
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]: send request org.potato.tgnet.TLRPC$TL_updates_getDifference@115d90 with token = 24
+
+retval: 92
+
+trans object: 92
+
+*** exiting android.util.Log.println_native
+
+retval: 92
+
+trans object: 92
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: ping all close
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]: ping all close
+
+retval: 23
+
+trans object: 23
+
+*** exiting android.util.Log.println_native
+
+retval: 23
+
+trans object: 23
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: switch to state 5
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]: switch to state 5
+
+retval: 26
+
+trans object: 26
+
+*** exiting android.util.Log.println_native
+
+retval: 26
+
+trans object: 26
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: MainActivity ConnectionState:5
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]: MainActivity ConnectionState:5
+
+retval: 39
+
+trans object: 39
+
+*** exiting android.util.Log.println_native
+
+retval: 39
+
+trans object: 39
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: MainActivity ConnectionState:5
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]: MainActivity ConnectionState:5
+
+retval: 39
+
+trans object: 39
+
+*** exiting android.util.Log.println_native
+
+retval: 39
+
+trans object: 39
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.i
+
+arg[0]: unreadMessage
+arg[1]: isRead:true
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 4
+arg[2]: unreadMessage
+arg[3]: isRead:true
+
+retval: 27
+
+trans object: 27
+
+*** exiting android.util.Log.println_native
+
+retval: 27
+
+trans object: 27
+
+*** exiting android.util.Log.i
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: java received org.potato.tgnet.TLRPC$TL_updates_differenceEmpty@f29e6cb error = null object org.potato.tgnet.TLRPC$TL_updates_getDifference@115d90 with request token = 24
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]: java received org.potato.tgnet.TLRPC$TL_updates_differenceEmpty@f29e6cb error = null object org.potato.tgnet.TLRPC$TL_updates_getDifference@115d90 with request token = 24
+
+retval: 179
+
+trans object: 179
+
+*** exiting android.util.Log.println_native
+
+retval: 179
+
+trans object: 179
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.e
+
+arg[0]: potato
+arg[1]: stop updating
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 6
+arg[2]: potato
+arg[3]: stop updating
+
+retval: 22
+
+trans object: 22
+
+*** exiting android.util.Log.println_native
+
+retval: 22
+
+trans object: 22
+
+*** exiting android.util.Log.e
+
+*** entered android.util.Log.e
+
+arg[0]: potato
+arg[1]: received difference with date = 1563948741 pts = 247 seq = 0 messages = 0 users = 0 chats = 0 other updates = 0
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 6
+arg[2]: potato
+arg[3]: received difference with date = 1563948741 pts = 247 seq = 0 messages = 0 users = 0 chats = 0 other updates = 0
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: switch to state 3
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]: switch to state 3
+
+retval: 26
+
+trans object: 26
+
+*** exiting android.util.Log.println_native
+
+retval: 26
+
+trans object: 26
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: MainActivity ConnectionState:3
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]: MainActivity ConnectionState:3
+
+retval: 39
+
+trans object: 39
+
+*** exiting android.util.Log.println_native
+
+retval: 39
+
+trans object: 39
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: MainActivity ConnectionState:3
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]: MainActivity ConnectionState:3
+
+retval: 39
+
+trans object: 39
+
+*** exiting android.util.Log.println_native
+
+retval: 39
+
+trans object: 39
+
+*** exiting android.util.Log.d
+
+retval: 120
+
+trans object: 120
+
+*** exiting android.util.Log.println_native
+
+retval: 120
+
+trans object: 120
+
+*** exiting android.util.Log.e
+
+*** entered android.util.Log.e
+
+arg[0]: potato
+arg[1]: get trace config fail 
+arg[2]: javax.net.ssl.SSLHandshakeException: SSL handshake aborted: ssl=0xd1d40740: I/O error during system call, Connection reset by peer
+Transfer Object to JSON
+arg[2]: {"$handle":"0x2237a","$weakRef":62}
+
+*** entered android.util.Log.printlns
+
+arg[0]: 0
+arg[1]: 6
+arg[2]: potato
+arg[3]: get trace config fail 
+arg[4]: javax.net.ssl.SSLHandshakeException: SSL handshake aborted: ssl=0xd1d40740: I/O error during system call, Connection reset by peer
+Transfer Object to JSON
+arg[4]: {"$handle":"0x22366","$weakRef":63}
+
+*** entered android.util.Log$ImmediateLogWriter.write
+
+arg[0]: [object Object]
+Transfer Object to JSON
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: send request org.potato.tgnet.TLRPC$TL_account_updateStatus@d2bf816 with token = 25
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]: send request org.potato.tgnet.TLRPC$TL_account_updateStatus@d2bf816 with token = 25
+
+retval: 92
+
+trans object: 92
+
+*** exiting android.util.Log.println_native
+
+retval: 92
+
+trans object: 92
+
+*** exiting android.util.Log.d
+arg[0]: ["g","e","t"," ","t","r","a","c","e"," ","c","o","n","f","i","g"," ","f","a","i","l"," ","\n","j","a","v","a","x",".","n","e","t",".","s","s","l",".","S","S","L","H","a","n","d","s","h","a","k","e","E","x","c","e","p","t","i","o","n",":"," ","S","S","L"," ","h","a","n","d","s","h","a","k","e"," ","a","b","o","r","t","e","d",":"," ","s","s","l","=","0","x","d","1","d","4","0","7","4","0",":"," ","I","/","O"," ","e","r","r","o","r"," ","d","u","r","i","n","g"," ","s","y","s","t","e","m"," ","c","a","l","l",","," ","C","o","n","n","e","c","t","i","o","n"," ","r","e","s","e","t"," ","b","y"," ","p","e","e","r","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","r","g",".","c","o","n","s","c","r","y","p","t",".","N","a","t","i","v","e","C","r","y","p","t","o",".","S","S","L","_","d","o","_","h","a","n","d","s","h","a","k","e","(","N","a","t","i","v","e"," ","M","e","t","h","o","d",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","r","g",".","c","o","n","s","c","r","y","p","t",".","O","p","e","n","S","S","L","S","o","c","k","e","t","I","m","p","l",".","s","t","a","r","t","H","a","n","d","s","h","a","k","e","(","O","p","e","n","S","S","L","S","o","c","k","e","t","I","m","p","l",".","j","a","v","a",":","3","5","1",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","i","o",".","R","e","a","l","C","o","n","n","e","c","t","i","o","n",".","c","o","n","n","e","c","t","T","l","s","(","R","e","a","l","C","o","n","n","e","c","t","i","o","n",".","j","a","v","a",":","1","9","2",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","i","o",".","R","e","a","l","C","o","n","n","e","c","t","i","o","n",".","c","o","n","n","e","c","t","S","o","c","k","e","t","(","R","e","a","l","C","o","n","n","e","c","t","i","o","n",".","j","a","v","a",":","1","4","9",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","i","o",".","R","e","a","l","C","o","n","n","e","c","t","i","o","n",".","c","o","n","n","e","c","t","(","R","e","a","l","C","o","n","n","e","c","t","i","o","n",".","j","a","v","a",":","1","1","2",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","h","t","t","p",".","S","t","r","e","a","m","A","l","l","o","c","a","t","i","o","n",".","f","i","n","d","C","o","n","n","e","c","t","i","o","n","(","S","t","r","e","a","m","A","l","l","o","c","a","t","i","o","n",".","j","a","v","a",":","1","8","4",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","h","t","t","p",".","S","t","r","e","a","m","A","l","l","o","c","a","t","i","o","n",".","f","i","n","d","H","e","a","l","t","h","y","C","o","n","n","e","c","t","i","o","n","(","S","t","r","e","a","m","A","l","l","o","c","a","t","i","o","n",".","j","a","v","a",":","1","2","6",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","h","t","t","p",".","S","t","r","e","a","m","A","l","l","o","c","a","t","i","o","n",".","n","e","w","S","t","r","e","a","m","(","S","t","r","e","a","m","A","l","l","o","c","a","t","i","o","n",".","j","a","v","a",":","9","5",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","h","t","t","p",".","H","t","t","p","E","n","g","i","n","e",".","c","o","n","n","e","c","t","(","H","t","t","p","E","n","g","i","n","e",".","j","a","v","a",":","2","8","1",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","h","t","t","p",".","H","t","t","p","E","n","g","i","n","e",".","s","e","n","d","R","e","q","u","e","s","t","(","H","t","t","p","E","n","g","i","n","e",".","j","a","v","a",":","2","2","4",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","h","u","c",".","H","t","t","p","U","R","L","C","o","n","n","e","c","t","i","o","n","I","m","p","l",".","e","x","e","c","u","t","e","(","H","t","t","p","U","R","L","C","o","n","n","e","c","t","i","o","n","I","m","p","l",".","j","a","v","a",":","4","6","1",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","h","u","c",".","H","t","t","p","U","R","L","C","o","n","n","e","c","t","i","o","n","I","m","p","l",".","c","o","n","n","e","c","t","(","H","t","t","p","U","R","L","C","o","n","n","e","c","t","i","o","n","I","m","p","l",".","j","a","v","a",":","1","2","7",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","h","u","c",".","D","e","l","e","g","a","t","i","n","g","H","t","t","p","s","U","R","L","C","o","n","n","e","c","t","i","o","n",".","c","o","n","n","e","c","t","(","D","e","l","e","g","a","t","i","n","g","H","t","t","p","s","U","R","L","C","o","n","n","e","c","t","i","o","n",".","j","a","v","a",":","8","9",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","h","u","c",".","H","t","t","p","s","U","R","L","C","o","n","n","e","c","t","i","o","n","I","m","p","l",".","c","o","n","n","e","c","t","(","U","n","k","n","o","w","n"," ","S","o","u","r","c","e",":","0",")","\n","\t","a","t"," ","o","r","g",".","p","o","t","a","t","o",".","m","e","s","s","e","n","g","e","r",".","U","p","l","o","a","d","C","o","n","f","i","g","C","o","n","t","r","o","l","l","e","r",".","g","e","t","T","r","a","c","e","C","o","n","f","i","g","(","U","p","l","o","a","d","C","o","n","f","i","g","C","o","n","t","r","o","l","l","e","r",".","j","a","v","a",":","8","2",")","\n","\t","a","t"," ","o","r","g",".","p","o","t","a","t","o",".","m","e","s","s","e","n","g","e","r",".","P","i","n","g","C","o","n","t","r","o","l","l","e","r",".","l","a","m","b","d","a","$","s","e","n","d","P","i","n","g","$","0","$","P","i","n","g","C","o","n","t","r","o","l","l","e","r","(","P","i","n","g","C","o","n","t","r","o","l","l","e","r",".","j","a","v","a",":","6","3",")","\n","\t","a","t"," ","o","r","g",".","p","o","t","a","t","o",".","m","e","s","s","e","n","g","e","r",".","-","$","$","L","a","m","b","d","a","$","P","i","n","g","C","o","n","t","r","o","l","l","e","r","$","D","V","_","c","E","K","-","Y","P","D","k","y","C","A","E","G","9","O","J","I","x","V","U","X","V","u","A",".","r","u","n","(","U","n","k","n","o","w","n"," ","S","o","u","r","c","e",":","1","0",")","\n","\t","a","t"," ","a","n","d","r","o","i","d",".","o","s",".","H","a","n","d","l","e","r",".","h","a","n","d","l","e","C","a","l","l","b","a","c","k","(","H","a","n","d","l","e","r",".","j","a","v","a",":","7","8","9",")","\n","\t","a","t"," ","a","n","d","r","o","i","d",".","o","s",".","H","a","n","d","l","e","r",".","d","i","s","p","a","t","c","h","M","e","s","s","a","g","e","(","H","a","n","d","l","e","r",".","j","a","v","a",":","9","8",")","\n","\t","a","t"," ","a","n","d","r","o","i","d",".","o","s",".","L","o","o","p","e","r",".","l","o","o","p","(","L","o","o","p","e","r",".","j","a","v","a",":","1","6","4",")","\n","\t","a","t"," ","o","r","g",".","p","o","t","a","t","o",".","m","e","s","s","e","n","g","e","r",".","D","i","s","p","a","t","c","h","Q","u","e","u","e",".","r","u","n","(","D","i","s","p","a","t","c","h","Q","u","e","u","e",".","j","a","v","a",":","8","9",")","\n","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000"]
+arg[1]: 0
+arg[2]: 1932
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 6
+arg[2]: potato
+arg[3]: get trace config fail 
+javax.net.ssl.SSLHandshakeException: SSL handshake aborted: ssl=0xd1d40740: I/O error during system call, Connection reset by peer
+	at com.android.org.conscrypt.NativeCrypto.SSL_do_handshake(Native Method)
+	at com.android.org.conscrypt.OpenSSLSocketImpl.startHandshake(OpenSSLSocketImpl.java:351)
+	at com.android.okhttp.internal.io.RealConnection.connectTls(RealConnection.java:192)
+	at com.android.okhttp.internal.io.RealConnection.connectSocket(RealConnection.java:149)
+	at com.android.okhttp.internal.io.RealConnection.connect(RealConnection.java:112)
+	at com.android.okhttp.internal.http.StreamAllocation.findConnection(StreamAllocation.java:184)
+	at com.android.okhttp.internal.http.StreamAllocation.findHealthyConnection(StreamAllocation.java:126)
+	at com.android.okhttp.internal.http.StreamAllocation.newStream(StreamAllocation.java:95)
+	at com.android.okhttp.internal.http.HttpEngine.connect(HttpEngine.java:281)
+	at com.android.okhttp.internal.http.HttpEngine.sendRequest(HttpEngine.java:224)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:461)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.connect(HttpURLConnectionImpl.java:127)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.connect(DelegatingHttpsURLConnection.java:89)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.connect(Unknown Source:0)
+	at org.potato.messenger.UploadConfigController.getTraceConfig(UploadConfigController.java:82)
+	at org.potato.messenger.PingController.lambda$sendPing$0$PingController(PingController.java:63)
+	at org.potato.messenger.-$$Lambda$PingController$DV_cEK-YPDkyCAEG9OJIxVUXVuA.run(Unknown Source:10)
+	at android.os.Handler.handleCallback(Handler.java:789)
+	at android.os.Handler.dispatchMessage(Handler.java:98)
+	at android.os.Looper.loop(Looper.java:164)
+	at org.potato.messenger.DispatchQueue.run(DispatchQueue.java:89)
+
+
+retval: 1941
+
+trans object: 1941
+
+*** exiting android.util.Log.println_native
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting android.util.Log$ImmediateLogWriter.write
+
+*** entered android.util.Log$ImmediateLogWriter.flush
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting android.util.Log$ImmediateLogWriter.flush
+
+retval: 1941
+
+trans object: 1941
+
+*** exiting android.util.Log.printlns
+
+retval: 1941
+
+trans object: 1941
+
+*** exiting android.util.Log.e
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: ping all close
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]: ping all close
+
+retval: 23
+
+trans object: 23
+
+*** exiting android.util.Log.println_native
+
+retval: 23
+
+trans object: 23
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.e
+
+arg[0]: potato
+arg[1]: get trace config fail 
+arg[2]: javax.net.ssl.SSLHandshakeException: SSL handshake aborted: ssl=0xd1d40740: I/O error during system call, Connection reset by peer
+Transfer Object to JSON
+arg[2]: {"$handle":"0x22312","$weakRef":67}
+
+*** entered android.util.Log.printlns
+
+arg[0]: 0
+arg[1]: 6
+arg[2]: potato
+arg[3]: get trace config fail 
+arg[4]: javax.net.ssl.SSLHandshakeException: SSL handshake aborted: ssl=0xd1d40740: I/O error during system call, Connection reset by peer
+Transfer Object to JSON
+arg[4]: {"$handle":"0x22302","$weakRef":68}
+
+*** entered android.util.Log$ImmediateLogWriter.write
+
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: ["g","e","t"," ","t","r","a","c","e"," ","c","o","n","f","i","g"," ","f","a","i","l"," ","\n","j","a","v","a","x",".","n","e","t",".","s","s","l",".","S","S","L","H","a","n","d","s","h","a","k","e","E","x","c","e","p","t","i","o","n",":"," ","S","S","L"," ","h","a","n","d","s","h","a","k","e"," ","a","b","o","r","t","e","d",":"," ","s","s","l","=","0","x","d","1","d","4","0","7","4","0",":"," ","I","/","O"," ","e","r","r","o","r"," ","d","u","r","i","n","g"," ","s","y","s","t","e","m"," ","c","a","l","l",","," ","C","o","n","n","e","c","t","i","o","n"," ","r","e","s","e","t"," ","b","y"," ","p","e","e","r","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","r","g",".","c","o","n","s","c","r","y","p","t",".","N","a","t","i","v","e","C","r","y","p","t","o",".","S","S","L","_","d","o","_","h","a","n","d","s","h","a","k","e","(","N","a","t","i","v","e"," ","M","e","t","h","o","d",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","r","g",".","c","o","n","s","c","r","y","p","t",".","O","p","e","n","S","S","L","S","o","c","k","e","t","I","m","p","l",".","s","t","a","r","t","H","a","n","d","s","h","a","k","e","(","O","p","e","n","S","S","L","S","o","c","k","e","t","I","m","p","l",".","j","a","v","a",":","3","5","1",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","i","o",".","R","e","a","l","C","o","n","n","e","c","t","i","o","n",".","c","o","n","n","e","c","t","T","l","s","(","R","e","a","l","C","o","n","n","e","c","t","i","o","n",".","j","a","v","a",":","1","9","2",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","i","o",".","R","e","a","l","C","o","n","n","e","c","t","i","o","n",".","c","o","n","n","e","c","t","S","o","c","k","e","t","(","R","e","a","l","C","o","n","n","e","c","t","i","o","n",".","j","a","v","a",":","1","4","9",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","i","o",".","R","e","a","l","C","o","n","n","e","c","t","i","o","n",".","c","o","n","n","e","c","t","(","R","e","a","l","C","o","n","n","e","c","t","i","o","n",".","j","a","v","a",":","1","1","2",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","h","t","t","p",".","S","t","r","e","a","m","A","l","l","o","c","a","t","i","o","n",".","f","i","n","d","C","o","n","n","e","c","t","i","o","n","(","S","t","r","e","a","m","A","l","l","o","c","a","t","i","o","n",".","j","a","v","a",":","1","8","4",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","h","t","t","p",".","S","t","r","e","a","m","A","l","l","o","c","a","t","i","o","n",".","f","i","n","d","H","e","a","l","t","h","y","C","o","n","n","e","c","t","i","o","n","(","S","t","r","e","a","m","A","l","l","o","c","a","t","i","o","n",".","j","a","v","a",":","1","2","6",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","h","t","t","p",".","S","t","r","e","a","m","A","l","l","o","c","a","t","i","o","n",".","n","e","w","S","t","r","e","a","m","(","S","t","r","e","a","m","A","l","l","o","c","a","t","i","o","n",".","j","a","v","a",":","9","5",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","h","t","t","p",".","H","t","t","p","E","n","g","i","n","e",".","c","o","n","n","e","c","t","(","H","t","t","p","E","n","g","i","n","e",".","j","a","v","a",":","2","8","1",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","h","t","t","p",".","H","t","t","p","E","n","g","i","n","e",".","s","e","n","d","R","e","q","u","e","s","t","(","H","t","t","p","E","n","g","i","n","e",".","j","a","v","a",":","2","2","4",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","h","u","c",".","H","t","t","p","U","R","L","C","o","n","n","e","c","t","i","o","n","I","m","p","l",".","e","x","e","c","u","t","e","(","H","t","t","p","U","R","L","C","o","n","n","e","c","t","i","o","n","I","m","p","l",".","j","a","v","a",":","4","6","1",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","h","u","c",".","H","t","t","p","U","R","L","C","o","n","n","e","c","t","i","o","n","I","m","p","l",".","c","o","n","n","e","c","t","(","H","t","t","p","U","R","L","C","o","n","n","e","c","t","i","o","n","I","m","p","l",".","j","a","v","a",":","1","2","7",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","h","u","c",".","D","e","l","e","g","a","t","i","n","g","H","t","t","p","s","U","R","L","C","o","n","n","e","c","t","i","o","n",".","c","o","n","n","e","c","t","(","D","e","l","e","g","a","t","i","n","g","H","t","t","p","s","U","R","L","C","o","n","n","e","c","t","i","o","n",".","j","a","v","a",":","8","9",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","h","u","c",".","H","t","t","p","s","U","R","L","C","o","n","n","e","c","t","i","o","n","I","m","p","l",".","c","o","n","n","e","c","t","(","U","n","k","n","o","w","n"," ","S","o","u","r","c","e",":","0",")","\n","\t","a","t"," ","o","r","g",".","p","o","t","a","t","o",".","m","e","s","s","e","n","g","e","r",".","U","p","l","o","a","d","C","o","n","f","i","g","C","o","n","t","r","o","l","l","e","r",".","g","e","t","T","r","a","c","e","C","o","n","f","i","g","(","U","p","l","o","a","d","C","o","n","f","i","g","C","o","n","t","r","o","l","l","e","r",".","j","a","v","a",":","8","2",")","\n","\t","a","t"," ","o","r","g",".","p","o","t","a","t","o",".","m","e","s","s","e","n","g","e","r",".","T","r","a","c","e","R","o","u","t","e","S","e","r","v","i","c","e",".","l","a","m","b","d","a","$","o","n","H","a","n","d","l","e","I","n","t","e","n","t","$","0","$","T","r","a","c","e","R","o","u","t","e","S","e","r","v","i","c","e","(","T","r","a","c","e","R","o","u","t","e","S","e","r","v","i","c","e",".","j","a","v","a",":","5","1",")","\n","\t","a","t"," ","o","r","g",".","p","o","t","a","t","o",".","m","e","s","s","e","n","g","e","r",".","-","$","$","L","a","m","b","d","a","$","T","r","a","c","e","R","o","u","t","e","S","e","r","v","i","c","e","$","m","L","k","v","v","h","o","r","U","Q","l","B","u","J","q","E","8","t","r","m","5","9","A","u","C","g","Q",".","r","u","n","(","U","n","k","n","o","w","n"," ","S","o","u","r","c","e",":","4",")","\n","\t","a","t"," ","a","n","d","r","o","i","d",".","o","s",".","H","a","n","d","l","e","r",".","h","a","n","d","l","e","C","a","l","l","b","a","c","k","(","H","a","n","d","l","e","r",".","j","a","v","a",":","7","8","9",")","\n","\t","a","t"," ","a","n","d","r","o","i","d",".","o","s",".","H","a","n","d","l","e","r",".","d","i","s","p","a","t","c","h","M","e","s","s","a","g","e","(","H","a","n","d","l","e","r",".","j","a","v","a",":","9","8",")","\n","\t","a","t"," ","a","n","d","r","o","i","d",".","o","s",".","L","o","o","p","e","r",".","l","o","o","p","(","L","o","o","p","e","r",".","j","a","v","a",":","1","6","4",")","\n","\t","a","t"," ","o","r","g",".","p","o","t","a","t","o",".","m","e","s","s","e","n","g","e","r",".","D","i","s","p","a","t","c","h","Q","u","e","u","e",".","r","u","n","(","D","i","s","p","a","t","c","h","Q","u","e","u","e",".","j","a","v","a",":","8","9",")","\n","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000"]
+arg[1]: 0
+arg[2]: 1949
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: java received org.potato.tgnet.TLRPC$TL_boolTrue@80e1384 error = null object org.potato.tgnet.TLRPC$TL_account_updateStatus@d2bf816 with request token = 25
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]: java received org.potato.tgnet.TLRPC$TL_boolTrue@80e1384 error = null object org.potato.tgnet.TLRPC$TL_account_updateStatus@d2bf816 with request token = 25
+
+retval: 164
+
+trans object: 164
+
+*** exiting android.util.Log.println_native
+
+retval: 164
+
+trans object: 164
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 6
+arg[2]: potato
+arg[3]: get trace config fail 
+javax.net.ssl.SSLHandshakeException: SSL handshake aborted: ssl=0xd1d40740: I/O error during system call, Connection reset by peer
+	at com.android.org.conscrypt.NativeCrypto.SSL_do_handshake(Native Method)
+	at com.android.org.conscrypt.OpenSSLSocketImpl.startHandshake(OpenSSLSocketImpl.java:351)
+	at com.android.okhttp.internal.io.RealConnection.connectTls(RealConnection.java:192)
+	at com.android.okhttp.internal.io.RealConnection.connectSocket(RealConnection.java:149)
+	at com.android.okhttp.internal.io.RealConnection.connect(RealConnection.java:112)
+	at com.android.okhttp.internal.http.StreamAllocation.findConnection(StreamAllocation.java:184)
+	at com.android.okhttp.internal.http.StreamAllocation.findHealthyConnection(StreamAllocation.java:126)
+	at com.android.okhttp.internal.http.StreamAllocation.newStream(StreamAllocation.java:95)
+	at com.android.okhttp.internal.http.HttpEngine.connect(HttpEngine.java:281)
+	at com.android.okhttp.internal.http.HttpEngine.sendRequest(HttpEngine.java:224)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:461)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.connect(HttpURLConnectionImpl.java:127)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.connect(DelegatingHttpsURLConnection.java:89)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.connect(Unknown Source:0)
+	at org.potato.messenger.UploadConfigController.getTraceConfig(UploadConfigController.java:82)
+	at org.potato.messenger.TraceRouteService.lambda$onHandleIntent$0$TraceRouteService(TraceRouteService.java:51)
+	at org.potato.messenger.-$$Lambda$TraceRouteService$mLkvvhorUQlBuJqE8trm59AuCgQ.run(Unknown Source:4)
+	at android.os.Handler.handleCallback(Handler.java:789)
+	at android.os.Handler.dispatchMessage(Handler.java:98)
+	at android.os.Looper.loop(Looper.java:164)
+	at org.potato.messenger.DispatchQueue.run(DispatchQueue.java:89)
+
+
+retval: 1958
+
+trans object: 1958
+
+*** exiting android.util.Log.println_native
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting android.util.Log$ImmediateLogWriter.write
+
+*** entered android.util.Log$ImmediateLogWriter.flush
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting android.util.Log$ImmediateLogWriter.flush
+
+retval: 1958
+
+trans object: 1958
+
+*** exiting android.util.Log.printlns
+
+retval: 1958
+
+trans object: 1958
+
+*** exiting android.util.Log.e
+
+*** entered android.util.Log.e
+
+arg[0]: potato
+arg[1]: get trace config fail 
+arg[2]: javax.net.ssl.SSLHandshakeException: SSL handshake aborted: ssl=0xd1d40740: I/O error during system call, Connection reset by peer
+Transfer Object to JSON
+arg[2]: {"$handle":"0x222d6","$weakRef":72}
+
+*** entered android.util.Log.printlns
+
+arg[0]: 0
+arg[1]: 6
+arg[2]: potato
+arg[3]: get trace config fail 
+arg[4]: javax.net.ssl.SSLHandshakeException: SSL handshake aborted: ssl=0xd1d40740: I/O error during system call, Connection reset by peer
+Transfer Object to JSON
+arg[4]: {"$handle":"0x222c2","$weakRef":73}
+
+*** entered android.util.Log$ImmediateLogWriter.write
+
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: ["g","e","t"," ","t","r","a","c","e"," ","c","o","n","f","i","g"," ","f","a","i","l"," ","\n","j","a","v","a","x",".","n","e","t",".","s","s","l",".","S","S","L","H","a","n","d","s","h","a","k","e","E","x","c","e","p","t","i","o","n",":"," ","S","S","L"," ","h","a","n","d","s","h","a","k","e"," ","a","b","o","r","t","e","d",":"," ","s","s","l","=","0","x","d","1","d","4","0","7","4","0",":"," ","I","/","O"," ","e","r","r","o","r"," ","d","u","r","i","n","g"," ","s","y","s","t","e","m"," ","c","a","l","l",","," ","C","o","n","n","e","c","t","i","o","n"," ","r","e","s","e","t"," ","b","y"," ","p","e","e","r","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","r","g",".","c","o","n","s","c","r","y","p","t",".","N","a","t","i","v","e","C","r","y","p","t","o",".","S","S","L","_","d","o","_","h","a","n","d","s","h","a","k","e","(","N","a","t","i","v","e"," ","M","e","t","h","o","d",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","r","g",".","c","o","n","s","c","r","y","p","t",".","O","p","e","n","S","S","L","S","o","c","k","e","t","I","m","p","l",".","s","t","a","r","t","H","a","n","d","s","h","a","k","e","(","O","p","e","n","S","S","L","S","o","c","k","e","t","I","m","p","l",".","j","a","v","a",":","3","5","1",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","i","o",".","R","e","a","l","C","o","n","n","e","c","t","i","o","n",".","c","o","n","n","e","c","t","T","l","s","(","R","e","a","l","C","o","n","n","e","c","t","i","o","n",".","j","a","v","a",":","1","9","2",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","i","o",".","R","e","a","l","C","o","n","n","e","c","t","i","o","n",".","c","o","n","n","e","c","t","S","o","c","k","e","t","(","R","e","a","l","C","o","n","n","e","c","t","i","o","n",".","j","a","v","a",":","1","4","9",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","i","o",".","R","e","a","l","C","o","n","n","e","c","t","i","o","n",".","c","o","n","n","e","c","t","(","R","e","a","l","C","o","n","n","e","c","t","i","o","n",".","j","a","v","a",":","1","1","2",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","h","t","t","p",".","S","t","r","e","a","m","A","l","l","o","c","a","t","i","o","n",".","f","i","n","d","C","o","n","n","e","c","t","i","o","n","(","S","t","r","e","a","m","A","l","l","o","c","a","t","i","o","n",".","j","a","v","a",":","1","8","4",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","h","t","t","p",".","S","t","r","e","a","m","A","l","l","o","c","a","t","i","o","n",".","f","i","n","d","H","e","a","l","t","h","y","C","o","n","n","e","c","t","i","o","n","(","S","t","r","e","a","m","A","l","l","o","c","a","t","i","o","n",".","j","a","v","a",":","1","2","6",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","h","t","t","p",".","S","t","r","e","a","m","A","l","l","o","c","a","t","i","o","n",".","n","e","w","S","t","r","e","a","m","(","S","t","r","e","a","m","A","l","l","o","c","a","t","i","o","n",".","j","a","v","a",":","9","5",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","h","t","t","p",".","H","t","t","p","E","n","g","i","n","e",".","c","o","n","n","e","c","t","(","H","t","t","p","E","n","g","i","n","e",".","j","a","v","a",":","2","8","1",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","h","t","t","p",".","H","t","t","p","E","n","g","i","n","e",".","s","e","n","d","R","e","q","u","e","s","t","(","H","t","t","p","E","n","g","i","n","e",".","j","a","v","a",":","2","2","4",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","h","u","c",".","H","t","t","p","U","R","L","C","o","n","n","e","c","t","i","o","n","I","m","p","l",".","e","x","e","c","u","t","e","(","H","t","t","p","U","R","L","C","o","n","n","e","c","t","i","o","n","I","m","p","l",".","j","a","v","a",":","4","6","1",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","h","u","c",".","H","t","t","p","U","R","L","C","o","n","n","e","c","t","i","o","n","I","m","p","l",".","c","o","n","n","e","c","t","(","H","t","t","p","U","R","L","C","o","n","n","e","c","t","i","o","n","I","m","p","l",".","j","a","v","a",":","1","2","7",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","h","u","c",".","D","e","l","e","g","a","t","i","n","g","H","t","t","p","s","U","R","L","C","o","n","n","e","c","t","i","o","n",".","c","o","n","n","e","c","t","(","D","e","l","e","g","a","t","i","n","g","H","t","t","p","s","U","R","L","C","o","n","n","e","c","t","i","o","n",".","j","a","v","a",":","8","9",")","\n","\t","a","t"," ","c","o","m",".","a","n","d","r","o","i","d",".","o","k","h","t","t","p",".","i","n","t","e","r","n","a","l",".","h","u","c",".","H","t","t","p","s","U","R","L","C","o","n","n","e","c","t","i","o","n","I","m","p","l",".","c","o","n","n","e","c","t","(","U","n","k","n","o","w","n"," ","S","o","u","r","c","e",":","0",")","\n","\t","a","t"," ","o","r","g",".","p","o","t","a","t","o",".","m","e","s","s","e","n","g","e","r",".","U","p","l","o","a","d","C","o","n","f","i","g","C","o","n","t","r","o","l","l","e","r",".","g","e","t","T","r","a","c","e","C","o","n","f","i","g","(","U","p","l","o","a","d","C","o","n","f","i","g","C","o","n","t","r","o","l","l","e","r",".","j","a","v","a",":","8","2",")","\n","\t","a","t"," ","o","r","g",".","p","o","t","a","t","o",".","m","e","s","s","e","n","g","e","r",".","T","r","a","c","e","R","o","u","t","e","S","e","r","v","i","c","e",".","l","a","m","b","d","a","$","o","n","H","a","n","d","l","e","I","n","t","e","n","t","$","0","$","T","r","a","c","e","R","o","u","t","e","S","e","r","v","i","c","e","(","T","r","a","c","e","R","o","u","t","e","S","e","r","v","i","c","e",".","j","a","v","a",":","5","1",")","\n","\t","a","t"," ","o","r","g",".","p","o","t","a","t","o",".","m","e","s","s","e","n","g","e","r",".","-","$","$","L","a","m","b","d","a","$","T","r","a","c","e","R","o","u","t","e","S","e","r","v","i","c","e","$","m","L","k","v","v","h","o","r","U","Q","l","B","u","J","q","E","8","t","r","m","5","9","A","u","C","g","Q",".","r","u","n","(","U","n","k","n","o","w","n"," ","S","o","u","r","c","e",":","4",")","\n","\t","a","t"," ","a","n","d","r","o","i","d",".","o","s",".","H","a","n","d","l","e","r",".","h","a","n","d","l","e","C","a","l","l","b","a","c","k","(","H","a","n","d","l","e","r",".","j","a","v","a",":","7","8","9",")","\n","\t","a","t"," ","a","n","d","r","o","i","d",".","o","s",".","H","a","n","d","l","e","r",".","d","i","s","p","a","t","c","h","M","e","s","s","a","g","e","(","H","a","n","d","l","e","r",".","j","a","v","a",":","9","8",")","\n","\t","a","t"," ","a","n","d","r","o","i","d",".","o","s",".","L","o","o","p","e","r",".","l","o","o","p","(","L","o","o","p","e","r",".","j","a","v","a",":","1","6","4",")","\n","\t","a","t"," ","o","r","g",".","p","o","t","a","t","o",".","m","e","s","s","e","n","g","e","r",".","D","i","s","p","a","t","c","h","Q","u","e","u","e",".","r","u","n","(","D","i","s","p","a","t","c","h","Q","u","e","u","e",".","j","a","v","a",":","8","9",")","\n","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000"]
+arg[1]: 0
+arg[2]: 1949
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 6
+arg[2]: potato
+arg[3]: get trace config fail 
+javax.net.ssl.SSLHandshakeException: SSL handshake aborted: ssl=0xd1d40740: I/O error during system call, Connection reset by peer
+	at com.android.org.conscrypt.NativeCrypto.SSL_do_handshake(Native Method)
+	at com.android.org.conscrypt.OpenSSLSocketImpl.startHandshake(OpenSSLSocketImpl.java:351)
+	at com.android.okhttp.internal.io.RealConnection.connectTls(RealConnection.java:192)
+	at com.android.okhttp.internal.io.RealConnection.connectSocket(RealConnection.java:149)
+	at com.android.okhttp.internal.io.RealConnection.connect(RealConnection.java:112)
+	at com.android.okhttp.internal.http.StreamAllocation.findConnection(StreamAllocation.java:184)
+	at com.android.okhttp.internal.http.StreamAllocation.findHealthyConnection(StreamAllocation.java:126)
+	at com.android.okhttp.internal.http.StreamAllocation.newStream(StreamAllocation.java:95)
+	at com.android.okhttp.internal.http.HttpEngine.connect(HttpEngine.java:281)
+	at com.android.okhttp.internal.http.HttpEngine.sendRequest(HttpEngine.java:224)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:461)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.connect(HttpURLConnectionImpl.java:127)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.connect(DelegatingHttpsURLConnection.java:89)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.connect(Unknown Source:0)
+	at org.potato.messenger.UploadConfigController.getTraceConfig(UploadConfigController.java:82)
+	at org.potato.messenger.TraceRouteService.lambda$onHandleIntent$0$TraceRouteService(TraceRouteService.java:51)
+	at org.potato.messenger.-$$Lambda$TraceRouteService$mLkvvhorUQlBuJqE8trm59AuCgQ.run(Unknown Source:4)
+	at android.os.Handler.handleCallback(Handler.java:789)
+	at android.os.Handler.dispatchMessage(Handler.java:98)
+	at android.os.Looper.loop(Looper.java:164)
+	at org.potato.messenger.DispatchQueue.run(DispatchQueue.java:89)
+
+
+retval: 1958
+
+trans object: 1958
+
+*** exiting android.util.Log.println_native
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting android.util.Log$ImmediateLogWriter.write
+
+*** entered android.util.Log$ImmediateLogWriter.flush
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting android.util.Log$ImmediateLogWriter.flush
+
+retval: 1958
+
+trans object: 1958
+
+*** exiting android.util.Log.printlns
+
+retval: 1958
+
+trans object: 1958
+
+*** exiting android.util.Log.e
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: send request org.potato.tgnet.PTRPC2$PT_contacts_resolvePhone@ae77fa2 with token = 26
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]: send request org.potato.tgnet.PTRPC2$PT_contacts_resolvePhone@ae77fa2 with token = 26
+
+retval: 94
+
+trans object: 94
+
+*** exiting android.util.Log.println_native
+
+retval: 94
+
+trans object: 94
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: java received org.potato.tgnet.TLRPC$Vector@40b4023 error = null object org.potato.tgnet.PTRPC2$PT_contacts_resolvePhone@ae77fa2 with request token = 26
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]: java received org.potato.tgnet.TLRPC$Vector@40b4023 error = null object org.potato.tgnet.PTRPC2$PT_contacts_resolvePhone@ae77fa2 with request token = 26
+
+retval: 161
+
+trans object: 161
+
+*** exiting android.util.Log.println_native
+
+retval: 161
+
+trans object: 161
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: send request org.potato.tgnet.TLRPC$TL_account_updateStatus@c81b381 with token = 27
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]: send request org.potato.tgnet.TLRPC$TL_account_updateStatus@c81b381 with token = 27
+
+retval: 92
+
+trans object: 92
+
+*** exiting android.util.Log.println_native
+
+retval: 92
+
+trans object: 92
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: java received org.potato.tgnet.TLRPC$TL_boolTrue@eb0ec26 error = null object org.potato.tgnet.TLRPC$TL_account_updateStatus@c81b381 with request token = 27
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]: java received org.potato.tgnet.TLRPC$TL_boolTrue@eb0ec26 error = null object org.potato.tgnet.TLRPC$TL_account_updateStatus@c81b381 with request token = 27
+
+retval: 164
+
+trans object: 164
+
+*** exiting android.util.Log.println_native
+
+retval: 164
+
+trans object: 164
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.isLoggable
+
+arg[0]: FA
+arg[1]: 5
+
+retval: true
+
+trans object: true
+
+*** exiting android.util.Log.isLoggable
+
+*** entered android.util.Log.println
+
+arg[0]: 5
+arg[1]: FA
+arg[2]: Tasks have been queued for a long time
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 5
+arg[2]: FA
+arg[3]: Tasks have been queued for a long time
+
+retval: 43
+
+trans object: 43
+
+*** exiting android.util.Log.println_native
+
+retval: 43
+
+trans object: 43
+
+*** exiting android.util.Log.println
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: send request org.potato.tgnet.PTRPC2$PT_contacts_resolvePhone@62dbfc9 with token = 28
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]: send request org.potato.tgnet.PTRPC2$PT_contacts_resolvePhone@62dbfc9 with token = 28
+
+retval: 94
+
+trans object: 94
+
+*** exiting android.util.Log.println_native
+
+retval: 94
+
+trans object: 94
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: java received org.potato.tgnet.TLRPC$Vector@65cf7e error = null object org.potato.tgnet.PTRPC2$PT_contacts_resolvePhone@62dbfc9 with request token = 28
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]: java received org.potato.tgnet.TLRPC$Vector@65cf7e error = null object org.potato.tgnet.PTRPC2$PT_contacts_resolvePhone@62dbfc9 with request token = 28
+
+retval: 160
+
+trans object: 160
+
+*** exiting android.util.Log.println_native
+
+retval: 160
+
+trans object: 160
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: send request org.potato.tgnet.TLRPC$TL_account_updateStatus@8677fb with token = 29
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]: send request org.potato.tgnet.TLRPC$TL_account_updateStatus@8677fb with token = 29
+
+retval: 91
+
+trans object: 91
+
+*** exiting android.util.Log.println_native
+
+retval: 91
+
+trans object: 91
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: java received org.potato.tgnet.TLRPC$TL_boolTrue@8f1c018 error = null object org.potato.tgnet.TLRPC$TL_account_updateStatus@8677fb with request token = 29
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]: java received org.potato.tgnet.TLRPC$TL_boolTrue@8f1c018 error = null object org.potato.tgnet.TLRPC$TL_account_updateStatus@8677fb with request token = 29
+
+retval: 163
+
+trans object: 163
+
+*** exiting android.util.Log.println_native
+
+retval: 163
+
+trans object: 163
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: send request org.potato.tgnet.TLRPC$TL_account_updateStatus@2064a71 with token = 30
+
+*** entered android.util.Log.println_native
+
+arg[0]: 0
+arg[1]: 3
+arg[2]: potato
+arg[3]: send request org.potato.tgnet.TLRPC$TL_account_updateStatus@2064a71 with token = 30
+
+retval: 92
+
+trans object: 92
+
+*** exiting android.util.Log.println_native
+
+retval: 92
+
+trans object: 92
+
+*** exiting android.util.Log.d
+
+*** entered android.util.Log.d
+
+arg[0]: potato
+arg[1]: java received org.potato.tgnet.TLRPC$TL_boolTrue@bc25056 error = null object org.potato.tgnet.TLRPC$TL_account_updateStatus@2064a71 with request token = 30

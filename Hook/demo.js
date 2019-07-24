@@ -186,7 +186,7 @@ setTimeout(function () {
         // trace("java.net.HttpURLConnection");
         // trace("java.net.HttpURLConnection.getResponseCode");
         // trace("java.net.HttpURLConnection.getResponseMessage");
-        trace("android.util.log");
+        trace("android.util.Log");
     });
 }, 0);
 
