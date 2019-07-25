@@ -3,6 +3,7 @@ package com.example.crackpotato;
 import android.util.Log;
 
 import java.lang.reflect.Field;
+import java.lang.Class;
 
 import de.robv.android.xposed.IXposedHookLoadPackage;
 import de.robv.android.xposed.XC_MethodHook;
@@ -10,11 +11,12 @@ import de.robv.android.xposed.XposedBridge;
 import de.robv.android.xposed.XposedHelpers;
 import de.robv.android.xposed.callbacks.XC_LoadPackage;
 import static de.robv.android.xposed.XposedHelpers.findAndHookMethod;
+import static de.robv.android.xposed.XposedHelpers.findClass;
 
 
 public class crackmain implements IXposedHookLoadPackage{
     @Override
-    public void handleLoadPackage(XC_LoadPackage.LoadPackageParam lpparam)throws Throwable{
+    public void handleLoadPackage(final XC_LoadPackage.LoadPackageParam lpparam)throws Throwable{
         if(lpparam.packageName.contains("org.potato")){
             XposedBridge.log(lpparam.packageName);
 
@@ -81,6 +83,7 @@ public class crackmain implements IXposedHookLoadPackage{
                 }
             });
 
+
            //对任意URL解密
            final Class HttpUtilsClassDecrypt=lpparam.classLoader.loadClass("org.potato.ui.moment.HttpUrlUtils");
            findAndHookMethod(HttpUtilsClassDecrypt, "getUrl", String.class, new XC_MethodHook() {
@@ -88,7 +91,7 @@ public class crackmain implements IXposedHookLoadPackage{
                protected void beforeHookedMethod(MethodHookParam param)throws Throwable{
                    String url=(String)param.args[0];
                    Log.d("Before","Hook HttpUtils--->its url is: "+url);
-                   param.args[0]="【加密的URL】";
+                   param.args[0]="[加密的URL]";
                    String urlAfterChange=(String)param.args[0];
                    Log.d("Before","Hook HttpUtils After Change--->its url is: "+urlAfterChange);
                }
@@ -99,9 +102,23 @@ public class crackmain implements IXposedHookLoadPackage{
                }
            });
 
+           //getFriendInfo Hook (虚拟货币)
+            findAndHookMethod("org.potato.ui.VirtualCurrencyActivity$JsInterface$getFriendInfo$1",lpparam.classLoader, "onReceiveValue", String.class, new XC_MethodHook() {
+                @Override
+                protected void beforeHookedMethod(MethodHookParam param)throws Throwable{
+                    Log.d("getFriendInfo$1","Before--->String str: "+param.args[0]);
+                }
+            });
 
+            //TLRPC
+            Class TLRPCclass=lpparam.classLoader.loadClass("org.potato.tgnet.TLRPC");
+            Field CHAT_FLAG_IS_PUBLIC=TLRPCclass.getDeclaredField("CHAT_FLAG_IS_PUBLIC");
+            Log.d("TLRPC","--->CHAT_FLAG_IS_PUBLIC--->"+CHAT_FLAG_IS_PUBLIC.get(TLRPCclass));
 
-
+            //User
+            Class Userclass=lpparam.classLoader.loadClass("org.potato.tgnet.TLRPC$User");
+            Field first_name=Userclass.getDeclaredField("first_name");
+            Log.d("TLRPC","--->first_name--->"+first_name.get(null));
         }
     }
 }
