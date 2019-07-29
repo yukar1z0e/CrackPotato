@@ -1,6 +1,7 @@
 package com.example.crackpotato;
 
 import android.content.Context;
+import android.os.Bundle;
 import android.util.Log;
 import android.os.Handler;
 
@@ -167,14 +168,61 @@ public class crackmain implements IXposedHookLoadPackage{
                 }
             });
 
-            //onSearch 修改传入参数
-            Class onSearchClass=lpparam.classLoader.loadClass("org.potato.ui.Contact.AddContactActivity$1");
-            findAndHookMethod(onSearchClass, "onSearch", CharSequence.class, new XC_MethodHook() {
+            Class CallbackClass=lpparam.classLoader.loadClass("org.potato.ui.Contact.AddContactActivity$1");
+           //onSearch 修改传入参数
+            findAndHookMethod(CallbackClass, "onSearch", CharSequence.class, new XC_MethodHook() {
                 @Override
                 protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
                     super.beforeHookedMethod(param);
                     param.args[0]="[假手机号]";
-                    Log.d("createView","--->Context--->"+param.args[0]);
+                    Log.d("createView","--->onSearch--->param--->"+param.args[0]);
+                }
+            });
+
+            //onTextChanged
+            findAndHookMethod(CallbackClass, "onTextChanged", String.class, new XC_MethodHook() {
+                @Override
+                protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+                    super.beforeHookedMethod(param);
+                    Log.d("createView","--->onTextChanged--->param--->"+param.args[0]);
+                }
+            });
+
+            //searchUser
+            final Class<?> AddContactActivityClass=lpparam.classLoader.loadClass("org.potato.ui.Contact.AddContactActivity");
+            findAndHookMethod(AddContactActivityClass, "searchUser", String.class, new XC_MethodHook() {
+                @Override
+                protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+                    super.beforeHookedMethod(param);
+                    param.args[0]="【要注入的手机号】";
+                }
+            });
+
+           //失败 无法直接调用searchUser
+            XposedHelpers.callMethod(AddContactActivityClass,"searchUser","【要注入的手机号】");
+
+            //formatName 查询结果显示函数
+            final Class<?> ContactsControllerClass=lpparam.classLoader.loadClass("org.potato.messenger.ContactsController");
+            findAndHookMethod(ContactsControllerClass, "formatName", String.class, String.class, new XC_MethodHook() {
+                @Override
+                protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+                    super.beforeHookedMethod(param);
+                    Log.d("ContactsController","--->first name--->"+param.args[0]+"--->second name--->"+param.args[1]);
+                }
+            });
+
+            final Class<?> LaunchActivityClass=lpparam.classLoader.loadClass("org.potato.ui.LaunchActivity");
+            final Class<?> AddContactActivity$1Class=lpparam.classLoader.loadClass("org.potato.ui.Contact.AddContactActivity$1");
+            final Class<?> AddContactActivity$3$1Class=lpparam.classLoader.loadClass("org.potato.ui.Contact.AddContactActivity$3$1");
+            findAndHookMethod(LaunchActivityClass, "onCreate", Bundle.class, new XC_MethodHook() {
+                @Override
+                protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+                    Log.d("LaunchActivity","Entered");
+                }
+                @Override
+                protected void afterHookedMethod(MethodHookParam param)throws Throwable{
+                    Object AddContactActivity=AddContactActivityClass.newInstance();
+                    XposedHelpers.callMethod(AddContactActivity,"searchUser","[需要注入的手机号]");
                 }
             });
 
