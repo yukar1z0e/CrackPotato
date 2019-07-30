@@ -212,7 +212,7 @@ public class crackmain implements IXposedHookLoadPackage{
                 @Override
                 protected void afterHookedMethod(MethodHookParam param)throws Throwable{
                     Object AddContactActivity=AddContactActivityClass.newInstance();
-                    XposedHelpers.callMethod(AddContactActivity,"searchUser","[需要注入的手机号]");
+                    XposedHelpers.callMethod(AddContactActivity,"searchUser","【需要注入的手机号】");
                 }
             });*/
 
