@@ -26,7 +26,7 @@ public class crackmain implements IXposedHookLoadPackage{
             XposedBridge.log(lpparam.packageName);
 
 
-           //修改BuildVars的DEBUG值
+/*           //修改BuildVars的DEBUG值
             Class BuildVarsClass=XposedHelpers.findClass("org.potato.messenger.BuildVars",lpparam.classLoader);
             Field DEBUG=BuildVarsClass.getDeclaredField("DEBUG");
             Field DEBUG_MOMENT=BuildVarsClass.getDeclaredField("DEBUG_MOMENT");
@@ -201,16 +201,6 @@ public class crackmain implements IXposedHookLoadPackage{
            //失败 无法直接调用searchUser
             XposedHelpers.callMethod(AddContactActivityClass,"searchUser","【要注入的手机号】");
 
-            //formatName 查询结果显示函数
-            final Class<?> ContactsControllerClass=lpparam.classLoader.loadClass("org.potato.messenger.ContactsController");
-            findAndHookMethod(ContactsControllerClass, "formatName", String.class, String.class, new XC_MethodHook() {
-                @Override
-                protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
-                    super.beforeHookedMethod(param);
-                    Log.d("ContactsController","--->first name--->"+param.args[0]+"--->second name--->"+param.args[1]);
-                }
-            });
-
             final Class<?> LaunchActivityClass=lpparam.classLoader.loadClass("org.potato.ui.LaunchActivity");
             final Class<?> AddContactActivity$1Class=lpparam.classLoader.loadClass("org.potato.ui.Contact.AddContactActivity$1");
             final Class<?> AddContactActivity$3$1Class=lpparam.classLoader.loadClass("org.potato.ui.Contact.AddContactActivity$3$1");
@@ -224,8 +214,20 @@ public class crackmain implements IXposedHookLoadPackage{
                     Object AddContactActivity=AddContactActivityClass.newInstance();
                     XposedHelpers.callMethod(AddContactActivity,"searchUser","[需要注入的手机号]");
                 }
-            });
+            });*/
 
+
+
+
+            //formatName 查询结果显示函数
+            final Class<?> ContactsControllerClass=lpparam.classLoader.loadClass("org.potato.messenger.ContactsController");
+            findAndHookMethod(ContactsControllerClass, "formatName", String.class, String.class, new XC_MethodHook() {
+                @Override
+                protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+                    super.beforeHookedMethod(param);
+                    Log.d("ContactsController","--->first name--->"+param.args[0]+"--->second name--->"+param.args[1]);
+                }
+            });
         }
     }
 }
