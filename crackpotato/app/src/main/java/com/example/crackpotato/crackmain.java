@@ -7,6 +7,7 @@ import android.os.Handler;
 import android.view.ViewGroup;
 
 
+import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
 import java.lang.Class;
 import java.lang.reflect.Method;
@@ -20,6 +21,8 @@ import de.robv.android.xposed.XposedHelpers;
 import de.robv.android.xposed.callbacks.XC_LoadPackage;
 import static de.robv.android.xposed.XposedHelpers.findAndHookMethod;
 import static de.robv.android.xposed.XposedHelpers.findClass;
+import static de.robv.android.xposed.XposedHelpers.findField;
+import static de.robv.android.xposed.XposedHelpers.callMethod;
 
 
 public class crackmain implements IXposedHookLoadPackage{
@@ -38,11 +41,22 @@ public class crackmain implements IXposedHookLoadPackage{
             final Class<?> CallbackClass=lpparam.classLoader.loadClass("org.potato.ui.Contact.AddContactActivity$1");
             final Class<?> SerializedDataClass=lpparam.classLoader.loadClass("org.potato.tgnet.SerializedData");
             final Class<?> LaunchActivityClass=lpparam.classLoader.loadClass("org.potato.ui.LaunchActivity");
-            final Class<?> ListAdapterClass=lpparam.classLoader.loadClass("org.potato.ui.Contact.AddContactActivity$ListAdapter");
+            final Class<?> AddContactActivity$ListAdapterClass=lpparam.classLoader.loadClass("org.potato.ui.Contact.AddContactActivity$ListAdapter");
             final Class<?> AddContactActivityClass=lpparam.classLoader.loadClass("org.potato.ui.Contact.AddContactActivity");
             final Class<?> AddContactActivity$1Class=lpparam.classLoader.loadClass("org.potato.ui.Contact.AddContactActivity$1");
             final Class<?> AddContactActivity$3$1Class=lpparam.classLoader.loadClass("org.potato.ui.Contact.AddContactActivity$3$1");
             final Class<?> ContactsControllerClass=lpparam.classLoader.loadClass("org.potato.messenger.ContactsController");
+
+            //formatName 查询结果显示函数
+            findAndHookMethod(ContactsControllerClass, "formatName", String.class, String.class, new XC_MethodHook() {
+                @Override
+                protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+                    super.beforeHookedMethod(param);
+                    Log.d("ContactsController","--->first name--->"+param.args[0]+"--->second name--->"+param.args[1]);
+                }
+            });
+
+
 
             //修改BuildVars的DEBUG值
             Field DEBUG=BuildVarsClass.getDeclaredField("DEBUG");
@@ -138,7 +152,7 @@ public class crackmain implements IXposedHookLoadPackage{
             });
 
             //AddContactActivity$ListAdapter 参数读取
-            findAndHookMethod(ListAdapterClass, "setSearchText", String.class, new XC_MethodHook() {
+            findAndHookMethod(AddContactActivity$ListAdapterClass, "setSearchText", String.class, new XC_MethodHook() {
                 @Override
                 protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
                      Log.d("ListAdapter","--->Set Search String--->"+param.args[0].toString());
@@ -146,7 +160,7 @@ public class crackmain implements IXposedHookLoadPackage{
             });
 
             //AddContactActivity$ListAdapter 修改传入参数[失败]
-            findAndHookMethod(ListAdapterClass, "setSearchText", String.class, new XC_MethodHook() {
+            findAndHookMethod(AddContactActivity$ListAdapterClass, "setSearchText", String.class, new XC_MethodHook() {
                 @Override
                 protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
                     param.args[0]="【假手机号】";
@@ -203,7 +217,7 @@ public class crackmain implements IXposedHookLoadPackage{
                 }
             });
 
-            findAndHookMethod(ListAdapterClass, "onCreateViewHolder", ViewGroup.class, int.class, new XC_MethodHook() {
+            findAndHookMethod(AddContactActivity$ListAdapterClass, "onCreateViewHolder", ViewGroup.class, int.class, new XC_MethodHook() {
                 @Override
                 protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
                     Log.d("ListAdapter","Enter onCreateViewHolder--->"+param.thisObject.getClass());
@@ -214,14 +228,21 @@ public class crackmain implements IXposedHookLoadPackage{
                     XposedHelpers.setObjectField(param.thisObject,"isPhone",true);
                     XposedHelpers.setObjectField(param.thisObject,"isSearchResult",true);
                     Log.d("ListAdapter","Enter onCreateViewHolder--->isPhone--->"+isPhoneVal.get(param.thisObject)+"--->isSearchResult--->"+isSearchResultVal.get(param.thisObject));
+
+                    try {
+                        Object AddContactActivity$1 = AddContactActivity$1Class.newInstance();
+                        XposedHelpers.callMethod(AddContactActivity$1, "onSearch", "15000016937");
+                    }catch (IllegalAccessException e){
+                        e.printStackTrace();
+                    }
                 }
                 @Override
                 protected void afterHookedMethod(MethodHookParam param)throws Throwable{
                     Log.d("AddContactActivity$1","Call searchUser Method");
 
-                    /*报is not accessible的错误
-                    Object AddContactActivity$1=AddContactActivity$1Class.newInstance();
-                    XposedHelpers.callMethod(AddContactActivity$1,"searchUser","【要查询的手机号】");
+                    //报is not accessible的错误
+                    Object AddContactActivity=AddContactActivityClass.newInstance();
+                    XposedHelpers.callMethod(AddContactActivityClass,"searchUser","【要查询的手机号】");
 
                     Object AddContactActivity$1=AddContactActivity$1Class.newInstance();
                     XposedHelpers.callMethod(AddContactActivity$1,"onSearch","【要查询的手机号】");
@@ -230,21 +251,55 @@ public class crackmain implements IXposedHookLoadPackage{
                     Log.d("AddContanctActivity$1",onSearchMethod.getName());
                     onSearchMethod.setAccessible(true);
                     onSearchMethod.invoke(AddContactActivity$1Class.newInstance(),new Object[0],"【要查询的手机号】");
-                    */
-
-
-
                 }
             });
 
-            //formatName 查询结果显示函数
-            findAndHookMethod(ContactsControllerClass, "formatName", String.class, String.class, new XC_MethodHook() {
+            //报错 没有onBindViewHolder
+            findAndHookMethod(AddContactActivity$ListAdapterClass, "onBindViewHolder", ViewGroup.class, int.class, new XC_MethodHook() {
+                @Override
+                protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+                    Log.d("ListAdapter","Enter onBindViewHolder--->"+param.thisObject.getClass());
+                    Field isPhoneVal=param.thisObject.getClass().getDeclaredField("isPhone");
+                    Field isSearchResultVal=param.thisObject.getClass().getDeclaredField("isSearchResult");
+                    isPhoneVal.setAccessible(true);
+                    isSearchResultVal.setAccessible(true);
+                    XposedHelpers.setObjectField(param.thisObject,"isPhone",true);
+                    XposedHelpers.setObjectField(param.thisObject,"isSearchResult",true);
+                    Log.d("ListAdapter","Enter onCreateViewHolder--->isPhone--->"+isPhoneVal.get(param.thisObject)+"--->isSearchResult--->"+isSearchResultVal.get(param.thisObject));
+
+                    try {
+                        Object AddContactActivity$1 = AddContactActivity$1Class.newInstance();
+                        XposedHelpers.callMethod(AddContactActivity$1, "onSearch", "【要查询的手机号】");
+                    }catch (IllegalAccessException e){
+                        e.printStackTrace();
+                    }
+                }
+                @Override
+                protected void afterHookedMethod(MethodHookParam param)throws Throwable{
+                    Log.d("AddContactActivity$1","Call searchUser Method");
+                }
+            });
+
+            //堆栈溢出
+            findAndHookMethod(AddContactActivity$ListAdapterClass, "onCreateViewHolder", ViewGroup.class, int.class, new XC_MethodHook() {
                 @Override
                 protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
                     super.beforeHookedMethod(param);
-                    Log.d("ContactsController","--->first name--->"+param.args[0]+"--->second name--->"+param.args[1]);
+                    Log.d("ListAdapter",param.args[1].toString());
+                    final Object viewGroup=(ViewGroup)param.args[0];
+                    callMethod(param.thisObject,"onCreateViewHolder",viewGroup,1);
+                }
+                @Override
+                protected void afterHookedMethod(MethodHookParam param)throws Throwable{
+                    Log.d("ListAdapter","After Hook"+param.args[1].toString());
                 }
             });
+
+            //明天测试
+            Object AddContactActivity=AddContactActivityClass.newInstance();
+            XposedHelpers.callMethod(AddContactActivity,"searchUser","【要查询的手机号】");
+
+
         }
     }
 }
