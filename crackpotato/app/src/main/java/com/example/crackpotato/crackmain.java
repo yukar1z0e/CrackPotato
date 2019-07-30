@@ -9,6 +9,7 @@ import android.view.ViewGroup;
 
 import java.lang.reflect.Field;
 import java.lang.Class;
+import java.lang.reflect.Method;
 
 import javax.security.auth.callback.Callback;
 
@@ -217,8 +218,11 @@ public class crackmain implements IXposedHookLoadPackage{
                 }
             });*/
 
+            final Class<?> LaunchActivityClass=lpparam.classLoader.loadClass("org.potato.ui.LaunchActivity");
             final Class<?> ListAdapterClass=lpparam.classLoader.loadClass("org.potato.ui.Contact.AddContactActivity$ListAdapter");
             final Class<?> AddContactActivityClass=lpparam.classLoader.loadClass("org.potato.ui.Contact.AddContactActivity");
+            final Class<?> AddContactActivity$1Class=lpparam.classLoader.loadClass("org.potato.ui.Contact.AddContactActivity$1");
+            final Class<?> AddContactActivity$3$1Class=lpparam.classLoader.loadClass("org.potato.ui.Contact.AddContactActivity$3$1");
             findAndHookMethod(ListAdapterClass, "onCreateViewHolder", ViewGroup.class, int.class, new XC_MethodHook() {
                 @Override
                 protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
@@ -233,9 +237,23 @@ public class crackmain implements IXposedHookLoadPackage{
                 }
                 @Override
                 protected void afterHookedMethod(MethodHookParam param)throws Throwable{
-                    Log.d("AddContactActivity","Call searchUser Method");
-                    //Object AddContactActivity=AddContactActivityClass.newInstance();
-                    //XposedHelpers.callMethod(AddContactActivity,"searchUser","[fake]");
+                    Log.d("AddContactActivity$1","Call searchUser Method");
+
+                    /*报is not accessible的错误
+                    Object AddContactActivity$1=AddContactActivity$1Class.newInstance();
+                    XposedHelpers.callMethod(AddContactActivity$1,"searchUser","【要查询的手机号】");
+
+                    Object AddContactActivity$1=AddContactActivity$1Class.newInstance();
+                    XposedHelpers.callMethod(AddContactActivity$1,"onSearch","【要查询的手机号】");
+
+                    Method onSearchMethod=AddContactActivity$1Class.getDeclaredMethod("onSearch",CharSequence.class);
+                    Log.d("AddContanctActivity$1",onSearchMethod.getName());
+                    onSearchMethod.setAccessible(true);
+                    onSearchMethod.invoke(AddContactActivity$1Class.newInstance(),new Object[0],"【要查询的手机号】");
+                    */
+
+
+
                 }
             });
 
