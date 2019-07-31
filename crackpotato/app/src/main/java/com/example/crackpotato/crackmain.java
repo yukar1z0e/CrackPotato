@@ -62,7 +62,7 @@ public class crackmain implements IXposedHookLoadPackage {
             });
 
 
-            /*//修改BuildVars的DEBUG值
+            //修改BuildVars的DEBUG值
             Field DEBUG = BuildVarsClass.getDeclaredField("DEBUG");
             Field DEBUG_MOMENT = BuildVarsClass.getDeclaredField("DEBUG_MOMENT");
             Field DEBUG_PRIVATE_VERSION = BuildVarsClass.getDeclaredField("DEBUG_PRIVATE_VERSION");
@@ -382,7 +382,7 @@ public class crackmain implements IXposedHookLoadPackage {
                 protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
                     Log.d("AsyncHttpURLConnection", "url--->" + param.args[1].toString() + "--->message--->" + param.args[2].toString());
                 }
-            });*/
+            });
         }
     }
 }
