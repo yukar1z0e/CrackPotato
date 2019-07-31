@@ -44,6 +44,7 @@ public class crackmain implements IXposedHookLoadPackage{
             final Class<?> ContactsControllerClass=lpparam.classLoader.loadClass("org.potato.messenger.ContactsController");
             final Class<?> ActionBarClass = lpparam.classLoader.loadClass("org.potato.ui.ActionBar.ActionBar");
             final Class<?> ActionBar$ActionBarMenuOnItemClickClass = lpparam.classLoader.loadClass("org.potato.ui.ActionBar.ActionBar$ActionBarMenuOnItemClick");
+            final Class<?> WindowManagerGlobalClass = lpparam.classLoader.loadClass("android.view.WindowManagerGlobal");
 
             //formatName 查询结果显示函数
             findAndHookMethod(ContactsControllerClass, "formatName", String.class, String.class, new XC_MethodHook() {
@@ -309,7 +310,6 @@ public class crackmain implements IXposedHookLoadPackage{
             });
 
             //反射ui父类 mViewsField no recevier
-            final Class<?> WindowManagerGlobalClass = lpparam.classLoader.loadClass("android.view.WindowManagerGlobal");
             Field mViewsField = WindowManagerGlobalClass.getDeclaredField("mViews");
             Field sDefaultWindowManagerField = WindowManagerGlobalClass.getDeclaredField("sDefaultWindowManager");
             mViewsField.setAccessible(true);
