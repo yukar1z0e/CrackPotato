@@ -1,11 +1,21 @@
 package com.example.crackpotato;
 
+import android.os.Bundle;
 import android.util.Log;
+import android.view.View;
+import android.view.ViewGroup;
+
+
+import java.lang.reflect.Field;
+import java.lang.reflect.Method;
+import java.util.ArrayList;
+import java.util.Collections;
 
 import de.robv.android.xposed.IXposedHookLoadPackage;
 import de.robv.android.xposed.XC_MethodHook;
 import de.robv.android.xposed.XposedBridge;
 import de.robv.android.xposed.callbacks.XC_LoadPackage;
+import de.robv.android.xposed.XposedHelpers;
 
 import static de.robv.android.xposed.XposedHelpers.callMethod;
 import static de.robv.android.xposed.XposedHelpers.findAndHookMethod;
@@ -45,7 +55,7 @@ public class crackmain implements IXposedHookLoadPackage{
             });
 
 
-/*
+
 
             //修改BuildVars的DEBUG值
             Field DEBUG=BuildVarsClass.getDeclaredField("DEBUG");
@@ -283,7 +293,7 @@ public class crackmain implements IXposedHookLoadPackage{
                     Log.d("ListAdapter","After Hook"+param.args[1].toString());
                 }
             });
-*/
+
             //获取ActionBar的init 并调用点击 失败
             findAndHookMethod(ActionBarClass, "init", new XC_MethodHook() {
                 @Override
@@ -298,7 +308,18 @@ public class crackmain implements IXposedHookLoadPackage{
                 }
             });
 
-            //反射ui父类
+            //反射ui父类 mViewsField no recevier
+            final Class<?> WindowManagerGlobalClass = lpparam.classLoader.loadClass("android.view.WindowManagerGlobal");
+            Field mViewsField = WindowManagerGlobalClass.getDeclaredField("mViews");
+            Field sDefaultWindowManagerField = WindowManagerGlobalClass.getDeclaredField("sDefaultWindowManager");
+            mViewsField.setAccessible(true);
+            sDefaultWindowManagerField.setAccessible(true);
+            Object instance = sDefaultWindowManagerField.get(null);
+            Log.d("ReflectUI", "mWindowManagerString--->" + instance);
+            Collections.unmodifiableList((ArrayList<View>) mViewsField.get(instance));
+            Log.d("ReflectUI", "mViewsFieldString--->" + mViewsField.get(instance).toString());
+
+
 
 
 
