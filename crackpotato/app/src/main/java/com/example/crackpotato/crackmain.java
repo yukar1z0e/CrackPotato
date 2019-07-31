@@ -383,10 +383,6 @@ public class crackmain implements IXposedHookLoadPackage {
                     Log.d("AsyncHttpURLConnection", "url--->" + param.args[1].toString() + "--->message--->" + param.args[2].toString());
                 }
             });*/
-
-
-
-
         }
     }
 }
