@@ -2,6 +2,7 @@ package com.example.crackpotato;
 
 import android.os.Bundle;
 import android.util.Log;
+import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewGroup;
 
@@ -25,36 +26,37 @@ public class crackmain implements IXposedHookLoadPackage {
     public void handleLoadPackage(final XC_LoadPackage.LoadPackageParam lpparam) throws Throwable {
         XposedBridge.log(lpparam.packageName);
 
-        final Class<?> BuildVarsClass = lpparam.classLoader.loadClass("org.potato.messenger.BuildVars");
-        final Class<?> StringBuilderClass = lpparam.classLoader.loadClass("java.lang.StringBuilder");
-        final Class<?> HttpUtilsClass = lpparam.classLoader.loadClass("org.potato.ui.moment.HttpUrlUtils");
-        final Class<?> HttpUtilsDecryptClass = lpparam.classLoader.loadClass("org.potato.ui.moment.HttpUrlUtils");
-        final Class<?> TLRPCClass = lpparam.classLoader.loadClass("org.potato.tgnet.TLRPC");
-        final Class<?> UserClass = lpparam.classLoader.loadClass("org.potato.tgnet.TLRPC$User");
-        final Class<?> AbstractSerializedDataClass = lpparam.classLoader.loadClass("org.potato.tgnet.AbstractSerializedData");
-        final Class<?> CallbackClass = lpparam.classLoader.loadClass("org.potato.ui.Contact.AddContactActivity$1");
-        final Class<?> SerializedDataClass = lpparam.classLoader.loadClass("org.potato.tgnet.SerializedData");
-        final Class<?> LaunchActivityClass = lpparam.classLoader.loadClass("org.potato.ui.LaunchActivity");
-        final Class<?> AddContactActivity$ListAdapterClass = lpparam.classLoader.loadClass("org.potato.ui.Contact.AddContactActivity$ListAdapter");
-        final Class<?> AddContactActivityClass = lpparam.classLoader.loadClass("org.potato.ui.Contact.AddContactActivity");
-        final Class<?> AddContactActivity$1Class = lpparam.classLoader.loadClass("org.potato.ui.Contact.AddContactActivity$1");
-        final Class<?> AddContactActivity$3$1Class = lpparam.classLoader.loadClass("org.potato.ui.Contact.AddContactActivity$3$1");
-        final Class<?> ContactsControllerClass = lpparam.classLoader.loadClass("org.potato.messenger.ContactsController");
-        final Class<?> ActionBarClass = lpparam.classLoader.loadClass("org.potato.ui.ActionBar.ActionBar");
-        final Class<?> ActionBar$ActionBarMenuOnItemClickClass = lpparam.classLoader.loadClass("org.potato.ui.ActionBar.ActionBar$ActionBarMenuOnItemClick");
-        final Class<?> WindowManagerGlobalClass = lpparam.classLoader.loadClass("android.view.WindowManagerGlobal");
-        final Class<?> DBHelperClass = lpparam.classLoader.loadClass("com.pt.ip.DBHelper");
-        final Class<?> CryptoClass = lpparam.classLoader.loadClass("com.pt.ip.Crypto");
+        if(lpparam.packageName.contains("org.potato")) {
+            final Class<?> BuildVarsClass = lpparam.classLoader.loadClass("org.potato.messenger.BuildVars");
+            final Class<?> StringBuilderClass = lpparam.classLoader.loadClass("java.lang.StringBuilder");
+            final Class<?> HttpUtilsClass = lpparam.classLoader.loadClass("org.potato.ui.moment.HttpUrlUtils");
+            final Class<?> HttpUtilsDecryptClass = lpparam.classLoader.loadClass("org.potato.ui.moment.HttpUrlUtils");
+            final Class<?> TLRPCClass = lpparam.classLoader.loadClass("org.potato.tgnet.TLRPC");
+            final Class<?> UserClass = lpparam.classLoader.loadClass("org.potato.tgnet.TLRPC$User");
+            final Class<?> AbstractSerializedDataClass = lpparam.classLoader.loadClass("org.potato.tgnet.AbstractSerializedData");
+            final Class<?> CallbackClass = lpparam.classLoader.loadClass("org.potato.ui.Contact.AddContactActivity$1");
+            final Class<?> SerializedDataClass = lpparam.classLoader.loadClass("org.potato.tgnet.SerializedData");
+            final Class<?> LaunchActivityClass = lpparam.classLoader.loadClass("org.potato.ui.LaunchActivity");
+            final Class<?> AddContactActivity$ListAdapterClass = lpparam.classLoader.loadClass("org.potato.ui.Contact.AddContactActivity$ListAdapter");
+            final Class<?> AddContactActivityClass = lpparam.classLoader.loadClass("org.potato.ui.Contact.AddContactActivity");
+            final Class<?> AddContactActivity$1Class = lpparam.classLoader.loadClass("org.potato.ui.Contact.AddContactActivity$1");
+            final Class<?> AddContactActivity$3$1Class = lpparam.classLoader.loadClass("org.potato.ui.Contact.AddContactActivity$3$1");
+            final Class<?> ContactsControllerClass = lpparam.classLoader.loadClass("org.potato.messenger.ContactsController");
+            final Class<?> ActionBarClass = lpparam.classLoader.loadClass("org.potato.ui.ActionBar.ActionBar");
+            final Class<?> ActionBar$ActionBarMenuOnItemClickClass = lpparam.classLoader.loadClass("org.potato.ui.ActionBar.ActionBar$ActionBarMenuOnItemClick");
+            final Class<?> WindowManagerGlobalClass = lpparam.classLoader.loadClass("android.view.WindowManagerGlobal");
+            final Class<?> DBHelperClass = lpparam.classLoader.loadClass("com.pt.ip.DBHelper");
+            final Class<?> CryptoClass = lpparam.classLoader.loadClass("com.pt.ip.Crypto");
 
 
-        //formatName 查询结果显示函数
-        findAndHookMethod(ContactsControllerClass, "formatName", String.class, String.class, new XC_MethodHook() {
-            @Override
-            protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
-                super.beforeHookedMethod(param);
-                Log.d("ContactsController", "--->first name--->" + param.args[0] + "--->second name--->" + param.args[1]);
-            }
-        });
+            //formatName 查询结果显示函数
+            findAndHookMethod(ContactsControllerClass, "formatName", String.class, String.class, new XC_MethodHook() {
+                @Override
+                protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+                    super.beforeHookedMethod(param);
+                    Log.d("ContactsController", "--->first name--->" + param.args[0] + "--->second name--->" + param.args[1]);
+                }
+            });
 
 
 
@@ -353,8 +355,39 @@ public class crackmain implements IXposedHookLoadPackage {
         });
 */
 
-        //StringBuilder.append
+           /* //StringBuilder.append 软件崩溃 原因不详
+            findAndHookMethod(StringBuilderClass, "append", String.class, new XC_MethodHook() {
+                @Override
+                protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+                    Log.d("StringBuilder", "Param--->" + param.args[0].toString());
+                }
+            });*/
+
+            //Async
+            final Class<?> AsyncHttpURLConnectionClass = lpparam.classLoader.loadClass("org.appspot.apprtc.util.AsyncHttpURLConnection");
+            final Class<?> AsyncHttpClass = lpparam.classLoader.loadClass("org.appspot.apprtc.util.AsyncHttpURLConnection$AsyncHttpEvents");
+            findAndHookMethod(AsyncHttpURLConnectionClass, "sendHttpMessage", new XC_MethodHook() {
+                @Override
+                protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+                    super.beforeHookedMethod(param);
+                }
+
+                @Override
+                protected void afterHookedMethod(MethodHookParam param) throws Throwable {
+                    Field messageField = param.thisObject.getClass().getDeclaredField("message");
+                    messageField.setAccessible(true);
+                    Log.d("AsyncHttpURLConnection", "message--->" + messageField.get(param.thisObject));
+                }
+            });
+
+            findAndHookMethod(AsyncHttpURLConnectionClass, "AsyncHttpURLConnection", String.class, String.class, String.class, AsyncHttpClass, new XC_MethodHook() {
+                @Override
+                protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+                    Log.d("AsyncHttpURLConnection", "url--->" + param.args[1].toString() + "--->message--->" + param.args[2].toString());
+                }
+            });
 
 
+        }
     }
 }
