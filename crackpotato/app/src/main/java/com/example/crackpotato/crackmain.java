@@ -1,28 +1,14 @@
 package com.example.crackpotato;
 
 import android.util.Log;
-import android.content.Context;
-import android.os.Bundle;
-import android.os.Handler;
-import android.view.ViewGroup;
-
-
-import java.lang.reflect.Constructor;
-import java.lang.reflect.Field;
-import java.lang.Class;
-import java.lang.reflect.Method;
-
-import javax.security.auth.callback.Callback;
 
 import de.robv.android.xposed.IXposedHookLoadPackage;
 import de.robv.android.xposed.XC_MethodHook;
 import de.robv.android.xposed.XposedBridge;
-import de.robv.android.xposed.XposedHelpers;
 import de.robv.android.xposed.callbacks.XC_LoadPackage;
-import static de.robv.android.xposed.XposedHelpers.findAndHookMethod;
-import static de.robv.android.xposed.XposedHelpers.findClass;
-import static de.robv.android.xposed.XposedHelpers.findField;
+
 import static de.robv.android.xposed.XposedHelpers.callMethod;
+import static de.robv.android.xposed.XposedHelpers.findAndHookMethod;
 
 
 public class crackmain implements IXposedHookLoadPackage{
@@ -46,6 +32,8 @@ public class crackmain implements IXposedHookLoadPackage{
             final Class<?> AddContactActivity$1Class=lpparam.classLoader.loadClass("org.potato.ui.Contact.AddContactActivity$1");
             final Class<?> AddContactActivity$3$1Class=lpparam.classLoader.loadClass("org.potato.ui.Contact.AddContactActivity$3$1");
             final Class<?> ContactsControllerClass=lpparam.classLoader.loadClass("org.potato.messenger.ContactsController");
+            final Class<?> ActionBarClass = lpparam.classLoader.loadClass("org.potato.ui.ActionBar.ActionBar");
+            final Class<?> ActionBar$ActionBarMenuOnItemClickClass = lpparam.classLoader.loadClass("org.potato.ui.ActionBar.ActionBar$ActionBarMenuOnItemClick");
 
             //formatName 查询结果显示函数
             findAndHookMethod(ContactsControllerClass, "formatName", String.class, String.class, new XC_MethodHook() {
@@ -57,6 +45,7 @@ public class crackmain implements IXposedHookLoadPackage{
             });
 
 
+/*
 
             //修改BuildVars的DEBUG值
             Field DEBUG=BuildVarsClass.getDeclaredField("DEBUG");
@@ -294,10 +283,23 @@ public class crackmain implements IXposedHookLoadPackage{
                     Log.d("ListAdapter","After Hook"+param.args[1].toString());
                 }
             });
+*/
+            //获取ActionBar的init 并调用点击 失败
+            findAndHookMethod(ActionBarClass, "init", new XC_MethodHook() {
+                @Override
+                protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+                    super.beforeHookedMethod(param);
+                }
 
-            //明天测试
-            Object AddContactActivity=AddContactActivityClass.newInstance();
-            XposedHelpers.callMethod(AddContactActivity,"searchUser","【要查询的手机号】");
+                @Override
+                protected void afterHookedMethod(MethodHookParam param) throws Throwable {
+                    Object ActionBar$ActionBarMenuOnItemClickObj = ActionBar$ActionBarMenuOnItemClickClass.newInstance();
+                    callMethod(ActionBar$ActionBarMenuOnItemClickObj, "onItemClick", 1);
+                }
+            });
+
+            //反射ui父类
+
 
 
         }
