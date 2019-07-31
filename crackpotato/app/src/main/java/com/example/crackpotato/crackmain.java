@@ -21,42 +21,42 @@ import static de.robv.android.xposed.XposedHelpers.callMethod;
 import static de.robv.android.xposed.XposedHelpers.findAndHookMethod;
 
 
-public class crackmain implements IXposedHookLoadPackage{
+public class crackmain implements IXposedHookLoadPackage {
     @Override
-    public void handleLoadPackage(final XC_LoadPackage.LoadPackageParam lpparam)throws Throwable{
-        if(lpparam.packageName.contains("org.potato")){
-            XposedBridge.log(lpparam.packageName);
+    public void handleLoadPackage(final XC_LoadPackage.LoadPackageParam lpparam) throws Throwable {
+        XposedBridge.log(lpparam.packageName);
 
-            final Class<?> BuildVarsClass=lpparam.classLoader.loadClass("org.potato.messenger.BuildVars");
-            final Class<?> StringBuilderClass=lpparam.classLoader.loadClass("java.lang.StringBuilder");
-            final Class<?> HttpUtilsClass=lpparam.classLoader.loadClass("org.potato.ui.moment.HttpUrlUtils");
-            final Class<?> HttpUtilsDecryptClass=lpparam.classLoader.loadClass("org.potato.ui.moment.HttpUrlUtils");
-            final Class<?> TLRPCClass=lpparam.classLoader.loadClass("org.potato.tgnet.TLRPC");
-            final Class<?> UserClass=lpparam.classLoader.loadClass("org.potato.tgnet.TLRPC$User");
-            final Class<?> AbstractSerializedDataClass=lpparam.classLoader.loadClass("org.potato.tgnet.AbstractSerializedData");
-            final Class<?> CallbackClass=lpparam.classLoader.loadClass("org.potato.ui.Contact.AddContactActivity$1");
-            final Class<?> SerializedDataClass=lpparam.classLoader.loadClass("org.potato.tgnet.SerializedData");
-            final Class<?> LaunchActivityClass=lpparam.classLoader.loadClass("org.potato.ui.LaunchActivity");
-            final Class<?> AddContactActivity$ListAdapterClass=lpparam.classLoader.loadClass("org.potato.ui.Contact.AddContactActivity$ListAdapter");
-            final Class<?> AddContactActivityClass=lpparam.classLoader.loadClass("org.potato.ui.Contact.AddContactActivity");
-            final Class<?> AddContactActivity$1Class=lpparam.classLoader.loadClass("org.potato.ui.Contact.AddContactActivity$1");
-            final Class<?> AddContactActivity$3$1Class=lpparam.classLoader.loadClass("org.potato.ui.Contact.AddContactActivity$3$1");
-            final Class<?> ContactsControllerClass=lpparam.classLoader.loadClass("org.potato.messenger.ContactsController");
-            final Class<?> ActionBarClass = lpparam.classLoader.loadClass("org.potato.ui.ActionBar.ActionBar");
-            final Class<?> ActionBar$ActionBarMenuOnItemClickClass = lpparam.classLoader.loadClass("org.potato.ui.ActionBar.ActionBar$ActionBarMenuOnItemClick");
+        final Class<?> BuildVarsClass = lpparam.classLoader.loadClass("org.potato.messenger.BuildVars");
+        final Class<?> StringBuilderClass = lpparam.classLoader.loadClass("java.lang.StringBuilder");
+        final Class<?> HttpUtilsClass = lpparam.classLoader.loadClass("org.potato.ui.moment.HttpUrlUtils");
+        final Class<?> HttpUtilsDecryptClass = lpparam.classLoader.loadClass("org.potato.ui.moment.HttpUrlUtils");
+        final Class<?> TLRPCClass = lpparam.classLoader.loadClass("org.potato.tgnet.TLRPC");
+        final Class<?> UserClass = lpparam.classLoader.loadClass("org.potato.tgnet.TLRPC$User");
+        final Class<?> AbstractSerializedDataClass = lpparam.classLoader.loadClass("org.potato.tgnet.AbstractSerializedData");
+        final Class<?> CallbackClass = lpparam.classLoader.loadClass("org.potato.ui.Contact.AddContactActivity$1");
+        final Class<?> SerializedDataClass = lpparam.classLoader.loadClass("org.potato.tgnet.SerializedData");
+        final Class<?> LaunchActivityClass = lpparam.classLoader.loadClass("org.potato.ui.LaunchActivity");
+        final Class<?> AddContactActivity$ListAdapterClass = lpparam.classLoader.loadClass("org.potato.ui.Contact.AddContactActivity$ListAdapter");
+        final Class<?> AddContactActivityClass = lpparam.classLoader.loadClass("org.potato.ui.Contact.AddContactActivity");
+        final Class<?> AddContactActivity$1Class = lpparam.classLoader.loadClass("org.potato.ui.Contact.AddContactActivity$1");
+        final Class<?> AddContactActivity$3$1Class = lpparam.classLoader.loadClass("org.potato.ui.Contact.AddContactActivity$3$1");
+        final Class<?> ContactsControllerClass = lpparam.classLoader.loadClass("org.potato.messenger.ContactsController");
+        final Class<?> ActionBarClass = lpparam.classLoader.loadClass("org.potato.ui.ActionBar.ActionBar");
+        final Class<?> ActionBar$ActionBarMenuOnItemClickClass = lpparam.classLoader.loadClass("org.potato.ui.ActionBar.ActionBar$ActionBarMenuOnItemClick");
+        final Class<?> WindowManagerGlobalClass = lpparam.classLoader.loadClass("android.view.WindowManagerGlobal");
 
-            //formatName 查询结果显示函数
-            findAndHookMethod(ContactsControllerClass, "formatName", String.class, String.class, new XC_MethodHook() {
-                @Override
-                protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
-                    super.beforeHookedMethod(param);
-                    Log.d("ContactsController","--->first name--->"+param.args[0]+"--->second name--->"+param.args[1]);
-                }
-            });
-
-
+        //formatName 查询结果显示函数
+        findAndHookMethod(ContactsControllerClass, "formatName", String.class, String.class, new XC_MethodHook() {
+            @Override
+            protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+                super.beforeHookedMethod(param);
+                Log.d("ContactsController", "--->first name--->" + param.args[0] + "--->second name--->" + param.args[1]);
+            }
+        });
 
 
+
+            /*
             //修改BuildVars的DEBUG值
             Field DEBUG=BuildVarsClass.getDeclaredField("DEBUG");
             Field DEBUG_MOMENT=BuildVarsClass.getDeclaredField("DEBUG_MOMENT");
@@ -309,7 +309,6 @@ public class crackmain implements IXposedHookLoadPackage{
             });
 
             //反射ui父类 mViewsField no recevier
-            final Class<?> WindowManagerGlobalClass = lpparam.classLoader.loadClass("android.view.WindowManagerGlobal");
             Field mViewsField = WindowManagerGlobalClass.getDeclaredField("mViews");
             Field sDefaultWindowManagerField = WindowManagerGlobalClass.getDeclaredField("sDefaultWindowManager");
             mViewsField.setAccessible(true);
@@ -318,11 +317,28 @@ public class crackmain implements IXposedHookLoadPackage{
             Log.d("ReflectUI", "mWindowManagerString--->" + instance);
             Collections.unmodifiableList((ArrayList<View>) mViewsField.get(instance));
             Log.d("ReflectUI", "mViewsFieldString--->" + mViewsField.get(instance).toString());
+            */
+        final Class<?> CryptoClass = lpparam.classLoader.loadClass("com.pt.ip.Crypto");
+        findAndHookMethod(CryptoClass, "decrypt", byte[].class, new XC_MethodHook() {
+            @Override
+            protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+                Log.d("Cypto", "cypted args--->" + param.args[0].toString());
+            }
 
+            @Override
+            protected void afterHookedMethod(MethodHookParam param) throws Throwable {
+                Log.d("Cypto", "decrypted args--->" + param.getResult().toString());
+            }
+        });
 
-
-
-
-        }
+        //onSearch 修改传入参数
+        findAndHookMethod(CallbackClass, "onSearch", CharSequence.class, new XC_MethodHook() {
+            @Override
+            protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+                super.beforeHookedMethod(param);
+                param.args[0] = "[假手机号]";
+                Log.d("createView", "--->onSearch--->param--->" + param.args[0]);
+            }
+        });
     }
 }
