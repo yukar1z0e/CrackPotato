@@ -16,7 +16,6 @@ import static de.robv.android.xposed.XposedHelpers.findField;
 
 public class crackmain implements IXposedHookLoadPackage {
     private XC_LoadPackage.LoadPackageParam lpparam = null;
-
     @Override
     public void handleLoadPackage(final XC_LoadPackage.LoadPackageParam loadPackageParam) throws Throwable {
         if (loadPackageParam.packageName.contains("org.potato")) {
@@ -34,11 +33,9 @@ public class crackmain implements IXposedHookLoadPackage {
     public void getInfo() {
         final Class<?> AddContactActivity$UserLabelClass = findClass("org.potato.ui.Contact.AddContactActivity$UserLabel", lpparam.classLoader);
         final Class<?> TLRPC$UserClass = findClass("org.potato.tgnet.TLRPC$User", lpparam.classLoader);
-
         findAndHookMethod(AddContactActivity$UserLabelClass, "setData", TLRPC$UserClass, boolean.class, String.class, new XC_MethodHook() {
             @Override
             protected void afterHookedMethod(MethodHookParam param) throws Throwable {
-
                 Field first_nameField = findField(TLRPC$UserClass, "first_name");
                 Field last_nameField = findField(TLRPC$UserClass, "last_name");
                 Field usernameField = findField(TLRPC$UserClass, "username");
@@ -51,7 +48,6 @@ public class crackmain implements IXposedHookLoadPackage {
                 Field statusField = findField(TLRPC$UserClass, "status");
                 Field mutual_contactField = findField(TLRPC$UserClass, "mutual_contact");
                 Field explicit_contentField = findField(TLRPC$UserClass, "explicit_content");
-
                 Log.d("crackPotato",
                         " \nfirst name: " + first_nameField.get(param.args[0])
                                 + "\nlast name: " + last_nameField.get(param.args[0])
@@ -66,10 +62,7 @@ public class crackmain implements IXposedHookLoadPackage {
                                 + "\nis mutual contact: " + mutual_contactField.get(param.args[0])
                                 + "\nis explicit content: " + explicit_contentField.get(param.args[0])
                 );
-
             }
         });
     }
-
-
 }
