@@ -1,8 +1,8 @@
-package com.example.crackpotato;
+package com.yukar1z0e.crackpotato;
 
 import org.junit.Test;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 /**
  * Example local unit test, which will execute on the development machine (host).

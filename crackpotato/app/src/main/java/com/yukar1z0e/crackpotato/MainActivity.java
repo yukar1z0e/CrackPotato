@@ -1,8 +1,8 @@
-package com.example.crackpotato;
-
-import androidx.appcompat.app.AppCompatActivity;
+package com.yukar1z0e.crackpotato;
 
 import android.os.Bundle;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 
