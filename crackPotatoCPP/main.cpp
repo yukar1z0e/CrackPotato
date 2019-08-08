@@ -42,7 +42,6 @@ void search(string phoneNumber) {
     cout<<"继续查询"<<endl;
 }
 
-
 int main() {
     while (true)
     {
