@@ -1,0 +1,3810 @@
+first entering selector
+java
+found is true
+before:org.potato.tgnet.ConnectionsManager$0$0
+after:org.potato.tgnet.ConnectionsManager$0$0
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.potato.tgnet.ConnectionsManager$0$0.run [0 overload(s)]
+found is true
+before:org.potato.tgnet.ConnectionsManager$0
+after:org.potato.tgnet.ConnectionsManager$0
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.potato.tgnet.ConnectionsManager$0.run [0 overload(s)]
+found is true
+before:org.potato.tgnet.ConnectionsManager$0
+after:org.potato.tgnet.ConnectionsManager$0
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.potato.tgnet.ConnectionsManager$0.onReceive [0 overload(s)]
+found is true
+before:org.potato.tgnet.ConnectionsManager$0
+after:org.potato.tgnet.ConnectionsManager$0
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.potato.tgnet.ConnectionsManager$0.run [0 overload(s)]
+found is true
+before:org.potato.tgnet.ConnectionsManager$0
+after:org.potato.tgnet.ConnectionsManager$0
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.potato.tgnet.ConnectionsManager$0.run [0 overload(s)]
+found is true
+before:org.potato.tgnet.ConnectionsManager$0
+after:org.potato.tgnet.ConnectionsManager$0
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.potato.tgnet.ConnectionsManager$0.run [0 overload(s)]
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager$0$0.run
+
+arg[0]: -0000000000
+Transfer Object to JSON
+arg[0]: "-0000000000"
+arg[0]: 0
+arg[0]: null
+Transfer Object to JSON
+arg[0]: null
+arg[0]: 0
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+found is true
+before:org.potato.tgnet.ConnectionsManager$0$0$0
+after:org.potato.tgnet.ConnectionsManager$0$0$0
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.potato.tgnet.ConnectionsManager$0$0$0.run [0 overload(s)]
+found is true
+before:org.potato.tgnet.ConnectionsManager
+after:org.potato.tgnet.ConnectionsManager
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.potato.tgnet.ConnectionsManager.access$000 [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.access$000 [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.access$0000 [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.access$000 [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.access$000 [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.access$000 [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.access$000 [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.access$000 [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.access$000 [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.access$000 [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.access$000 [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.access$000 [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.access$000 [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.checkConnection [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.checkDns [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.generateActivationCode [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.generateFileName [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.getCurrentIp [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.getCurrentNetworkType [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.getInstance [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.getIpAndPortByUdp [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.getStartTimeOfDay [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.ipToNum [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.isConnectedOrConnectingToWiFi [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.isConnectedToWiFi [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.isNetworkOnline [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.isRoaming [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.lambda$onConnectionTimeout$0 [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.lambda$onMtr$0 [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.native_applyDatacenterAddress [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.native_applyDnsConfig [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.native_bindRequestToGuid [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.native_cancelRequest [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.native_cancelRequestsForGuid [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.native_cleanUp [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.native_getAuthKeyId [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.native_getConfig [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.native_getConnectionState [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.native_getCurrentBackupAddressConnectionState [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.native_getCurrentTime [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.native_getCurrentTimeMillis [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.native_getTimeDifference [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.native_init [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.native_isTestBackend [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.native_pauseNetwork [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.native_resumeNetwork [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.native_sendRequest [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.native_setJava [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.native_setLangCode [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.native_setLocalIpAndPort [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.native_setNetworkAvailable [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.native_setProxySettings [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.native_setPushConnectionEnabled [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.native_setUseIpv0 [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.native_setUserId [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.native_switchBackend [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.native_updateDcSettings [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.onBytesReceived [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.onBytesSent [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.onConnectionStateChanged [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.onConnectionTimeout [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.onInternalPushReceived [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.onLogout [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.onMtr [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.onRequestNewServerIpAndPort [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.onSessionCreated [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.onUnparsedMessageReceived [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.onUpdate [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.onUpdateConfig [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.requestNewServerIpAndPort [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.useIpv0Address [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.applyDatacenterAddress [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.bindRequestToGuid [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.cancelRequest [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.cancelRequestsForGuid [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.cleanup [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.generateClassGuid [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.getAuthKeyId [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.getConfig [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.getConnectionState [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.getCurrentTime [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.getCurrentTimeMillis [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.getPauseTime [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.getTimeDifference [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.init [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.initDeviceInfo [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.registerDeviceUniqueNumber [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.resumeNetworkMaybe [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.sendRequest [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.setAppPaused [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.setIsUpdating [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.setLangCode [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.setPushConnectionEnabled [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.setUserId [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.switchBackend [0 overload(s)]
+Tracing org.potato.tgnet.ConnectionsManager.updateDcSettings [0 overload(s)]
+found is true
+before:org.potato.tgnet.ConnectionsManager$00
+after:org.potato.tgnet.ConnectionsManager$00
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.potato.tgnet.ConnectionsManager$00.run [0 overload(s)]
+found is true
+before:org.potato.tgnet.ConnectionsManager$00
+after:org.potato.tgnet.ConnectionsManager$00
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.potato.tgnet.ConnectionsManager$00.run [0 overload(s)]
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager.onBytesSent
+
+arg[0]: 00
+arg[0]: 0
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onBytesSent
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onBytesReceived
+
+arg[0]: 000
+arg[0]: 0
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onBytesReceived
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager.onBytesSent
+
+arg[0]: 00
+arg[0]: 0
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onBytesSent
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x000f0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x000e0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x000d0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x000c0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x000b0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x000a0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x0000a","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x000a0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x000f0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x000ea","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x000da","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.cancelRequestsForGuid
+
+arg[0]: 0
+
+*** entered org.potato.tgnet.ConnectionsManager.native_cancelRequestsForGuid
+
+arg[0]: 0
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x0000a","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_cancelRequestsForGuid
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.cancelRequestsForGuid
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x0000a","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00ffa","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00fe0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.generateClassGuid
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.potato.tgnet.ConnectionsManager.generateClassGuid
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00fba","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00faa","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00f00","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00f00","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00f0a","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00f00","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00f00","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00f00","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00f00","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00f00","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00ec0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.onBytesSent
+
+arg[0]: 00
+arg[0]: 0
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onBytesSent
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00eb0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00ea0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00e0a","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onBytesReceived
+
+arg[0]: 000
+arg[0]: 0
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onBytesReceived
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00e00","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.onBytesSent
+
+arg[0]: 00
+arg[0]: 0
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onBytesSent
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00e00","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00e00","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00e00","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00e00","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00e00","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00f00","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.sendRequest
+
+arg[0]: org.potato.tgnet.PTRPC0$PT_contacts_resolvePhone@0ac0c0
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00e0a","$weakRef":000}
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00de0","$weakRef":000}
+
+*** entered org.potato.tgnet.ConnectionsManager.sendRequest
+
+arg[0]: org.potato.tgnet.PTRPC0$PT_contacts_resolvePhone@0ac0c0
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00db0","$weakRef":000}
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00da0","$weakRef":000}
+arg[0]: null
+Transfer Object to JSON
+arg[0]: null
+arg[0]: 0
+
+*** entered org.potato.tgnet.ConnectionsManager.sendRequest
+
+arg[0]: org.potato.tgnet.PTRPC0$PT_contacts_resolvePhone@0ac0c0
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00d00","$weakRef":000}
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00d00","$weakRef":000}
+arg[0]: null
+Transfer Object to JSON
+arg[0]: null
+arg[0]: null
+Transfer Object to JSON
+arg[0]: null
+arg[0]: 0
+arg[0]: 0000000000
+arg[0]: 0
+arg[0]: true
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+retval: 00
+
+trans object: 00
+
+*** exiting org.potato.tgnet.ConnectionsManager.sendRequest
+
+retval: 00
+
+trans object: 00
+
+*** exiting org.potato.tgnet.ConnectionsManager.sendRequest
+
+retval: 00
+
+trans object: 00
+
+*** exiting org.potato.tgnet.ConnectionsManager.sendRequest
+
+*** entered org.potato.tgnet.ConnectionsManager.native_sendRequest
+
+arg[0]: -000000000
+Transfer Object to JSON
+arg[0]: "-000000000"
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00d0a","$weakRef":000}
+arg[0]: null
+Transfer Object to JSON
+arg[0]: null
+arg[0]: null
+Transfer Object to JSON
+arg[0]: null
+arg[0]: 0
+arg[0]: 0000000000
+arg[0]: 0
+arg[0]: true
+arg[0]: 00
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager.onBytesSent
+
+arg[0]: 00
+arg[0]: 0
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onBytesSent
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_sendRequest
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00d00","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00ce0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00cd0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00cc0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onBytesReceived
+
+arg[0]: 000
+arg[0]: 0
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onBytesReceived
+
+*** entered org.potato.tgnet.ConnectionsManager$0$0.run
+
+arg[0]: -0000000000
+Transfer Object to JSON
+arg[0]: "-0000000000"
+arg[0]: 0
+arg[0]: null
+Transfer Object to JSON
+arg[0]: null
+arg[0]: 0
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0$0$0.run
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0$0$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00d0a","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00ca0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00c00","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00c00","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00d00","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00c0a","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00c0a","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00c00","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00c00","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00c00","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00c00","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00c00","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00be0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00bd0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00bc0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00bb0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00baa","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00b00","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00b00","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00b00","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00b00","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00b00","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00b00","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00b00","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00b00","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00b00","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00afa","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00ae0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00ad0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00ac0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00ab0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00aa0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00a00","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00a00","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00a00","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00a0a","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00a0a","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.onBytesSent
+
+arg[0]: 00
+arg[0]: 0
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onBytesSent
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00a00","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00a00","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00a00","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onBytesReceived
+
+arg[0]: 000
+arg[0]: 0
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onBytesReceived
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.onBytesSent
+
+arg[0]: 00
+arg[0]: 0
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onBytesSent
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00a00","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x000f0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x000e0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x000d0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x000c0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x000b0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x000a0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x000f0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x000e0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x000d0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x000c0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x000b0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x000a0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x000f0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x000e0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x000d0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x000c0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.sendRequest
+
+arg[0]: org.potato.tgnet.TLRPC$TL_account_updateStatus@e0a000
+Transfer Object to JSON
+arg[0]: {"$handle":"0x000a0","$weakRef":000}
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: null
+Transfer Object to JSON
+arg[0]: null
+arg[0]: null
+Transfer Object to JSON
+arg[0]: null
+arg[0]: 0
+arg[0]: 0000000000
+arg[0]: 0
+arg[0]: true
+
+retval: 00
+
+trans object: 00
+
+*** exiting org.potato.tgnet.ConnectionsManager.sendRequest
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.native_sendRequest
+
+arg[0]: -000000000
+Transfer Object to JSON
+arg[0]: "-000000000"
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: null
+Transfer Object to JSON
+arg[0]: null
+arg[0]: null
+Transfer Object to JSON
+arg[0]: null
+arg[0]: 0
+arg[0]: 0000000000
+arg[0]: 0
+arg[0]: true
+arg[0]: 00
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager.onBytesSent
+
+arg[0]: 00
+arg[0]: 0
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onBytesSent
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_sendRequest
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onBytesReceived
+
+arg[0]: 000
+arg[0]: 0
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onBytesReceived
+
+*** entered org.potato.tgnet.ConnectionsManager$0$0.run
+
+arg[0]: -000000000
+Transfer Object to JSON
+arg[0]: "-000000000"
+arg[0]: 0
+arg[0]: null
+Transfer Object to JSON
+arg[0]: null
+arg[0]: 0
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0$0$0.run
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0$0$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x000f0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x000e0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onBytesSent
+
+arg[0]: 00
+arg[0]: 0
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onBytesSent
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x000d0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x000c0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x000b0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x000a0","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onBytesReceived
+
+arg[0]: 000
+arg[0]: 0
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onBytesReceived
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.onBytesSent
+
+arg[0]: 00
+arg[0]: 0
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onBytesSent
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager.onUpdate
+
+*** entered org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+*** entered org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+retval: 0000000000
+
+trans object: 0000000000
+
+*** exiting org.potato.tgnet.ConnectionsManager.native_getCurrentTime
+
+*** entered org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: org.potato.tgnet.ConnectionsManager@d000c00
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.potato.tgnet.ConnectionsManager.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.tgnet.ConnectionsManager$0.run
+
+*** entered org.potato.tgnet.ConnectionsManager.onUpdate
+
+retval: undefined

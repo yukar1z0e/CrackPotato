@@ -1,0 +1,1261 @@
+first entering selector
+java
+found is true
+before:org.potato.messenger.FileLog$0
+after:org.potato.messenger.FileLog$0
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.potato.messenger.FileLog$0.run [0 overload(s)]
+found is true
+before:org.potato.messenger.FileLog$0
+after:org.potato.messenger.FileLog$0
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.potato.messenger.FileLog$0.run [0 overload(s)]
+found is true
+before:org.potato.messenger.FileLog$0
+after:org.potato.messenger.FileLog$0
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.potato.messenger.FileLog$0.run [0 overload(s)]
+found is true
+before:org.potato.messenger.FileLog$0
+after:org.potato.messenger.FileLog$0
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.potato.messenger.FileLog$0.run [0 overload(s)]
+found is true
+before:org.potato.messenger.FileLog$0
+after:org.potato.messenger.FileLog$0
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.potato.messenger.FileLog$0.run [0 overload(s)]
+found is true
+before:org.potato.messenger.FileLog
+after:org.potato.messenger.FileLog
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.potato.messenger.FileLog.access$000 [0 overload(s)]
+Tracing org.potato.messenger.FileLog.access$000 [0 overload(s)]
+Tracing org.potato.messenger.FileLog.cleanupLogs [0 overload(s)]
+Tracing org.potato.messenger.FileLog.d [0 overload(s)]
+Tracing org.potato.messenger.FileLog.e [0 overload(s)]
+Tracing org.potato.messenger.FileLog.getInstance [0 overload(s)]
+Tracing org.potato.messenger.FileLog.getNetworkLogPath [0 overload(s)]
+Tracing org.potato.messenger.FileLog.i [0 overload(s)]
+Tracing org.potato.messenger.FileLog.mix [0 overload(s)]
+Tracing org.potato.messenger.FileLog.w [0 overload(s)]
+
+*** entered org.potato.messenger.FileLog.d
+
+arg[0]: send request org.potato.tgnet.PTRPC0$PT_contacts_resolvePhone@00d00a0 with token = 00
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x000f0","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x000ea","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog$0.run
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x000ca","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x000ba","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x000aa","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.messenger.FileLog.d
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.messenger.FileLog$0.run
+
+*** entered org.potato.messenger.FileLog.d
+
+arg[0]: java received org.potato.tgnet.TLRPC$Vector@f0d0000 error = null object org.potato.tgnet.PTRPC0$PT_contacts_resolvePhone@00d00a0 with request token = 00
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x0000a","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x0000a","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.messenger.FileLog.d
+
+*** entered org.potato.messenger.FileLog$0.run
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x0000a","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x0000a","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x0000a","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.messenger.FileLog$0.run
+
+*** entered org.potato.messenger.FileLog.d
+
+arg[0]: send request org.potato.tgnet.TLRPC$TL_account_updateStatus@0000f0 with token = 00
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00000","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00000","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog$0.run
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00000","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x0000a","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x000fa","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.messenger.FileLog.d
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.messenger.FileLog$0.run
+
+*** entered org.potato.messenger.FileLog.d
+
+arg[0]: java received org.potato.tgnet.TLRPC$TL_boolTrue@000f0f0 error = null object org.potato.tgnet.TLRPC$TL_account_updateStatus@0000f0 with request token = 00
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x000ca","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x000ba","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.messenger.FileLog.d
+
+*** entered org.potato.messenger.FileLog$0.run
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x0000a","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x000e0","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x000d0","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.messenger.FileLog$0.run
+
+*** entered org.potato.messenger.FileLog.d
+
+arg[0]: send request org.potato.tgnet.TLRPC$TL_account_updateStatus@000e000 with token = 00
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x0000a","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x0000a","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog$0.run
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x0000a","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x0000a","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x0000a","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.messenger.FileLog.d
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.messenger.FileLog$0.run
+
+*** entered org.potato.messenger.FileLog.d
+
+arg[0]: java received org.potato.tgnet.TLRPC$TL_boolTrue@00000cd error = null object org.potato.tgnet.TLRPC$TL_account_updateStatus@000e000 with request token = 00
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x0000a","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00ffa","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.messenger.FileLog.d
+
+*** entered org.potato.messenger.FileLog$0.run
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00000","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00fea","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00fda","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.messenger.FileLog$0.run
+
+*** entered org.potato.messenger.FileLog.d
+
+arg[0]: send request org.potato.tgnet.TLRPC$TL_account_updateStatus@de00000 with token = 00
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x0000a","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00000","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog$0.run
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00fba","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00faa","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00f0a","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.messenger.FileLog.d
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.messenger.FileLog$0.run
+
+*** entered org.potato.messenger.FileLog.d
+
+arg[0]: java received org.potato.tgnet.TLRPC$TL_boolTrue@0f00e00 error = null object org.potato.tgnet.TLRPC$TL_account_updateStatus@de00000 with request token = 00
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00f0a","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00f0a","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.messenger.FileLog.d
+
+*** entered org.potato.messenger.FileLog$0.run
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00f00","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00f0a","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00f0a","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.messenger.FileLog$0.run
+
+*** entered org.potato.messenger.FileLog.e
+
+arg[0]: preloading dns
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00f00","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00f0a","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog$0.run
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00f0a","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.access$000
+
+arg[0]: org.potato.messenger.FileLog@ebce0cc
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00efa","$weakRef":00}
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.messenger.FileLog.e
+
+retval: java.io.OutputStreamWriter@00e0ed0
+
+trans object: {"$handle":"0x00eca","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.access$000
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00eba","$weakRef":00}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.access$000
+
+arg[0]: org.potato.messenger.FileLog@ebce0cc
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00eaa","$weakRef":00}
+
+retval: FastDateFormat[dd_MM_yyyy_HH_mm_ss,en_US,Asia/Kuala_Lumpur]
+
+trans object: {"$handle":"0x00e00","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.access$000
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00e0a","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.access$000
+
+arg[0]: org.potato.messenger.FileLog@ebce0cc
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00e0a","$weakRef":000}
+
+retval: java.io.OutputStreamWriter@00e0ed0
+
+trans object: {"$handle":"0x00e0a","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.access$000
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.messenger.FileLog$0.run
+
+*** entered org.potato.messenger.FileLog.d
+
+arg[0]: send request org.potato.tgnet.TLRPC$TL_account_updateStatus@00d0ec0 with token = 00
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00e0a","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00e0a","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog$0.run
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00e0a","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00e0a","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00dfa","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.messenger.FileLog.d
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.messenger.FileLog$0.run
+
+*** entered org.potato.messenger.FileLog.d
+
+arg[0]: java received org.potato.tgnet.TLRPC$TL_boolTrue@a0000ce error = null object org.potato.tgnet.TLRPC$TL_account_updateStatus@00d0ec0 with request token = 00
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00dca","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00dba","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.messenger.FileLog.d
+
+*** entered org.potato.messenger.FileLog$0.run
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00dd0","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00daa","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00d0a","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.messenger.FileLog$0.run
+
+*** entered org.potato.messenger.FileLog.d
+
+arg[0]: send request org.potato.tgnet.TLRPC$TL_account_updateStatus@00b00ef with token = 00
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00de0","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00d0a","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog$0.run
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00d0a","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00d0a","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00d0a","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.messenger.FileLog.d
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.messenger.FileLog$0.run
+
+*** entered org.potato.messenger.FileLog.d
+
+arg[0]: java received org.potato.tgnet.TLRPC$TL_boolTrue@b00d0fc error = null object org.potato.tgnet.TLRPC$TL_account_updateStatus@00b00ef with request token = 00
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00d0a","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00d0a","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog$0.run
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00cea","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.messenger.FileLog.d
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00d00","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00d00","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.messenger.FileLog$0.run
+
+*** entered org.potato.messenger.FileLog.d
+
+arg[0]: send request org.potato.tgnet.TLRPC$TL_account_updateStatus@e00ee00 with token = 00
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00cda","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00cca","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog$0.run
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00caa","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00c0a","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00c0a","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.messenger.FileLog.d
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.messenger.FileLog$0.run
+
+*** entered org.potato.messenger.FileLog.d
+
+arg[0]: java received org.potato.tgnet.TLRPC$TL_boolTrue@a0000da error = null object org.potato.tgnet.TLRPC$TL_account_updateStatus@e00ee00 with request token = 00
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00c0a","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00c0a","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog$0.run
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00c0a","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00c0a","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.messenger.FileLog.d
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00c00","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.messenger.FileLog$0.run
+
+*** entered org.potato.messenger.FileLog.d
+
+arg[0]: send request org.potato.tgnet.TLRPC$TL_account_updateStatus@000ed0b with token = 00
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00c00","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00c0a","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog$0.run
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00bea","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00bda","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00bca","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.messenger.FileLog.d
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.messenger.FileLog$0.run
+
+*** entered org.potato.messenger.FileLog.d
+
+arg[0]: java received org.potato.tgnet.TLRPC$TL_boolTrue@00000e0 error = null object org.potato.tgnet.TLRPC$TL_account_updateStatus@000ed0b with request token = 00
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00b0a","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00b0a","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.messenger.FileLog.d
+
+*** entered org.potato.messenger.FileLog$0.run
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00ba0","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00b0a","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00b0a","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.messenger.FileLog$0.run
+
+*** entered org.potato.messenger.FileLog.d
+
+arg[0]: send request org.potato.tgnet.TLRPC$TL_account_updateStatus@c00ee00 with token = 00
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00bb0","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00b0a","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog$0.run
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00b0a","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00b0a","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00b0a","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.messenger.FileLog.d
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.messenger.FileLog$0.run
+
+*** entered org.potato.messenger.FileLog.d
+
+arg[0]: java received org.potato.tgnet.TLRPC$TL_boolTrue@eddd0a0 error = null object org.potato.tgnet.TLRPC$TL_account_updateStatus@c00ee00 with request token = 00
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00aea","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00ada","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.messenger.FileLog.d
+
+*** entered org.potato.messenger.FileLog$0.run
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00af0","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00aca","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00aba","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.messenger.FileLog$0.run
+
+*** entered org.potato.messenger.FileLog.d
+
+arg[0]: send request org.potato.tgnet.TLRPC$TL_account_updateStatus@0a00ee0 with token = 00
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00b00","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00aaa","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog$0.run
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00a0a","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00a0a","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00a0a","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.messenger.FileLog.d
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.potato.messenger.FileLog$0.run
+
+*** entered org.potato.messenger.FileLog.d
+
+arg[0]: java received org.potato.tgnet.TLRPC$TL_boolTrue@bd00a00 error = null object org.potato.tgnet.TLRPC$TL_account_updateStatus@0a00ee0 with request token = 00
+
+*** entered org.potato.messenger.FileLog.getInstance
+
+retval: org.potato.messenger.FileLog@ebce0cc
+
+trans object: {"$handle":"0x00a0a","$weakRef":000}
+
+*** exiting org.potato.messenger.FileLog.getInstance
